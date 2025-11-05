@@ -1,7 +1,7 @@
 ## hi, i'm violet 💜
 
 ### Current Projects
-- [Jellify](https://github.com/Jellify-Music/App)
+- [Jellify](https://github.com/Jellify-Music)
   - A cross-platform music player for the [Jellyfin Media Server](https://jellyfin.org), powered by React Native
 
 ### Incubating Projects
