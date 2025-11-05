@@ -1,6 +1,4 @@
-## hi 💜
-
-I'm Violet and I like building things 👩‍💻
+## hi, i'm violet 💜
 
 ### Current Projects
 - [Jellify](https://github.com/Jellify-Music/App)
