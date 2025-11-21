@@ -1,6 +1,8 @@
 # hi, i'm violet 💜
 
-[![Sponsors](https://img.shields.io/github/sponsors/anultravioletaurora?label=Sponsors&color=indigo)](https://github.com/sponsors/anultravioletaurora) [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/anultravioletaurora?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Sponsors](https://img.shields.io/github/sponsors/anultravioletaurora?label=Sponsors&color=indigo)](https://github.com/sponsors/anultravioletaurora) [![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://patreon.com/anultravioletaurora?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink) ![Listenbrainz](https://img.shields.io/badge/listenbrainz-orange?logo=musicbrainz&logoColor=white&link=https%3A%2F%2Flistenbrainz.org%2Fuser%2Fanultravioletaurora%2F)
+
+
 
 ## here's what i'm working on 👩‍💻
 [<img alt="Jellify Banner Image" src="https://github.com/Jellify-Music/App/blob/main/assets/transparent-banner.png" width="400" height="200" />](https://github.com/Jellify-Music)<br/>
