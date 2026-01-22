@@ -2,6 +2,7 @@
 
 I like building things and sharing them with the world 🌐
 
+I'm most enthusiastic about [Jellyfin](https://jellyfin.org) - a free and open source media server
 
 ## here's what i'm working on 👩‍💻
 [<img alt="Jellify Banner Image" src="https://github.com/Jellify-Music/App/blob/main/assets/transparent-banner.png" width="350" height="175" />](https://github.com/Jellify-Music)<br/>
