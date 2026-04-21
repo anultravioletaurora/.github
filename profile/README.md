@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| California Rainfall | Cosmic Cycler | 1-900-WEATHER |
+| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
 | Take On Me | Shannon Curtis | 80s kids |
 | Around the World (La La La La La) | ATC | Planet Pop |
-| Running Up That Hill | Meg Myers | Running Up That Hill |
-| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
-| Running Up That Hill | Meg Myers | Running Up That Hill |
 
-_Updated 2026-04-21 01:10 UTC_
+_Updated 2026-04-21 06:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 ---
