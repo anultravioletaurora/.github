@@ -54,6 +54,8 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 _Updated 2026-04-21 12:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
+_Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
+
 ---
 
 ## where you can support me
