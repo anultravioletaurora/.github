@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| California Rainfall | Cosmic Cycler | 1-900-WEATHER |
-| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Take On Me | Shannon Curtis | 80s kids |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| 2 Die 4 | Tove Lo | Dirt Femme |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| I’m Good (Blue) | Bebe Rexha | Bebe |
 
-_Updated 2026-04-21 12:33 UTC_
+_Updated 2026-04-21 18:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
