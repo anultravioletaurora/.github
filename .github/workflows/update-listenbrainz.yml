@@ -1,0 +1,68 @@
+name: Update ListenBrainz recent listens
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch recent listens
+        run: |
+          curl -s "https://api.listenbrainz.org/1/user/anultravioletaurora/listens?count=5" \
+            > /tmp/lb.json
+
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          import json, datetime, pathlib, re
+
+          with open('/tmp/lb.json') as f:
+              data = json.load(f)
+
+          listens = data.get('payload', {}).get('listens', [])
+
+          rows = []
+          for listen in listens:
+              meta = listen.get('track_metadata', {})
+              track = meta.get('track_name', 'Unknown')
+              artist = meta.get('artist_name', 'Unknown')
+              album = meta.get('release_name') or ''
+              rows.append(f"| {track} | {artist} | {album} |")
+
+          updated_at = datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+
+          table = (
+              "| Track | Artist | Album |\n"
+              "|-------|--------|-------|\n"
+              + "\n".join(rows)
+              + f"\n\n_Updated {updated_at}_"
+          )
+
+          readme_path = pathlib.Path('profile/README.md')
+          readme = readme_path.read_text()
+
+          new_readme = re.sub(
+              r'<!-- LISTENBRAINZ:START -->.*?<!-- LISTENBRAINZ:END -->',
+              f'<!-- LISTENBRAINZ:START -->\n{table}\n<!-- LISTENBRAINZ:END -->',
+              readme,
+              flags=re.DOTALL
+          )
+
+          readme_path.write_text(new_readme)
+          print(f"README updated with {len(rows)} listens")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add profile/README.md
+          git diff --staged --quiet || git commit -m 'chore: update recent listens'
+          git push
