@@ -43,7 +43,15 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 ## what i'm listening to
 
 <!-- LISTENBRAINZ:START -->
-_Waiting for first update..._
+| Track | Artist | Album |
+|-------|--------|-------|
+| Take On Me | Shannon Curtis | 80s kids |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Running Up That Hill | Meg Myers | Running Up That Hill |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
+| Running Up That Hill | Meg Myers | Running Up That Hill |
+
+_Updated 2026-04-21 01:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 ---
