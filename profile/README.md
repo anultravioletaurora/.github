@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| UH OH! | Loud Luxury | UH OH! |
-| dose no. 2 | The Maine | The Maine (deluxe) |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
-| America Online | The Midnight | Monsters |
-| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
+| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
+| Stay and Defend | Wolf Gang | Suego Faults |
+| Think it Over | New Constellations | Think it Over |
+| Touch | Parade of Lights | Human Condition, Pt. 1 |
+| Anna Sun | WALK THE MOON | Walk the Moon |
 
-_Updated 2026-04-22 06:48 UTC_
+_Updated 2026-04-22 12:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
