@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| I’m Good (Blue) | Bebe Rexha | Bebe |
+| UH OH! | Loud Luxury | UH OH! |
+| dose no. 2 | The Maine | The Maine (deluxe) |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| America Online | The Midnight | Monsters |
+| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
 
-_Updated 2026-04-21 18:32 UTC_
+_Updated 2026-04-22 00:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
