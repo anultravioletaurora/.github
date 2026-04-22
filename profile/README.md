@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
-| Stay and Defend | Wolf Gang | Suego Faults |
-| Think it Over | New Constellations | Think it Over |
-| Touch | Parade of Lights | Human Condition, Pt. 1 |
-| Anna Sun | WALK THE MOON | Walk the Moon |
+| Folds Like Origami | Kainalu | Lotus Gate |
+| Kamikaze Mushroom Palace | Kainalu | Lotus Gate |
+| Lotus Gate | Kainalu | Lotus Gate |
+| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
+| Love Nebula | Kainalu | Audiotree Live |
 
-_Updated 2026-04-22 12:32 UTC_
+_Updated 2026-04-22 18:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
