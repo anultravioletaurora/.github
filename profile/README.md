@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| swordsman | Night Tapes | portals//polarities |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Folds Like Origami | Kainalu | Lotus Gate |
 | Kamikaze Mushroom Palace | Kainalu | Lotus Gate |
 | Lotus Gate | Kainalu | Lotus Gate |
-| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
-| Love Nebula | Kainalu | Audiotree Live |
 
-_Updated 2026-04-22 18:31 UTC_
+_Updated 2026-04-23 00:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
