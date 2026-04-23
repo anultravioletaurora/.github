@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Tightrope | Tinashe | BB/ANG3L |
+| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
+| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
 | Different Music (feat. glimmers) | Starletta, Glimmers | Neon Cowboy |
 | Cellophane | Starletta | Neon Cowboy |
-| From a Distance | Starletta | Neon Cowboy |
-| Secondhand | Starletta | Neon Cowboy |
-| Haunted | Starletta | Neon Cowboy |
 
-_Updated 2026-04-23 12:31 UTC_
+_Updated 2026-04-23 18:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
