@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Folds Like Origami | Kainalu | Lotus Gate |
-| Kamikaze Mushroom Palace | Kainalu | Lotus Gate |
-| Lotus Gate | Kainalu | Lotus Gate |
+| Different Music (feat. glimmers) | Starletta, Glimmers | Neon Cowboy |
+| Cellophane | Starletta | Neon Cowboy |
+| From a Distance | Starletta | Neon Cowboy |
+| Secondhand | Starletta | Neon Cowboy |
+| Haunted | Starletta | Neon Cowboy |
 
-_Updated 2026-04-23 06:49 UTC_
+_Updated 2026-04-23 12:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
