@@ -29,7 +29,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 ### Nomadintosh
 [![View on GitHub](https://img.shields.io/badge/GitHub-Nomadintosh-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/anultravioletaurora/Nomadintosh)
 
-_An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad/docs) + [Consul](https://developer.hashicorp.com/consul/docs) on a Mac mini cluster. Runs workloads bare-metal to take advantage of Apple Silicon's native hardware acceleration (Metal, VideoToolbox, Core ML)._
+_An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad/docs) + [Consul](https://developer.hashicorp.com/consul/docs) on a Mac mini cluster. Makes a best-effort to run workloads bare-metal to take advantage of Apple Silicon's native hardware acceleration (Metal, VideoToolbox, Core ML), but provides roles for deploying various container technologies (Docker Desktop, Red Hat's Podman, Apple's Container)._
 
 ---
 
