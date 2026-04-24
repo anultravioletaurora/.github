@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Accesscode | arcologies | Accesscode / Daytrip |
-| Baba O’Riley | The Who | Who’s Next |
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
-| Satellite | Bebe Rexha feat. Snoop Dogg | Bebe |
-| Friday I’m in Love | The Cure | Wish |
+| the city at dusk (outro) | arcologies | VAPOR DRIVE |
+| visual memory unit | arcologies | VAPOR DRIVE |
+| symmetry beyond | arcologies | VAPOR DRIVE |
+| searcher | arcologies | VAPOR DRIVE |
+| monsoon | arcologies | VAPOR DRIVE |
 
-_Updated 2026-04-24 12:31 UTC_
+_Updated 2026-04-24 18:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
