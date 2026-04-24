@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tightrope | Tinashe | BB/ANG3L |
-| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
-| Different Music (feat. glimmers) | Starletta, Glimmers | Neon Cowboy |
-| Cellophane | Starletta | Neon Cowboy |
+| Accesscode | arcologies | Accesscode / Daytrip |
+| Baba O’Riley | The Who | Who’s Next |
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
+| Satellite | Bebe Rexha feat. Snoop Dogg | Bebe |
+| Friday I’m in Love | The Cure | Wish |
 
-_Updated 2026-04-23 18:34 UTC_
+_Updated 2026-04-24 00:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
