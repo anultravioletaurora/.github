@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| the city at dusk (outro) | arcologies | VAPOR DRIVE |
-| My Oh My | Ava Max | My Oh My |
-| Baba O’Riley | The Who | Who’s Next |
-| My Oh My | Ava Max | My Oh My |
+| Learn to Fly | Foo Fighters | The Essential Foo Fighters |
+| swordsman | Night Tapes | portals//polarities |
+| Weather You Can Call On | Cosmic Cycler | 1-900-WEATHER |
+| Weather You Can Call On | Cosmic Cycler | 1-900-WEATHER |
+| New Moon | MØ featuring Rebecca Black | New Moon |
 
-_Updated 2026-04-25 12:22 UTC_
+_Updated 2026-04-25 18:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
