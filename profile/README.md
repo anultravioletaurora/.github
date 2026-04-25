@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | the city at dusk (outro) | arcologies | VAPOR DRIVE |
 | My Oh My | Ava Max | My Oh My |
 | Baba O’Riley | The Who | Who’s Next |
 | My Oh My | Ava Max | My Oh My |
-| the city at dusk (outro) | arcologies | VAPOR DRIVE |
 
-_Updated 2026-04-25 00:49 UTC_
+_Updated 2026-04-25 06:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
