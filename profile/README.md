@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Funky Galileo | Sure Sure | 123 |
-| Coast | Hailee Steinfeld ft. Anderson .Paak | Coast (acoustic version) |
-| Episode | Gallant | Ology |
-| Watch It Fall | Billy Strings | Home |
+| limiter | POLYPLUS | debut |
+| late at night | POLYPLUS | debut |
+| sugar | POLYPLUS | debut |
+| tokyo class | POLYPLUS | debut |
+| wake me up | POLYPLUS | debut |
 
-_Updated 2026-04-26 00:55 UTC_
+_Updated 2026-04-26 06:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
