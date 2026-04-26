@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | limiter | POLYPLUS | debut |
+| No Rain | Goose | 2025/06/20 Cleveland, OH |
+| limiter | POLYPLUS | debut |
 | late at night | POLYPLUS | debut |
 | sugar | POLYPLUS | debut |
-| tokyo class | POLYPLUS | debut |
-| wake me up | POLYPLUS | debut |
 
-_Updated 2026-04-26 12:24 UTC_
+_Updated 2026-04-26 18:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
