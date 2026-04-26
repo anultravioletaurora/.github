@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Learn to Fly | Foo Fighters | The Essential Foo Fighters |
-| swordsman | Night Tapes | portals//polarities |
-| Weather You Can Call On | Cosmic Cycler | 1-900-WEATHER |
-| Weather You Can Call On | Cosmic Cycler | 1-900-WEATHER |
-| New Moon | MØ featuring Rebecca Black | New Moon |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| Funky Galileo | Sure Sure | 123 |
+| Coast | Hailee Steinfeld ft. Anderson .Paak | Coast (acoustic version) |
+| Episode | Gallant | Ology |
+| Watch It Fall | Billy Strings | Home |
 
-_Updated 2026-04-25 18:21 UTC_
+_Updated 2026-04-26 00:55 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
