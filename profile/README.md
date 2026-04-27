@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| BUTTERFLY | MARINA | BUTTERFLY |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Method Acting | Work Drugs | Method Acting |
 | limiter | POLYPLUS | debut |
-| No Rain | Goose | 2025/06/20 Cleveland, OH |
 | limiter | POLYPLUS | debut |
-| late at night | POLYPLUS | debut |
-| sugar | POLYPLUS | debut |
 
-_Updated 2026-04-26 18:22 UTC_
+_Updated 2026-04-27 00:55 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
