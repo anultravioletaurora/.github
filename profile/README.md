@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Bloom | Troye Sivan | Bloom |
+| UH OH! | Loud Luxury | UH OH! |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
+| Sunset | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | BUTTERFLY | MARINA | BUTTERFLY |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Method Acting | Work Drugs | Method Acting |
-| limiter | POLYPLUS | debut |
-| limiter | POLYPLUS | debut |
 
-_Updated 2026-04-27 00:55 UTC_
+_Updated 2026-04-27 07:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
