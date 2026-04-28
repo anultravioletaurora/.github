@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bad Girl | Daya | Bad Girl |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
-| Salvation | Rebecca Black | SALVATION |
+| I Love Hollywood! | Slayyyter | STARFUCKER |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Endless Summer | The Midnight | Endless Summer |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
 
-_Updated 2026-04-28 00:57 UTC_
+_Updated 2026-04-28 07:05 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
