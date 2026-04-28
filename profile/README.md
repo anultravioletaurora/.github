@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bloom | Troye Sivan | Bloom |
-| UH OH! | Loud Luxury | UH OH! |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Sunset | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| BUTTERFLY | MARINA | BUTTERFLY |
+| Bad Girl | Daya | Bad Girl |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
+| Salvation | Rebecca Black | SALVATION |
 
-_Updated 2026-04-27 18:37 UTC_
+_Updated 2026-04-28 00:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
