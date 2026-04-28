@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Love Hollywood! | Slayyyter | STARFUCKER |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Endless Summer | The Midnight | Endless Summer |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| The Boys of Summer | Shannon Curtis | 80s kids |
+| Take On Me | Shannon Curtis | 80s kids |
+| Take On Me | Shannon Curtis | 80s kids |
+| Night Flight | Franc Moody | Dream in Colour |
+| Flesh And Blood | Franc Moody | Dream in Colour |
 
-_Updated 2026-04-28 07:05 UTC_
+_Updated 2026-04-28 12:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
