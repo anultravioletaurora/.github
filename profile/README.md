@@ -45,13 +45,9 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Snow ((Hey Oh)) | Red Hot Chili Peppers | Stadium Arcadium |
-| Salvation | Rebecca Black | SALVATION |
-| The Aisle | PinkPantheress | Heaven Knows |
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-04-29 12:44 UTC_
+
+_Updated 2026-04-29 18:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
