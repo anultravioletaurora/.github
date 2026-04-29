@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Revelations | Kim Petras | Feed the Beast |
-| All Around the World (La La La) | R3HAB × A Touch of Class | All Around the World |
-| Out of Time | Slayyyter | Erotic Electronic |
-| Out of Time | Slayyyter | Erotic Electronic |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Go With It | Oliver feat. Chromeo | Full Circle |
+| Helena Beat | Foster the People | Torches |
+| Smash My Heart | Robin Schulz | New Year’s Eve Pink Setlist |
+| 10,000 | Elliot Root | Conjure |
 
-_Updated 2026-04-28 18:41 UTC_
+_Updated 2026-04-29 00:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
