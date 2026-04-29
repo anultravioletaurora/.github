@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Go With It | Oliver feat. Chromeo | Full Circle |
-| Helena Beat | Foster the People | Torches |
-| Smash My Heart | Robin Schulz | New Year’s Eve Pink Setlist |
-| 10,000 | Elliot Root | Conjure |
+| Salvation | Rebecca Black | SALVATION |
+| The Aisle | PinkPantheress | Heaven Knows |
+| swordsman | Night Tapes | portals//polarities |
+| swordsman | Night Tapes | portals//polarities |
+| Young Blood | The Naked and Famous | Passive Me, Aggressive You |
 
-_Updated 2026-04-29 00:58 UTC_
+_Updated 2026-04-29 07:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
