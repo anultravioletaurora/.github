@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
 | Dive Into Me | Alok & Khalid | Dive Into Me |
+| swordsman | Night Tapes | portals//polarities |
+| Snow ((Hey Oh)) | Red Hot Chili Peppers | Stadium Arcadium |
 | Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Charlie | Red Hot Chili Peppers | Stadium Arcadium |
+| Gentle Folks | Hunter Hunted | Ready for You |
 
-_Updated 2026-04-30 00:58 UTC_
+_Updated 2026-04-30 07:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
