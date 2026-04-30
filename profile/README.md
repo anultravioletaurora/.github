@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| swordsman | Night Tapes | portals//polarities |
-| Snow ((Hey Oh)) | Red Hot Chili Peppers | Stadium Arcadium |
+| Blindside | Hunter Hunted | Ready for You |
+| Blindside | Hunter Hunted | Ready for You |
 | Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Gentle Folks | Hunter Hunted | Ready for You |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
 
-_Updated 2026-04-30 07:03 UTC_
+_Updated 2026-04-30 12:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
