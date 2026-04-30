@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Blindside | Hunter Hunted | Ready for You |
-| Blindside | Hunter Hunted | Ready for You |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
 | Dive Into Me | Alok & Khalid | Dive Into Me |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
+| swordsman | Night Tapes | portals//polarities |
+| Somebody to Love | Kylie Minogue | Tension |
+| Sentinels | The Midnight | Syndicate |
+| Digital Dreams | The Midnight | Syndicate |
 
-_Updated 2026-04-30 12:43 UTC_
+_Updated 2026-04-30 18:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
