@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| swordsman | Night Tapes | portals//polarities |
-| Somebody to Love | Kylie Minogue | Tension |
-| Sentinels | The Midnight | Syndicate |
-| Digital Dreams | The Midnight | Syndicate |
+| 10,000 | Elliot Root | Conjure |
+| Science | Allie X | Super Sunset |
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
+| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
 
-_Updated 2026-04-30 18:39 UTC_
+_Updated 2026-05-01 01:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
