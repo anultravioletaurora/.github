@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
 | swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
-| All Around the World (La La La) | R3HAB × A Touch of Class | All Around the World |
-| Go With It | Oliver feat. Chromeo | Full Circle |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
+| Chemical Sweat | Elliot Root | Thoughts From Yesterday |
 
-_Updated 2026-05-01 12:31 UTC_
+_Updated 2026-05-01 18:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
