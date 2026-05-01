@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Domesticated Man | The Jungle Giants | Learn To Exist |
-| She's a Riot | The Jungle Giants | Learn To Exist |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| All Around the World (La La La) | R3HAB × A Touch of Class | All Around the World |
+| Go With It | Oliver feat. Chromeo | Full Circle |
 
-_Updated 2026-05-01 07:05 UTC_
+_Updated 2026-05-01 12:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
