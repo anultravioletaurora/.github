@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 10,000 | Elliot Root | Conjure |
-| Science | Allie X | Super Sunset |
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Domesticated Man | The Jungle Giants | Learn To Exist |
+| She's a Riot | The Jungle Giants | Learn To Exist |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
 
-_Updated 2026-05-01 01:03 UTC_
+_Updated 2026-05-01 07:05 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
