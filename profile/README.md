@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
-| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 | Love in the Midnight | VEAUX | Love in the Midnight |
-| Tidal Waves | Parade of Lights | Human Condition, Pt. 1 |
-| Somebody to Love | Kylie Minogue | Tension |
+| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
+| Got Love | Tove Lo | Queen of the Clouds |
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
+| Snow ((Hey Oh)) | Red Hot Chili Peppers | Stadium Arcadium |
 
-_Updated 2026-05-02 12:27 UTC_
+_Updated 2026-05-02 18:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
