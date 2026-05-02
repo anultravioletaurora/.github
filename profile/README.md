@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
-| Chemical Sweat | Elliot Root | Thoughts From Yesterday |
+| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
+| Love in the Midnight | VEAUX | Love in the Midnight |
+| Tidal Waves | Parade of Lights | Human Condition, Pt. 1 |
+| Somebody to Love | Kylie Minogue | Tension |
 
-_Updated 2026-05-01 18:31 UTC_
+_Updated 2026-05-02 00:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
