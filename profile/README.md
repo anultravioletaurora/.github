@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Creatures | Goose | 2024/10/26 Birmingham, AL |
-| Creatures | Goose | 2024/10/26 Birmingham, AL |
-| Take On Me | Goose | 2024/10/26 Birmingham, AL |
-| Take On Me | Goose | 2024/10/26 Birmingham, AL |
-| Drive | Goose | 2024/10/26 Birmingham, AL |
+| Mexico | Night Moves | Can You Really Find Me |
+| We R Who We R | Ke$ha | Cannibal |
+| Follow Through | Ripe | Joy in the Wild Unknown |
+| Number One Fan | MUNA | Saves the World |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
 
-_Updated 2026-05-03 12:27 UTC_
+_Updated 2026-05-03 18:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
