@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Magic (Purple Disco Machine extended mix) | Kylie | DISCO |
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
-| Go With It | Oliver feat. Chromeo | Full Circle |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Creatures | Goose | 2024/10/26 Birmingham, AL |
+| Take On Me | Goose | 2024/10/26 Birmingham, AL |
+| Take On Me | Goose | 2024/10/26 Birmingham, AL |
+| Drive | Goose | 2024/10/26 Birmingham, AL |
+| Training Season (extended) | Dua Lipa | Training Season |
 
-_Updated 2026-05-03 01:01 UTC_
+_Updated 2026-05-03 07:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
