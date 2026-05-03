@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love in the Midnight | VEAUX | Love in the Midnight |
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
-| Got Love | Tove Lo | Queen of the Clouds |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Snow ((Hey Oh)) | Red Hot Chili Peppers | Stadium Arcadium |
+| Magic (Purple Disco Machine extended mix) | Kylie | DISCO |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| Go With It | Oliver feat. Chromeo | Full Circle |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
 
-_Updated 2026-05-02 18:25 UTC_
+_Updated 2026-05-03 01:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
