@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| BEAUTIFUL MADNESS | Agnes | BEAUTIFUL MADNESS |
-| BM-247 01 INTERLUDE | Agnes | BEAUTIFUL MADNESS |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Firework | Katy Perry | Teenage Dream |
+| Teenage Dream | Katy Perry | Teenage Dream |
+| Bark of a Tree | Animal Liberation Orchestra | Sounds Like This |
+| Cowboys and Chorus Girls | Animal Liberation Orchestra | Sounds Like This |
+| Storms and Hurricanes | Animal Liberation Orchestra | Sounds Like This |
 
-_Updated 2026-05-04 00:59 UTC_
+_Updated 2026-05-04 07:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
