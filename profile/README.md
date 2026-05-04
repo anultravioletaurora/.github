@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Firework | Katy Perry | Teenage Dream |
-| Teenage Dream | Katy Perry | Teenage Dream |
-| Bark of a Tree | Animal Liberation Orchestra | Sounds Like This |
-| Cowboys and Chorus Girls | Animal Liberation Orchestra | Sounds Like This |
-| Storms and Hurricanes | Animal Liberation Orchestra | Sounds Like This |
+| Last Friday Night (T.G.I.F.) | Katy Perry feat. Missy Elliott | Teenage Dream |
+| E.T. | Katy Perry ft. Kanye West | Teenage Dream |
+| Dressin’ Up | Katy Perry | Teenage Dream |
+| Wide Awake | Katy Perry | Teenage Dream |
+| Part of Me | Katy Perry | Teenage Dream |
 
-_Updated 2026-05-04 07:14 UTC_
+_Updated 2026-05-04 12:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
