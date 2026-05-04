@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Last Friday Night (T.G.I.F.) | Katy Perry feat. Missy Elliott | Teenage Dream |
-| E.T. | Katy Perry ft. Kanye West | Teenage Dream |
-| Dressin’ Up | Katy Perry | Teenage Dream |
-| Wide Awake | Katy Perry | Teenage Dream |
-| Part of Me | Katy Perry | Teenage Dream |
+| Lovers On the Run (Virtual Riot Remix) | Nihils | Lovers On the Run (Remix EP) |
+| Lovers On the Run (Saint Pauli Remix) | Nihils | Lovers On the Run (Remix EP) |
+| Lovers On the Run | Nihils | Lovers On the Run (Remix EP) |
+| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
 
-_Updated 2026-05-04 12:45 UTC_
+_Updated 2026-05-04 18:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
