@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| TRUST! | Rebecca Black | SALVATION |
+| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
 | Dive Into Me | Alok & Khalid | Dive Into Me |
-| Do You Feel the Same | Russ | Do You Feel the Same |
-| Lights (single version) | Ellie Goulding | Lights |
-| Scream Drive Faster | Laurel | Petrol Bloom |
 
-_Updated 2026-05-05 12:36 UTC_
+_Updated 2026-05-05 18:40 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
