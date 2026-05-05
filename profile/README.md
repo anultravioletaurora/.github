@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Go With It | Oliver feat. Chromeo | Full Circle |
-| Got Love | Tove Lo | Queen of the Clouds |
-| Icy | Kim Petras | Clarity |
-| swordsman | Night Tapes | portals//polarities |
+| TRUST! | Rebecca Black | SALVATION |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Do You Feel the Same | Russ | Do You Feel the Same |
+| Lights (single version) | Ellie Goulding | Lights |
+| Scream Drive Faster | Laurel | Petrol Bloom |
 
-_Updated 2026-05-05 06:56 UTC_
+_Updated 2026-05-05 12:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
