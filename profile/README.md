@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
-| Scream Drive Faster | Laurel | Petrol Bloom |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Hunting Season | Chelsea Cutler | Stellaria |
-| Method Acting | Work Drugs | Method Acting |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Go With It | Oliver feat. Chromeo | Full Circle |
+| Got Love | Tove Lo | Queen of the Clouds |
+| Icy | Kim Petras | Clarity |
+| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-05-05 00:53 UTC_
+_Updated 2026-05-05 06:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
