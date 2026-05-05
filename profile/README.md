@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lovers On the Run (Virtual Riot Remix) | Nihils | Lovers On the Run (Remix EP) |
-| Lovers On the Run (Saint Pauli Remix) | Nihils | Lovers On the Run (Remix EP) |
-| Lovers On the Run | Nihils | Lovers On the Run (Remix EP) |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
+| Scream Drive Faster | Laurel | Petrol Bloom |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Hunting Season | Chelsea Cutler | Stellaria |
+| Method Acting | Work Drugs | Method Acting |
 
-_Updated 2026-05-04 18:42 UTC_
+_Updated 2026-05-05 00:53 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
