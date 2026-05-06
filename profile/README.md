@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 | Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Think it Over | New Constellations | Think it Over |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Somebody to Love | Kylie Minogue | Tension |
+| HEAT | Tove Lo & SG Lewis | HEAT |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-05-06 07:06 UTC_
+_Updated 2026-05-06 12:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
