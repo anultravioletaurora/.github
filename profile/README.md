@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
 | Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Think it Over | New Constellations | Think it Over |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
 | Dive Into Me | Alok & Khalid | Dive Into Me |
 
-_Updated 2026-05-05 18:40 UTC_
+_Updated 2026-05-06 00:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
