@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Somebody to Love | Kylie Minogue | Tension |
+| TRUST! | Rebecca Black | SALVATION |
+| TRUST! | Rebecca Black | SALVATION |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
 | HEAT | Tove Lo & SG Lewis | HEAT |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
 
-_Updated 2026-05-06 12:49 UTC_
+_Updated 2026-05-06 18:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
