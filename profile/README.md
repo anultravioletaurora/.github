@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
-| Dawning of the Season | Magdalena Bay | Mercurial World |
-| swordsman | Night Tapes | portals//polarities |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Panama | Van Halen | 1984 |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-05-07 00:58 UTC_
+_Updated 2026-05-07 07:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
