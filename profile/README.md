@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Baba O’Riley | The Who | Who’s Next |
-| oblivion | arcologies | VAPOR DRIVE |
-| Slide | H.E.R. feat. YG | Slide |
-| Slide | H.E.R. feat. YG | Slide |
-| Heaven Doesn't Care | A Story Told | Mundane Magic |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Friction | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
+| Economics | The Strike | Faint of Heart |
 
-_Updated 2026-05-07 12:49 UTC_
+_Updated 2026-05-07 18:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
