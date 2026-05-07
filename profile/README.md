@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Panama | Van Halen | 1984 |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Baba O’Riley | The Who | Who’s Next |
+| oblivion | arcologies | VAPOR DRIVE |
+| Slide | H.E.R. feat. YG | Slide |
+| Slide | H.E.R. feat. YG | Slide |
+| Heaven Doesn't Care | A Story Told | Mundane Magic |
 
-_Updated 2026-05-07 07:11 UTC_
+_Updated 2026-05-07 12:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
