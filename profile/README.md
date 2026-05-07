@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| TRUST! | Rebecca Black | SALVATION |
-| TRUST! | Rebecca Black | SALVATION |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| swordsman | Night Tapes | portals//polarities |
+| swordsman | Night Tapes | portals//polarities |
+| Dawning of the Season | Magdalena Bay | Mercurial World |
+| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-05-06 18:43 UTC_
+_Updated 2026-05-07 00:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
