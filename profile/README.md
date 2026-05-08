@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Friction | The Midnight | Syndicate |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
-| Economics | The Strike | Faint of Heart |
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-05-07 18:43 UTC_
+_Updated 2026-05-08 00:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
