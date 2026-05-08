@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Do You Even Think About Me? | Rebecca Black | SALVATION |
+| Do You Even Think About Me? | Rebecca Black | SALVATION |
+| Young Blood | The Naked and Famous | Passive Me, Aggressive You |
+| with the IE (way up) | JENNIE | Ruby |
 
-_Updated 2026-05-08 00:58 UTC_
+_Updated 2026-05-08 06:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
