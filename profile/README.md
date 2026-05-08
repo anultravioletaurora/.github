@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Jason | The Midnight feat. Nikki Flores | Endless Summer |
+| Endless Summer | The Midnight | Endless Summer |
+| Love Is an Ocean | The Midnight | Syndicate |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Do You Even Think About Me? | Rebecca Black | SALVATION |
-| Do You Even Think About Me? | Rebecca Black | SALVATION |
-| Young Blood | The Naked and Famous | Passive Me, Aggressive You |
-| with the IE (way up) | JENNIE | Ruby |
+| Somebody to Love | Kylie Minogue | Tension |
 
-_Updated 2026-05-08 06:46 UTC_
+_Updated 2026-05-08 12:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
