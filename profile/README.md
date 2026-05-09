@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Say It (To My Face) | Meet Me @ the Altar | Past // Present // Future |
-| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
 | Dive Into Me | Alok & Khalid | Dive Into Me |
-| Hollywood | Cherry Pools | Less Religion More Sex |
-| Please | The Strike | Faint of Heart |
+| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
+| Say It (To My Face) | Meet Me @ the Altar | Past // Present // Future |
 
-_Updated 2026-05-09 06:52 UTC_
+_Updated 2026-05-09 12:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
