@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Jason | The Midnight feat. Nikki Flores | Endless Summer |
-| Endless Summer | The Midnight | Endless Summer |
-| Love Is an Ocean | The Midnight | Syndicate |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Somebody to Love | Kylie Minogue | Tension |
+| Say It (To My Face) | Meet Me @ the Altar | Past // Present // Future |
+| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Hollywood | Cherry Pools | Less Religion More Sex |
+| Please | The Strike | Faint of Heart |
 
-_Updated 2026-05-08 18:39 UTC_
+_Updated 2026-05-09 00:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
