@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
-| Say It (To My Face) | Meet Me @ the Altar | Past // Present // Future |
+| Somebody to Love | Kylie Minogue | Tension |
+| Thinkin Aboutchu | Dan Croll | Sweet Disarray |
+| Thinkin Aboutchu | Dan Croll | Sweet Disarray |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
+| Something Just Like This (Jai Wolf remix) | The Chainsmokers & Coldplay | Something Just Like This (remixes) |
 
-_Updated 2026-05-09 12:29 UTC_
+_Updated 2026-05-09 18:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
