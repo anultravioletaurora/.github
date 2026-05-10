@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Somebody to Love | Kylie Minogue | Tension |
-| Thinkin Aboutchu | Dan Croll | Sweet Disarray |
-| Thinkin Aboutchu | Dan Croll | Sweet Disarray |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Something Just Like This (Jai Wolf remix) | The Chainsmokers & Coldplay | Something Just Like This (remixes) |
+| Salute Your Solution | The Raconteurs | Consolers of the Lonely |
+| Little Lies | Fleetwood Mac | Tango in the Night |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Love Is an Ocean | The Midnight | Love Is an Ocean |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-05-09 18:27 UTC_
+_Updated 2026-05-10 01:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
