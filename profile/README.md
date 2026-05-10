@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Salute Your Solution | The Raconteurs | Consolers of the Lonely |
-| Little Lies | Fleetwood Mac | Tango in the Night |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Love Is an Ocean | The Midnight | Love Is an Ocean |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Twennies (The Knocks Remix) | Dragonette | Twennies (deluxe Version) |
+| Twennies (The Knocks Remix) | Dragonette | Twennies (deluxe Version) |
+| Awaken | Big Wild | Superdream |
+| Awaken | Big Wild | Superdream |
+| Heaven | Big Wild | Superdream |
 
-_Updated 2026-05-10 07:04 UTC_
+_Updated 2026-05-10 12:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
