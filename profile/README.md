@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Twennies (The Knocks Remix) | Dragonette | Twennies (deluxe Version) |
-| Twennies (The Knocks Remix) | Dragonette | Twennies (deluxe Version) |
-| Awaken | Big Wild | Superdream |
-| Awaken | Big Wild | Superdream |
-| Heaven | Big Wild | Superdream |
+| Wait, Stay | Emarosa | Peach Club |
+| IW2DWY | Emarosa | Peach Club |
+| Comfortable | Emarosa | Peach Club |
+| Hell of It | Emarosa | Peach Club |
+| xo | Emarosa | Peach Club |
 
-_Updated 2026-05-10 12:28 UTC_
+_Updated 2026-05-10 18:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
