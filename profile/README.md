@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Wait, Stay | Emarosa | Peach Club |
-| IW2DWY | Emarosa | Peach Club |
-| Comfortable | Emarosa | Peach Club |
-| Hell of It | Emarosa | Peach Club |
-| xo | Emarosa | Peach Club |
+| the amulet | arcologies | VAPOR DRIVE |
+| synaptic transfer | arcologies | VAPOR DRIVE |
+| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
+| I Love Hollywood! | Slayyyter | STARFUCKER |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
 
-_Updated 2026-05-10 18:27 UTC_
+_Updated 2026-05-11 01:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
