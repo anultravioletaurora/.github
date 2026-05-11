@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Kick in the Head | Tove Lo | Dirt Femme |
+| Love Is an Ocean | The Midnight | Syndicate |
 | the amulet | arcologies | VAPOR DRIVE |
 | the amulet | arcologies | VAPOR DRIVE |
 | synaptic transfer | arcologies | VAPOR DRIVE |
-| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
-| I Love Hollywood! | Slayyyter | STARFUCKER |
 
-_Updated 2026-05-11 07:27 UTC_
+_Updated 2026-05-11 13:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
