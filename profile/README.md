@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| When She Was Your Soldier | LUNAX | Forever Fighting |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
-| Shades of Blue | modernlove. | Shades of Blue |
-| Shades of Blue | modernlove. | Shades of Blue |
+| Medusa | Princess Nokia | GIRLS |
+| Medusa | Princess Nokia | GIRLS |
+| Charge Me Up | Franc Moody | Dream in Colour |
+| Medusa | Princess Nokia | GIRLS |
+| ArtStar | Princess Nokia | GIRLS |
 
-_Updated 2026-05-12 12:52 UTC_
+_Updated 2026-05-12 18:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
