@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| Born to the Night | Ava Max | Heaven & Hell |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Coast | Hailee Steinfeld ft. Anderson .Paak | Coast (acoustic version) |
 | Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-05-11 18:47 UTC_
+_Updated 2026-05-12 00:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
