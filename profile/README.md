@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Summer's Ending Soon | The Midnight | Syndicate |
+| Sanctuary | The Midnight | Syndicate |
 | Love Is an Ocean | The Midnight | Syndicate |
 | Love Is an Ocean | The Midnight | Syndicate |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Fight For Me | Ava Max | Don't Click Play |
 
-_Updated 2026-05-13 07:14 UTC_
+_Updated 2026-05-13 12:55 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
