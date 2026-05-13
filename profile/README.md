@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Medusa | Princess Nokia | GIRLS |
-| Medusa | Princess Nokia | GIRLS |
-| Charge Me Up | Franc Moody | Dream in Colour |
-| Medusa | Princess Nokia | GIRLS |
-| ArtStar | Princess Nokia | GIRLS |
+| Impulse | An Endless Sporadic | Ameliorate |
+| Soundtrack | The Strike | A Dream Through Open Eyes |
+| Memories of You | Slayyyter | STARFUCKER |
+| leave in five | The Maine | The Maine (deluxe) |
+| Sure and Certain | Jimmy Eat World | Sure and Certain |
 
-_Updated 2026-05-12 18:45 UTC_
+_Updated 2026-05-13 01:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
