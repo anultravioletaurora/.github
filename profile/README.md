@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Impulse | An Endless Sporadic | Ameliorate |
-| Soundtrack | The Strike | A Dream Through Open Eyes |
-| Memories of You | Slayyyter | STARFUCKER |
-| leave in five | The Maine | The Maine (deluxe) |
-| Sure and Certain | Jimmy Eat World | Sure and Certain |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Fight For Me | Ava Max | Don't Click Play |
 
-_Updated 2026-05-13 01:01 UTC_
+_Updated 2026-05-13 07:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
