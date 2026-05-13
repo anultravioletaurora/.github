@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Summer's Ending Soon | The Midnight | Syndicate |
-| Sanctuary | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Friction | The Midnight | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| leave in five | The Maine | The Maine (deluxe) |
+| Soundtrack | The Strike | A Dream Through Open Eyes |
+| The Catalyst (album version) | Linkin Park | The Catalyst |
 
-_Updated 2026-05-13 12:55 UTC_
+_Updated 2026-05-13 18:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
