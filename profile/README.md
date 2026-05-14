@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Looking 4 Love | Morgan Willis | Heat |
 | Malibu Sunset | Morgan Willis | Hotline Summer |
 | Hotline Summer | Morgan Willis | Hotline Summer |
 | I Try | Morgan Willis | Hotline Summer |
 | Strange Night | Morgan Willis | Hotline Summer |
-| drifting | Night Tapes | assisted memories |
 
-_Updated 2026-05-14 01:03 UTC_
+_Updated 2026-05-14 07:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
