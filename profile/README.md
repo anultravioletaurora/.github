@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Running Lights | Morgan Willis | Heat |
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Looking 4 Love | Morgan Willis | Heat |
-| Malibu Sunset | Morgan Willis | Hotline Summer |
-| Hotline Summer | Morgan Willis | Hotline Summer |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Miss a Thing (extended mix) | Kylie Minogue | DISCO (extended mixes) |
+| Miss a Thing (extended mix) | Kylie Minogue | DISCO (extended mixes) |
 
-_Updated 2026-05-14 12:48 UTC_
+_Updated 2026-05-14 18:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
