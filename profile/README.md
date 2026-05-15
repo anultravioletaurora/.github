@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Flashback | Morgan Willis | Damier Club |
+| Damier Club | Morgan Willis | Damier Club |
+| Soundtrack | The Strike | A Dream Through Open Eyes |
+| The Catalyst (album version) | Linkin Park | The Catalyst |
 | Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
-| The Catalyst (album version) | Linkin Park | The Catalyst |
-| The Catalyst (album version) | Linkin Park | The Catalyst |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| drifting | Night Tapes | assisted memories |
 
-_Updated 2026-05-15 12:47 UTC_
+_Updated 2026-05-15 18:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
