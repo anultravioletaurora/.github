@@ -45,13 +45,9 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Miss a Thing (extended mix) | Kylie Minogue | DISCO (extended mixes) |
-| Miss a Thing (extended mix) | Kylie Minogue | DISCO (extended mixes) |
 
-_Updated 2026-05-14 18:45 UTC_
+
+_Updated 2026-05-15 01:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
