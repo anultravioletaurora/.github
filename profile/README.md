@@ -45,13 +45,9 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lean On | Major Lazer x DJ Snake & MØ | Peace Is the Mission |
-| Lean On | Major Lazer x DJ Snake & MØ | Peace Is the Mission |
-| Lean On | Major Lazer x DJ Snake & MØ | Peace Is the Mission |
-| Lean On | Major Lazer x DJ Snake & MØ | Peace Is the Mission |
-| Lean On | Major Lazer x DJ Snake & MØ | Peace Is the Mission |
 
-_Updated 2026-05-16 06:55 UTC_
+
+_Updated 2026-05-16 12:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
