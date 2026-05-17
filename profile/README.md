@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Foolish Pleasure | The Knocks & Dragonette | Revelation |
-| The Right Way | The Midnight | Syndicate |
-| Friction | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Radio | Ollie Wride feat. The American English | Radio |
+| delta waves | arcologies | VAPOR DRIVE |
+| crystal stasis | arcologies | VAPOR DRIVE |
+| delta waves | arcologies | VAPOR DRIVE |
+| delta waves | arcologies | VAPOR DRIVE |
 
-_Updated 2026-05-16 18:27 UTC_
+_Updated 2026-05-17 01:04 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
