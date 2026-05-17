@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Bad Behavior | The Maine | Lovely Little Lonely |
+| Bad Behavior | The Maine | Lovely Little Lonely |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Radio | Ollie Wride feat. The American English | Radio |
 | Radio | Ollie Wride feat. The American English | Radio |
-| delta waves | arcologies | VAPOR DRIVE |
-| crystal stasis | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
 
-_Updated 2026-05-17 12:29 UTC_
+_Updated 2026-05-17 18:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
