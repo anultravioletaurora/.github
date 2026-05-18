@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bad Behavior | The Maine | Lovely Little Lonely |
-| Bad Behavior | The Maine | Lovely Little Lonely |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Radio | Ollie Wride feat. The American English | Radio |
-| Radio | Ollie Wride feat. The American English | Radio |
+| Feel the Way I Want | Caroline Rose | Feel the Way I Want |
+| Feel the Way I Want | Caroline Rose | Feel the Way I Want |
+| Feel the Way I Want | Caroline Rose | Feel the Way I Want |
+| Feel the Way I Want | Caroline Rose | Feel the Way I Want |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 
-_Updated 2026-05-17 18:29 UTC_
+_Updated 2026-05-18 01:05 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
