@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| round and round | bbno$ | round and round |
-| Feel the Way I Want | Caroline Rose | Feel the Way I Want |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| All of the People | Panama Wedding | Parallel Play |
+| Alaska | BANKS | III |
+| Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
+| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
+| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
 
-_Updated 2026-05-18 13:28 UTC_
+_Updated 2026-05-18 18:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
