@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| No Road Romance | The Who | Who Are You |
-| Who Are You | The Who | Who Are You |
-| Low Key | Ciara | CiCi |
+| Precious | Jae Stephens | TOTAL SELLOUT |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
 | Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
-| Stratosphere | MUTEMATH | Vitals |
+| Who Are You | The Who | Who Are You |
+| No Road Romance | The Who | Who Are You |
 
-_Updated 2026-05-19 07:26 UTC_
+_Updated 2026-05-19 13:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
