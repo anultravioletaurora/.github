@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| All of the People | Panama Wedding | Parallel Play |
-| Alaska | BANKS | III |
+| Low Key | Ciara | CiCi |
 | Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
+| Stratosphere | MUTEMATH | Vitals |
+| Light Up | MUTEMATH | Vitals |
+| Joy Rides | MUTEMATH | Vitals |
 
-_Updated 2026-05-18 18:45 UTC_
+_Updated 2026-05-19 01:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
