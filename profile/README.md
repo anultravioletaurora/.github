@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Precious | Jae Stephens | TOTAL SELLOUT |
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
-| Who Are You | The Who | Who Are You |
-| No Road Romance | The Who | Who Are You |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
 
-_Updated 2026-05-19 13:20 UTC_
+_Updated 2026-05-19 18:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
