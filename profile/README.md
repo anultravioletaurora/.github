@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| No Road Romance | The Who | Who Are You |
+| Who Are You | The Who | Who Are You |
 | Low Key | Ciara | CiCi |
 | Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
 | Stratosphere | MUTEMATH | Vitals |
-| Light Up | MUTEMATH | Vitals |
-| Joy Rides | MUTEMATH | Vitals |
 
-_Updated 2026-05-19 01:06 UTC_
+_Updated 2026-05-19 07:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
