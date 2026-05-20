@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Love Is an Ocean |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
+| I Could Get Used To This | Jessie Ware | Automatic |
+| Ride | Jessie Ware | Automatic |
+| Automatic | Jessie Ware | Automatic |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Choosy | Jae Stephens | TOTAL SELLOUT |
 
-_Updated 2026-05-20 13:06 UTC_
+_Updated 2026-05-20 18:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
