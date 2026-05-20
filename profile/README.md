@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Love Is an Ocean | The Midnight | Love Is an Ocean |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
 | Skin to Bone | The Jungle Giants | Learn To Exist |
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Secondhand (Neon Remix) | Starletta | Secondhand (Neon Remix) |
-| Who Are You | The Who | Who Are You |
-| Who Are You | The Who | Who Are You |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
 
-_Updated 2026-05-20 07:26 UTC_
+_Updated 2026-05-20 13:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
