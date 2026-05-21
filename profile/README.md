@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Could Get Used To This | Jessie Ware | Automatic |
-| Ride | Jessie Ware | Automatic |
-| Automatic | Jessie Ware | Automatic |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Choosy | Jae Stephens | TOTAL SELLOUT |
+| Trick | Saweetie | ICY |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
+| No Heroes | LUNAX / Luca Schreiner feat. ANY | Forever Fighting |
+| Forever Fighting | LUNAX | Forever Fighting |
+| UH OH! | Loud Luxury | UH OH! |
 
-_Updated 2026-05-20 18:57 UTC_
+_Updated 2026-05-21 01:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
