@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| I Want It All | Bonnie McKee | Bombastic |
+| I Want It All | Bonnie McKee | Bombastic |
+| Love Is an Ocean | The Midnight | Syndicate |
+| America Online | The Midnight | Monsters |
 | Baba O’Riley | The Who | Who’s Next |
-| Bad Decisions | Vinyl Thief | Touch |
-| Anywhere Else | The Jungle Giants | Learn To Exist |
-| Low Key | Ciara | CiCi |
-| Trick | Saweetie | ICY |
 
-_Updated 2026-05-21 07:30 UTC_
+_Updated 2026-05-21 13:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
