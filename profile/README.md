@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Baba O’Riley | The Who | Who’s Next |
+| Bad Decisions | Vinyl Thief | Touch |
+| Anywhere Else | The Jungle Giants | Learn To Exist |
+| Low Key | Ciara | CiCi |
 | Trick | Saweetie | ICY |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
-| No Heroes | LUNAX / Luca Schreiner feat. ANY | Forever Fighting |
-| Forever Fighting | LUNAX | Forever Fighting |
-| UH OH! | Loud Luxury | UH OH! |
 
-_Updated 2026-05-21 01:07 UTC_
+_Updated 2026-05-21 07:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
