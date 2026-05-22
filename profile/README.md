@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Panama | Van Halen | 1984 |
-| Expats | Work Drugs | Method Acting |
+| Radio | Ollie Wride feat. The American English | Radio |
+| Magic (extended mix) | Kylie Minogue | DISCO (extended mixes) |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
+| Who Are You | The Who | Who Are You |
 
-_Updated 2026-05-22 07:26 UTC_
+_Updated 2026-05-22 13:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
