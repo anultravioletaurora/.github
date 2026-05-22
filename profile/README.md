@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Excusez Moi | Cobrah | Torn |
-| Excusez Moi | Cobrah | Torn |
-| Charming | Cobrah | Torn |
-| Hush | Cobrah | Torn |
-| Platinum | Cobrah | Torn |
+| Slow Song | The Knocks with Dragonette | HISTORY |
+| Slow Song | The Knocks with Dragonette | HISTORY |
+| Slow Song | The Knocks with Dragonette | HISTORY |
+| Panama | Van Halen | 1984 |
+| Expats | Work Drugs | Method Acting |
 
-_Updated 2026-05-21 18:46 UTC_
+_Updated 2026-05-22 01:05 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
