@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Radio | Ollie Wride feat. The American English | Radio |
-| Magic (extended mix) | Kylie Minogue | DISCO (extended mixes) |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
-| Who Are You | The Who | Who Are You |
+| Love on the Line | VIZE & Leony | Somewhere in Between |
+| Holding On | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Holding On | Leony | Somewhere in Between |
+| Remedy | Leony | Remedy (Sigma remix) |
 
-_Updated 2026-05-22 13:01 UTC_
+_Updated 2026-05-22 18:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
