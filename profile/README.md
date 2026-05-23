@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love on the Line | VIZE & Leony | Somewhere in Between |
 | Holding On | Leony | Somewhere in Between |
+| FFF | Zara Larsson | Poster Girl |
 | Remedy | Leony | Somewhere in Between |
-| Holding On | Leony | Somewhere in Between |
-| Remedy | Leony | Remedy (Sigma remix) |
+| FFF | Zara Larsson | Poster Girl |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
 
-_Updated 2026-05-22 18:44 UTC_
+_Updated 2026-05-23 01:02 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
