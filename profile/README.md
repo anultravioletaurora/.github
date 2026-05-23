@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
+| Edge of Midnight (Midnight Sky remix) | Miley Cyrus feat. Stevie Nicks | Edge of Midnight (Midnight Sky remix) |
+| Remedy | Leony | Remedy (Sigma remix) |
 
-_Updated 2026-05-23 12:30 UTC_
+_Updated 2026-05-23 18:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
