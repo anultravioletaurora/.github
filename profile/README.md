@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Vampires | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| swordsman | Night Tapes | portals//polarities |
+| Holding On | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Shooting Stars | Leony | Somewhere in Between |
+| Crazy Love | Toby Romeo & Leony | Somewhere in Between |
 
-_Updated 2026-05-24 01:06 UTC_
+_Updated 2026-05-24 07:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
