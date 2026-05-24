@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Eurosummer | Zara Larsson | Midnight Sun |
-| Eurosummer | Zara Larsson | Midnight Sun |
-| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
-| Edge of Midnight (Midnight Sky remix) | Miley Cyrus feat. Stevie Nicks | Edge of Midnight (Midnight Sky remix) |
-| Remedy | Leony | Remedy (Sigma remix) |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Vampires | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-05-23 18:28 UTC_
+_Updated 2026-05-24 01:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
