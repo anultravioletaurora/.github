@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| Holding On | Leony | Somewhere in Between |
-| Remedy | Leony | Somewhere in Between |
-| Shooting Stars | Leony | Somewhere in Between |
-| Crazy Love | Toby Romeo & Leony | Somewhere in Between |
+| BUTTERFLY | MARINA | BUTTERFLY |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-05-24 12:33 UTC_
+_Updated 2026-05-24 18:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
