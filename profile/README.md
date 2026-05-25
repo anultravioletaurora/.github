@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Walking on a Dream | Empire of the Sun | Walking on a Dream |
+| Tidal Waves | Parade of Lights | Human Condition, Pt. 1 |
+| Circles | machineheart | In Your Dreams |
+| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
 | Funky Galileo | Sure Sure | 123 |
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| Smack My Bitch Up (edit) | The Prodigy | Smack My Bitch Up |
-| Smack My Bitch Up (edit) | The Prodigy | Smack My Bitch Up |
-| Gypsy Wind | Casiopea | The Soundgraphy |
 
-_Updated 2026-05-25 07:48 UTC_
+_Updated 2026-05-25 13:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
