@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| BUTTERFLY | MARINA | BUTTERFLY |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| Remedy | Leony | Remedy (Sigma remix) |
+| Anywhere Else | The Jungle Giants | Learn To Exist |
+| Real Love | Starwolf | Astro Lobo |
+| Real Love | Starwolf | Astro Lobo |
+| Real Love | Starwolf | Astro Lobo |
 
-_Updated 2026-05-24 18:30 UTC_
+_Updated 2026-05-25 01:08 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
