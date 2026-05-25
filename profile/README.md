@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Funky Galileo | Sure Sure | Funky Galileo |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | Walking on a Dream | Empire of the Sun | Walking on a Dream |
-| Tidal Waves | Parade of Lights | Human Condition, Pt. 1 |
-| Circles | machineheart | In Your Dreams |
-| Canyon Moon | Andrew McMahon in the Wilderness | Andrew McMahon in the Wilderness |
-| Funky Galileo | Sure Sure | 123 |
+| Vampires | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-05-25 13:21 UTC_
+_Updated 2026-05-25 18:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
