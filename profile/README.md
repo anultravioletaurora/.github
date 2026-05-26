@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Mary Jane | MUNA | Dancing on the Wall |
-| Big Stick | MUNA | Dancing on the Wall |
-| Party’s Over | MUNA | Dancing on the Wall |
-| So What | MUNA | Dancing on the Wall |
-| Wannabeher | MUNA | Dancing on the Wall |
+| Buzzkiller | MUNA | Dancing on the Wall |
+| Buzzkiller | MUNA | Dancing on the Wall |
+| Why Do I Get a Good Feeling | MUNA | Dancing on the Wall |
+| …Unless | MUNA | Dancing on the Wall |
+| Girl’s Girl | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-26 01:03 UTC_
+_Updated 2026-05-26 07:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
