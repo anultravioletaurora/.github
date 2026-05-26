@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Funky Galileo | Sure Sure | Funky Galileo |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Walking on a Dream | Empire of the Sun | Walking on a Dream |
-| Vampires | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Mary Jane | MUNA | Dancing on the Wall |
+| Big Stick | MUNA | Dancing on the Wall |
+| Party’s Over | MUNA | Dancing on the Wall |
+| So What | MUNA | Dancing on the Wall |
+| Wannabeher | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-25 18:42 UTC_
+_Updated 2026-05-26 01:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
