@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Funky Galileo | Sure Sure | Funky Galileo |
-| Move Along | The All‐American Rejects | Move Along |
-| Dancing on the Wall | MUNA | Dancing on the Wall |
+| It Gets So Hot | MUNA | Dancing on the Wall |
+| Dancing On The Wall | MUNA | Dancing On The Wall |
+| Mary Jane | MUNA | Dancing on the Wall |
+| Mary Jane | MUNA | Dancing on the Wall |
+| Mary Jane | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-26 13:13 UTC_
+_Updated 2026-05-26 18:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
