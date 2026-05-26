@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Buzzkiller | MUNA | Dancing on the Wall |
-| Buzzkiller | MUNA | Dancing on the Wall |
-| Why Do I Get a Good Feeling | MUNA | Dancing on the Wall |
-| …Unless | MUNA | Dancing on the Wall |
-| Girl’s Girl | MUNA | Dancing on the Wall |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Funky Galileo | Sure Sure | Funky Galileo |
+| Move Along | The All‐American Rejects | Move Along |
+| Dancing on the Wall | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-26 07:25 UTC_
+_Updated 2026-05-26 13:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
