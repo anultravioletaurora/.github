@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| GAS STATION | Slayyyter | WOR$T GIRL IN AMERICA |
-| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
-| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
-| Calling on You | Orgone feat. Woolfy | Moonshadows |
+| TGIF | GloRilla | GLORIOUS |
+| Wall of Eyes | The Smile | Wall of Eyes |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Foolish Pleasure | The Knocks & Dragonette | Revelation |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-05-27 07:39 UTC_
+_Updated 2026-05-27 13:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
