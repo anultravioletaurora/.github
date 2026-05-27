@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| GAS STATION | Slayyyter | WOR$T GIRL IN AMERICA |
+| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
+| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
 | Calling on You | Orgone feat. Woolfy | Moonshadows |
-| Calling on You | Orgone feat. Woolfy | Moonshadows |
-| It Gets So Hot | MUNA | Dancing on the Wall |
-| Dancing On The Wall | MUNA | Dancing On The Wall |
-| Mary Jane | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-27 01:07 UTC_
+_Updated 2026-05-27 07:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
