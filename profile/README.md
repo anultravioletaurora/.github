@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Calling on You | Orgone feat. Woolfy | Moonshadows |
+| Calling on You | Orgone feat. Woolfy | Moonshadows |
 | It Gets So Hot | MUNA | Dancing on the Wall |
 | Dancing On The Wall | MUNA | Dancing On The Wall |
 | Mary Jane | MUNA | Dancing on the Wall |
-| Mary Jane | MUNA | Dancing on the Wall |
-| Mary Jane | MUNA | Dancing on the Wall |
 
-_Updated 2026-05-26 18:56 UTC_
+_Updated 2026-05-27 01:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
