@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| TGIF | GloRilla | GLORIOUS |
-| Wall of Eyes | The Smile | Wall of Eyes |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Foolish Pleasure | The Knocks & Dragonette | Revelation |
 | Love Is an Ocean | The Midnight | Syndicate |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Foolish Pleasure | The Knocks & Dragonette | Revelation |
+| WHATCHU KNO ABOUT ME | GloRilla feat. Sexyy Red | GLORIOUS |
 
-_Updated 2026-05-27 13:24 UTC_
+_Updated 2026-05-27 18:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
