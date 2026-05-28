@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Syndicate |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Foolish Pleasure | The Knocks & Dragonette | Revelation |
-| WHATCHU KNO ABOUT ME | GloRilla feat. Sexyy Red | GLORIOUS |
+| Dawning of the Season | Magdalena Bay | Mercurial World |
+| Mercurial World | Magdalena Bay | Mercurial World |
+| The End | Magdalena Bay | Mercurial World |
+| Death & Romance | Magdalena Bay | Imaginal Disk |
+| Image | Magdalena Bay | Imaginal Disk |
 
-_Updated 2026-05-27 18:57 UTC_
+_Updated 2026-05-28 01:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
