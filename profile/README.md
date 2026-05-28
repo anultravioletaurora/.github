@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dawning of the Season | Magdalena Bay | Mercurial World |
-| Mercurial World | Magdalena Bay | Mercurial World |
-| The End | Magdalena Bay | Mercurial World |
-| Death & Romance | Magdalena Bay | Imaginal Disk |
-| Image | Magdalena Bay | Imaginal Disk |
+| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
+| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| HEAT | Tove Lo & SG Lewis | HEAT |
+| How’s your day | Sawagi | Starts to Think? |
 
-_Updated 2026-05-28 01:00 UTC_
+_Updated 2026-05-28 07:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
