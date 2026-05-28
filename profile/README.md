@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| CRANK | Slayyyter | WOR$T GIRL IN AMERICA |
-| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| How’s your day | Sawagi | Starts to Think? |
+| Time Machine | Autoheart | Time Machine |
+| Mysterious Love | Starwolf | Mysterious Love |
+| Mysterious Love | Starwolf | Mysterious Love |
+| Mysterious Love | Starwolf | Mysterious Love |
+| Mysterious Love | Starwolf | Mysterious Love |
 
-_Updated 2026-05-28 07:34 UTC_
+_Updated 2026-05-28 13:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
