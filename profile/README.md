@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Time Machine | Autoheart | Time Machine |
 | Mysterious Love | Starwolf | Mysterious Love |
 | Mysterious Love | Starwolf | Mysterious Love |
-| Mysterious Love | Starwolf | Mysterious Love |
-| Mysterious Love | Starwolf | Mysterious Love |
+| Tropical Disco | Starwolf | Tropical Disco |
+| Tropical Disco | Starwolf | Tropical Disco |
+| Tropical Disco | Starwolf | Tropical Disco |
 
-_Updated 2026-05-28 13:28 UTC_
+_Updated 2026-05-28 19:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
