@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| 6's To 9's | Big Wild featuring Rationale | Superdream |
+| In Your Eyes | Robin Schulz feat. Alida | IIII |
 | When You Were Young | The Killers | Sam’s Town |
 | Midnight City | M83 | Midnight City |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Mysterious Love | Starwolf | Mysterious Love |
-| Mysterious Love | Starwolf | Mysterious Love |
 
-_Updated 2026-05-29 07:33 UTC_
+_Updated 2026-05-29 13:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
