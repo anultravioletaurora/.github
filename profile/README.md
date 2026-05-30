@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| RATATA | Victoria | RATATA |
-| A Little Wicked | Valerie Broussard | A Little Wicked |
-| A Little Wicked | Valerie Broussard | A Little Wicked |
-| It Was a Good Day | Ice Cube | It Was a Good Day |
-| Mysterious Love | Starwolf | Mysterious Love |
+| Holding On | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
+| Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-05-30 12:35 UTC_
+_Updated 2026-05-30 18:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
