@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| In Your Eyes | Robin Schulz feat. Alida | IIII |
-| When You Were Young | The Killers | Sam’s Town |
+| RATATA | Victoria | RATATA |
+| A Little Wicked | Valerie Broussard | A Little Wicked |
+| A Little Wicked | Valerie Broussard | A Little Wicked |
+| It Was a Good Day | Ice Cube | It Was a Good Day |
+| Mysterious Love | Starwolf | Mysterious Love |
 
-_Updated 2026-05-30 07:11 UTC_
+_Updated 2026-05-30 12:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
