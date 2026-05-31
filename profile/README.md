@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Count On You | Paperwhite | Count On You |
 | angel wings | Madison Beer | locket |
 | yes baby | Madison Beer | locket |
 | Evil Woman | Electric Light Orchestra | All Over The World: The Very Best Of Elo |
 | Remedy | Leony | Somewhere in Between |
-| Against the Dark (Demo) | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-05-31 01:11 UTC_
+_Updated 2026-05-31 07:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
