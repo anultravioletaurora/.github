@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Holding On | Leony | Somewhere in Between |
+| angel wings | Madison Beer | locket |
+| yes baby | Madison Beer | locket |
+| Evil Woman | Electric Light Orchestra | All Over The World: The Very Best Of Elo |
 | Remedy | Leony | Somewhere in Between |
-| Remedy | Leony | Somewhere in Between |
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| Against the Dark (Demo) | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-05-30 18:31 UTC_
+_Updated 2026-05-31 01:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
