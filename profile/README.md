@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| This Is What They Meant | Biig Piig | Bubblegum |
-| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
-| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
-| Count On You | Paperwhite | Count On You |
-| angel wings | Madison Beer | locket |
+| Death & Romance | Magdalena Bay | Imaginal Disk |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| swordsman | Night Tapes | portals//polarities |
+| drifting | Night Tapes | assisted memories |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-05-31 12:40 UTC_
+_Updated 2026-05-31 18:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
