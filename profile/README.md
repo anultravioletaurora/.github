@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| This Is What They Meant | Biig Piig | Bubblegum |
+| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
+| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
 | Count On You | Paperwhite | Count On You |
 | angel wings | Madison Beer | locket |
-| yes baby | Madison Beer | locket |
-| Evil Woman | Electric Light Orchestra | All Over The World: The Very Best Of Elo |
-| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-05-31 07:29 UTC_
+_Updated 2026-05-31 12:40 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
