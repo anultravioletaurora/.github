@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Death & Romance | Magdalena Bay | Imaginal Disk |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| swordsman | Night Tapes | portals//polarities |
-| drifting | Night Tapes | assisted memories |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Big Stick | MUNA | Dancing on the Wall |
+| Remedy | Leony | Somewhere in Between |
+| Oh No | Justin Caruso | Oh No |
+| Oh No | Justin Caruso | Oh No |
+| Oh No | Justin Caruso | Oh No |
 
-_Updated 2026-05-31 18:32 UTC_
+_Updated 2026-06-01 01:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
