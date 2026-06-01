@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Julia | Makeup and Vanity Set | Hit TV |
-| Memory of You | Michael Oakley x Missing Words | Prologue |
-| Warriors of the Wasteland | Michael Oakley | Prologue |
-| Prologue | Michael Oakley | Prologue |
-| Fast Friends | Zerb & 24kGoldn | Fast Friends |
+| Mr. Charlie | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
+| Monkey Man | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
+| Hear My Dear | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
+| Part Of Me | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-06-01 08:03 UTC_
+_Updated 2026-06-01 14:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
