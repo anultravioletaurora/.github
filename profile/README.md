@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Big Stick | MUNA | Dancing on the Wall |
-| Remedy | Leony | Somewhere in Between |
-| Oh No | Justin Caruso | Oh No |
-| Oh No | Justin Caruso | Oh No |
-| Oh No | Justin Caruso | Oh No |
+| Julia | Makeup and Vanity Set | Hit TV |
+| Memory of You | Michael Oakley x Missing Words | Prologue |
+| Warriors of the Wasteland | Michael Oakley | Prologue |
+| Prologue | Michael Oakley | Prologue |
+| Fast Friends | Zerb & 24kGoldn | Fast Friends |
 
-_Updated 2026-06-01 01:14 UTC_
+_Updated 2026-06-01 08:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
