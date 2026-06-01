@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Mr. Charlie | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Monkey Man | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Hear My Dear | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Part Of Me | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Volunteered Slavery | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
+| Propaganda | BANKS | III |
+| swordsman | Night Tapes | portals//polarities |
+| Mumble Bull | CBDB | Out of Line |
+| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
 
-_Updated 2026-06-01 14:14 UTC_
+_Updated 2026-06-01 19:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
