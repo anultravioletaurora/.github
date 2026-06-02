@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Somebody to Love | Kylie Minogue | Tension |
-| Scream Drive Faster | Laurel | Scream Drive Faster |
-| Volunteered Slavery | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Volunteered Slavery | Tedeschi Trucks Band | 2024/06/01 Berkeley, CA |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Together | Dan Croll | Grand Plan |
+| Together | Dan Croll | Grand Plan |
+| Together | Dan Croll | Grand Plan |
+| Cold‐Blooded | Dan Croll | Grand Plan |
+| Honeymoon | Dan Croll | Grand Plan |
 
-_Updated 2026-06-02 01:13 UTC_
+_Updated 2026-06-02 19:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
