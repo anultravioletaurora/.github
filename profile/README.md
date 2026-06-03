@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Help On The Way > | Grateful Dead | 84-04-17 - Niagara Falls Convention Center |
-| Move | BANKS | Off With Her Head |
-| Delulu | BANKS | Off With Her Head |
-| Love Is Unkind | BANKS | Off With Her Head |
 | I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
+| drifting | Night Tapes | assisted memories |
 
-_Updated 2026-06-03 13:52 UTC_
+_Updated 2026-06-03 19:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
