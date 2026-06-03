@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Together | Dan Croll | Grand Plan |
-| Together | Dan Croll | Grand Plan |
-| Together | Dan Croll | Grand Plan |
-| Cold‐Blooded | Dan Croll | Grand Plan |
-| Honeymoon | Dan Croll | Grand Plan |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Can't Get You Out of My Head | Goose | 2024/05/26 Chillicothe, IL |
+| Hot Tea | Goose | 2024/05/26 Chillicothe, IL |
+| Everything Must Go | Goose | 2024/05/26 Chillicothe, IL |
+| Legend of Lumbar | Lydian Collective | Adventure |
 
-_Updated 2026-06-02 19:25 UTC_
+_Updated 2026-06-03 01:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
