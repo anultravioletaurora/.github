@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Can't Get You Out of My Head | Goose | 2024/05/26 Chillicothe, IL |
-| Hot Tea | Goose | 2024/05/26 Chillicothe, IL |
-| Everything Must Go | Goose | 2024/05/26 Chillicothe, IL |
-| Legend of Lumbar | Lydian Collective | Adventure |
+| Help On The Way > | Grateful Dead | 84-04-17 - Niagara Falls Convention Center |
+| Move | BANKS | Off With Her Head |
+| Delulu | BANKS | Off With Her Head |
+| Love Is Unkind | BANKS | Off With Her Head |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
 
-_Updated 2026-06-03 07:55 UTC_
+_Updated 2026-06-03 13:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
