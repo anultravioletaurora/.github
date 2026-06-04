@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Suit & Tie (feat. Jay-Z) | Justin Timberlake | The 20/20 Experience (deluxe Version) |
-| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
-| At Least I'm Hot | Reneé Rapp | BITE ME |
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| Pretty Boy | LÉON | Pretty Boy |
+| swordsman | Night Tapes | portals//polarities |
+| SMH | Jae Stephens | TOTAL SELLOUT |
+| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
+| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
+| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
 
-_Updated 2026-06-04 01:19 UTC_
+_Updated 2026-06-04 07:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
