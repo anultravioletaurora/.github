@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Kiss U Back | Jae Stephens | TOTAL SELLOUT |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| Death & Romance | Magdalena Bay | Imaginal Disk |
+| Death & Romance | Magdalena Bay | Imaginal Disk |
 | swordsman | Night Tapes | portals//polarities |
-| SMH | Jae Stephens | TOTAL SELLOUT |
-| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
-| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
-| Journey to the Second Sun | W O L F C L U B feat. NYRE | Journey to the Second Sun |
 
-_Updated 2026-06-04 07:49 UTC_
+_Updated 2026-06-04 13:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
