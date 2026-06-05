@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| drifting | Night Tapes | assisted memories |
 | Dracula | Tame Impala | Deadbeat |
 | Away From Today | Dan Croll | Emerging Adulthood |
 | Easy | Troye Sivan | In a Dream |
 | Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
-| Stunnin’ | Curtis Waters feat. Harm Franklin | Stunnin’ |
 
-_Updated 2026-06-05 01:10 UTC_
+_Updated 2026-06-05 07:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
