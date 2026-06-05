@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Dracula | Tame Impala | Deadbeat |
+| Rock You | Dirty Loops & Lari Basilio | LIVE from the #JammJam at Roskilde |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
 | Louder, Please | Rose Gray | Louder, Please |
 | Everything Changes (But I Won’t) | Rose Gray | Louder, Please |
-| drifting | Night Tapes | assisted memories |
-| Dracula | Tame Impala | Deadbeat |
-| Away From Today | Dan Croll | Emerging Adulthood |
 
-_Updated 2026-06-05 13:14 UTC_
+_Updated 2026-06-05 18:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
