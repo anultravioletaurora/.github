@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Touch Of Grey > | Grateful Dead | 82-09-17 - Cumberland County Civic Center |
-| Touch Of Grey | Grateful Dead | 84-04-17 - Niagara Falls Convention Center |
-| Slipknot!> | Grateful Dead | 76-06-03 - Paramount Theatre |
-| Help On The Way> | Grateful Dead | 76-06-03 - Paramount Theatre |
-| Kiss U Back | Jae Stephens | TOTAL SELLOUT |
+| Dracula | Tame Impala | Deadbeat |
+| Away From Today | Dan Croll | Emerging Adulthood |
+| Easy | Troye Sivan | In a Dream |
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
+| Stunnin’ | Curtis Waters feat. Harm Franklin | Stunnin’ |
 
-_Updated 2026-06-04 18:57 UTC_
+_Updated 2026-06-05 01:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
