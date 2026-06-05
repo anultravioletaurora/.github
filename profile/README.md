@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Louder, Please | Rose Gray | Louder, Please |
+| Everything Changes (But I Won’t) | Rose Gray | Louder, Please |
 | drifting | Night Tapes | assisted memories |
 | Dracula | Tame Impala | Deadbeat |
 | Away From Today | Dan Croll | Emerging Adulthood |
-| Easy | Troye Sivan | In a Dream |
-| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
 
-_Updated 2026-06-05 07:41 UTC_
+_Updated 2026-06-05 13:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
