@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
-| Heroes of the Heart | The Strike | A Dream Through Open Eyes |
+| Me and Julio Down By The Schoolyard | Goose | 2021/07/06 Livingston, MT |
+| Bad Bad Place | HYRA | Bad Bad Place & Nobody’s Daughter |
+| Remedy | Leony | Somewhere in Between |
+| FFF | Zara Larsson | Poster Girl |
+| FFF | Zara Larsson | Poster Girl |
 
-_Updated 2026-06-06 12:38 UTC_
+_Updated 2026-06-06 18:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
