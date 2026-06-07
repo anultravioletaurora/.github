@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Me and Julio Down By The Schoolyard | Goose | 2021/07/06 Livingston, MT |
-| Bad Bad Place | HYRA | Bad Bad Place & Nobody’s Daughter |
-| Remedy | Leony | Somewhere in Between |
-| FFF | Zara Larsson | Poster Girl |
-| FFF | Zara Larsson | Poster Girl |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Julia | Makeup and Vanity Set | Hit TV |
+| I Want It All | Bonnie McKee | Bombastic |
+| Love Me Alive | The Knocks & Dragonette | Revelation |
+| love me true | MisterWives | SUPERBLOOM |
 
-_Updated 2026-06-06 18:35 UTC_
+_Updated 2026-06-07 01:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
