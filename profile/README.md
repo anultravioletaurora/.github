@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Like You Better Than Me | Bebe Rexha | I Like You Better Than Me |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| No Rain | Goose | 2025/06/20 Cleveland, OH |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| No Rain | Goose | 2025/06/20 Cleveland, OH |
+| Casey Jones | Jerry Garcia Acoustic Band | Almost Acoustic |
+| Touch Of Grey | Joe Russo's Almost Dead | Port Chester, NY :: 2020-02-22 |
 
-_Updated 2026-06-07 12:42 UTC_
+_Updated 2026-06-07 18:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
