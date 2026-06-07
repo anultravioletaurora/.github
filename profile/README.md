@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Syndicate |
-| Julia | Makeup and Vanity Set | Hit TV |
-| I Want It All | Bonnie McKee | Bombastic |
-| Love Me Alive | The Knocks & Dragonette | Revelation |
-| love me true | MisterWives | SUPERBLOOM |
+| I Like You Better Than Me | Bebe Rexha | I Like You Better Than Me |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| UNKNOWN LOVERZ | Slayyyter | WOR$T GIRL IN AMERICA |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
 
-_Updated 2026-06-07 07:35 UTC_
+_Updated 2026-06-07 12:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
