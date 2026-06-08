@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Tonight | VICTORS | Tonight |
 | swordsman | Night Tapes | Night Tapes on Audiotree Live |
 | swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| American Doll | Rebecca Black | SALVATION |
+| Sugar Water Cyanide | Rebecca Black | SALVATION |
 
-_Updated 2026-06-08 01:13 UTC_
+_Updated 2026-06-08 07:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
