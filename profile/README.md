@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tonight | VICTORS | Tonight |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| American Doll | Rebecca Black | SALVATION |
-| Sugar Water Cyanide | Rebecca Black | SALVATION |
+| UH OH! | Loud Luxury | UH OH! |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
 
-_Updated 2026-06-08 07:58 UTC_
+_Updated 2026-06-08 13:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
