@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| No Rain | Goose | 2025/06/20 Cleveland, OH |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| No Rain | Goose | 2025/06/20 Cleveland, OH |
-| Casey Jones | Jerry Garcia Acoustic Band | Almost Acoustic |
-| Touch Of Grey | Joe Russo's Almost Dead | Port Chester, NY :: 2020-02-22 |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
 
-_Updated 2026-06-07 18:35 UTC_
+_Updated 2026-06-08 01:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
