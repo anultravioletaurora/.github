@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Tonight | VICTORS | Tonight |
+| Tonight | VICTORS | Tonight |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
 | UH OH! | Loud Luxury | UH OH! |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
 
-_Updated 2026-06-08 13:39 UTC_
+_Updated 2026-06-08 18:59 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
