@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tonight | VICTORS | Tonight |
-| Tonight | VICTORS | Tonight |
 | Around the World (La La La La La) | ATC | Planet Pop |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| UH OH! | Loud Luxury | UH OH! |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Music Is Through | Jamie Cullum | The Pursuit |
+| Got Love | Tove Lo | Queen of the Clouds |
+| Tonight | VICTORS | Tonight |
 
-_Updated 2026-06-08 18:59 UTC_
+_Updated 2026-06-09 01:04 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
