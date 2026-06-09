@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Hit the Bottom | St. Lucia | Early Demos |
-| I Hit the Bottom | St. Lucia | Early Demos |
-| Hang Tight | St. Lucia | Early Demos |
-| An Earthquake | St. Lucia | Early Demos |
-| Landslide | St. Lucia | Early Demos |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Music Is Through | Jamie Cullum | The Pursuit |
+| Music Is Through | Jamie Cullum | The Pursuit |
+| America 2 | The Midnight | Kids |
 
-_Updated 2026-06-09 13:11 UTC_
+_Updated 2026-06-09 18:53 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
