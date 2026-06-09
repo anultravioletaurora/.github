@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Music Is Through | Jamie Cullum | The Pursuit |
-| Got Love | Tove Lo | Queen of the Clouds |
-| Tonight | VICTORS | Tonight |
+| I Hit the Bottom | St. Lucia | Early Demos |
+| I Hit the Bottom | St. Lucia | Early Demos |
+| Hang Tight | St. Lucia | Early Demos |
+| An Earthquake | St. Lucia | Early Demos |
+| Landslide | St. Lucia | Early Demos |
 
-_Updated 2026-06-09 01:04 UTC_
+_Updated 2026-06-09 13:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
