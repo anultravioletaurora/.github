@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Music Is Through | Jamie Cullum | The Pursuit |
-| Music Is Through | Jamie Cullum | The Pursuit |
-| America 2 | The Midnight | Kids |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| My Head & My Heart | Ava Max | Heaven & Hell |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Sienna | The Marías | Submarine |
 
-_Updated 2026-06-09 18:53 UTC_
+_Updated 2026-06-10 01:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
