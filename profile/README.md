@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Çike Çike | Bebe Rexha | Çike Çike |
 | Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| My Head & My Heart | Ava Max | Heaven & Hell |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Sienna | The Marías | Submarine |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
 
-_Updated 2026-06-10 01:10 UTC_
+_Updated 2026-06-10 07:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
