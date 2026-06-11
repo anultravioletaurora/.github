@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bizarre Love Triangle | New Order | Singles |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Silent Treatment | Freya Skye | Stardust |
-| Petty | Freya Skye | Stardust |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| My Head & My Heart | Ava Max | Heaven & Hell |
 
-_Updated 2026-06-10 19:03 UTC_
+_Updated 2026-06-11 01:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
