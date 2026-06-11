@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Equaliser (Not Alone) | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Synthetic | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Daytona | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Sunset | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Somebody to Love | Kylie Minogue | Tension |
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Method Acting | Work Drugs | Method Acting |
+| swordsman | Night Tapes | portals//polarities |
+| Method Acting | Work Drugs | Method Acting |
 
-_Updated 2026-06-11 16:11 UTC_
+_Updated 2026-06-11 20:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
