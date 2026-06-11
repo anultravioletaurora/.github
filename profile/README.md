@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| FFF | Zara Larsson | Poster Girl |
+| Remedy | Leony | Somewhere in Between |
+| yes baby | Madison Beer | locket |
 | YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| My Head & My Heart | Ava Max | Heaven & Hell |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
 
-_Updated 2026-06-11 01:12 UTC_
+_Updated 2026-06-11 10:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
