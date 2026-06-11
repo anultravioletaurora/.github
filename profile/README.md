@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| FFF | Zara Larsson | Poster Girl |
-| Remedy | Leony | Somewhere in Between |
-| yes baby | Madison Beer | locket |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| The Equaliser (Not Alone) | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Synthetic | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Daytona | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Sunset | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-06-11 10:46 UTC_
+_Updated 2026-06-11 16:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
