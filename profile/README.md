@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Somebody to Love | Kylie Minogue | Tension |
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Method Acting | Work Drugs | Method Acting |
-| swordsman | Night Tapes | portals//polarities |
-| Method Acting | Work Drugs | Method Acting |
+| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
+| Dawning of the Season | Magdalena Bay | Mercurial World |
+| Mercurial World | Magdalena Bay | Mercurial World |
+| Eurosummer + Shakira | Zara Larsson & Shakira | Midnight Sun: Girls Trip |
+| Girl’s Girl + Emilia | Zara Larsson & Emilia | Midnight Sun: Girls Trip |
 
-_Updated 2026-06-11 20:27 UTC_
+_Updated 2026-06-12 04:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
