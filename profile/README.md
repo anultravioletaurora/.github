@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
-| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
-| Dawning of the Season | Magdalena Bay | Mercurial World |
-| Mercurial World | Magdalena Bay | Mercurial World |
-| Eurosummer + Shakira | Zara Larsson & Shakira | Midnight Sun: Girls Trip |
+| Can’t Tame Her | Zara Larsson | VENUS |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| greedy | Tate McRae | THINK LATER |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| edamame | bbno$ feat. Rich Brian | edamame |
 
-_Updated 2026-06-12 10:22 UTC_
+_Updated 2026-06-12 15:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
