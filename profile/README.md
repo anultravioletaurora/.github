@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Secrets (Your Fire) | Magdalena Bay | Mercurial World |
+| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
 | Dawning of the Season | Magdalena Bay | Mercurial World |
 | Mercurial World | Magdalena Bay | Mercurial World |
 | Eurosummer + Shakira | Zara Larsson & Shakira | Midnight Sun: Girls Trip |
-| Girl’s Girl + Emilia | Zara Larsson & Emilia | Midnight Sun: Girls Trip |
 
-_Updated 2026-06-12 04:39 UTC_
+_Updated 2026-06-12 10:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
