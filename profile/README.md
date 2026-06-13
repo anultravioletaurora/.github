@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| The Beginning | Magdalena Bay | Mercurial World |
+| The Beginning | Magdalena Bay | Mercurial World |
 | Can’t Tame Her | Zara Larsson | VENUS |
 | Can’t Tame Her | Zara Larsson | VENUS |
 | Can’t Tame Her | Zara Larsson | VENUS |
-| Can’t Tame Her | Zara Larsson | VENUS |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
 
-_Updated 2026-06-12 20:17 UTC_
+_Updated 2026-06-13 01:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
