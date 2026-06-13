@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Beginning | Magdalena Bay | Mercurial World |
-| The Beginning | Magdalena Bay | Mercurial World |
-| Can’t Tame Her | Zara Larsson | VENUS |
-| Can’t Tame Her | Zara Larsson | VENUS |
-| Can’t Tame Her | Zara Larsson | VENUS |
+| Save Me | Empress Of | Save Me |
+| Miracle Man | Bebe Rexha | Bebe |
+| CONTROL | Frost Children | WHAT IS FOREVER FOR |
+| Music Is Through | Jamie Cullum | The Pursuit |
+| Got Love | Tove Lo | Queen of the Clouds |
 
-_Updated 2026-06-13 12:47 UTC_
+_Updated 2026-06-13 18:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
