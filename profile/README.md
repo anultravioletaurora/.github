@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Within You, Within Me | Meltt | Eternal Embers |
+| Within You, Within Me | Meltt | Eternal Embers |
 | It Kills Me | NINA | Sleepwalking |
-| Sleepwalking | NINA | Sleepwalking |
-| Born to Live | NINA | Sleepwalking |
-| The Absent Sea | Meltt | Eternal Embers |
-| Do You Ever Wonder? | Meltt | Eternal Embers |
+| It Kills Me | NINA | Sleepwalking |
+| It Kills Me | NINA | Sleepwalking |
 
-_Updated 2026-06-14 01:15 UTC_
+_Updated 2026-06-14 07:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
