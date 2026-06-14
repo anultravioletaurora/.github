@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Save Me | Empress Of | Save Me |
-| Miracle Man | Bebe Rexha | Bebe |
-| CONTROL | Frost Children | WHAT IS FOREVER FOR |
-| Music Is Through | Jamie Cullum | The Pursuit |
-| Got Love | Tove Lo | Queen of the Clouds |
+| It Kills Me | NINA | Sleepwalking |
+| Sleepwalking | NINA | Sleepwalking |
+| Born to Live | NINA | Sleepwalking |
+| The Absent Sea | Meltt | Eternal Embers |
+| Do You Ever Wonder? | Meltt | Eternal Embers |
 
-_Updated 2026-06-13 18:38 UTC_
+_Updated 2026-06-14 01:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
