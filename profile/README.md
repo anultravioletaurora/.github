@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Alaska | BANKS | III |
+| Stroke | BANKS | III |
+| Stroke | BANKS | III |
 | Within You, Within Me | Meltt | Eternal Embers |
 | Within You, Within Me | Meltt | Eternal Embers |
-| It Kills Me | NINA | Sleepwalking |
-| It Kills Me | NINA | Sleepwalking |
-| It Kills Me | NINA | Sleepwalking |
 
-_Updated 2026-06-14 12:50 UTC_
+_Updated 2026-06-14 18:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
