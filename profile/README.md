@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| synaptic transfer | arcologies | VAPOR DRIVE |
-| Lights Up | Harry Styles | Fine Line |
-| Adore You | Harry Styles | Fine Line |
-| Watermelon Sugar | Harry Styles | Fine Line |
-| Remedy | Leony | Somewhere in Between |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Mercurial World | Magdalena Bay | Mercurial World |
 
-_Updated 2026-06-15 14:18 UTC_
+_Updated 2026-06-15 19:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
