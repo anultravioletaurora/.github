@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Within You, Within Me | Meltt | Eternal Embers |
-| Within You, Within Me | Meltt | Eternal Embers |
-| Alaska | BANKS | III |
-| Alaska | BANKS | III |
+| synaptic transfer | arcologies | VAPOR DRIVE |
+| Lights Up | Harry Styles | Fine Line |
+| Adore You | Harry Styles | Fine Line |
+| Watermelon Sugar | Harry Styles | Fine Line |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-15 08:17 UTC_
+_Updated 2026-06-15 14:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
