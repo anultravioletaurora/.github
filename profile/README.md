@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Within You, Within Me | Meltt | Eternal Embers |
+| Within You, Within Me | Meltt | Eternal Embers |
 | Alaska | BANKS | III |
-| Stroke | BANKS | III |
-| Stroke | BANKS | III |
-| Within You, Within Me | Meltt | Eternal Embers |
-| Within You, Within Me | Meltt | Eternal Embers |
+| Alaska | BANKS | III |
 
-_Updated 2026-06-15 01:18 UTC_
+_Updated 2026-06-15 08:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
