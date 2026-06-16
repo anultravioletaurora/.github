@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Eurosummer | Zara Larsson | Midnight Sun |
-| Eurosummer | Zara Larsson | Midnight Sun |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Mercurial World | Magdalena Bay | Mercurial World |
+| synaptic transfer | arcologies | VAPOR DRIVE |
+| California Rainfall | Cosmic Cycler | 1-900-WEATHER |
+| IPHONE 25XR | Kyo-2, Macintosh Plus | IPhone 25XR |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
 
-_Updated 2026-06-15 19:26 UTC_
+_Updated 2026-06-16 01:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
