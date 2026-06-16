@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| synaptic transfer | arcologies | VAPOR DRIVE |
-| California Rainfall | Cosmic Cycler | 1-900-WEATHER |
-| IPHONE 25XR | Kyo-2, Macintosh Plus | IPhone 25XR |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
 | patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| To Hell We Ride | Lostprophets | Start Something |
 
-_Updated 2026-06-16 01:20 UTC_
+_Updated 2026-06-16 08:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
