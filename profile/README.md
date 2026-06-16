@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| swordsman | Night Tapes | portals//polarities |
+| swordsman | Night Tapes | portals//polarities |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| Kreislaufkollabs | Nura | Periodt |
 | patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| To Hell We Ride | Lostprophets | Start Something |
 
-_Updated 2026-06-16 08:10 UTC_
+_Updated 2026-06-16 14:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
