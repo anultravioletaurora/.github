@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| lake effect | arcologies | Nautical Sunset |
 | To Hell We Ride | Lostprophets | Start Something |
 | Sad Girls (extended mix) | Bebe Rexha | Sad Girls (extended mix) |
 | To Hell We Ride | Lostprophets | Start Something |
 | Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-06-16 19:20 UTC_
+_Updated 2026-06-17 01:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
