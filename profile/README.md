@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| lake effect | arcologies | Nautical Sunset |
-| To Hell We Ride | Lostprophets | Start Something |
-| Sad Girls (extended mix) | Bebe Rexha | Sad Girls (extended mix) |
-| To Hell We Ride | Lostprophets | Start Something |
+| SOS | Nura x Remoe | SOS |
+| He’s Gone | Grateful Dead | 1991‐06‐09: Buckeye Lake Music Center, Hebron, OH, USA |
 | Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| Playin’ in the Band | Grateful Dead | 1991‐06‐09: Buckeye Lake Music Center, Hebron, OH, USA |
+| Up All Night | Meltt | Pathways |
 
-_Updated 2026-06-17 08:05 UTC_
+_Updated 2026-06-17 13:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
