@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| Love Is an Ocean | The Midnight | Syndicate |
 | Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
 | Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
-| Within You, Within Me (Audiotree Live Version) | Meltt, Audiotree | Meltt on Audiotree Live |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
 
-_Updated 2026-06-18 07:55 UTC_
+_Updated 2026-06-18 13:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
