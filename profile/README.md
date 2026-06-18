@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
-| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
-| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
+| edamame | bbno$ feat. Rich Brian | eat ya veggies |
+| To Hell We Ride | Lostprophets | Start Something |
+| edamame | bbno$ feat. Rich Brian | eat ya veggies |
+| edamame | bbno$ feat. Rich Brian | eat ya veggies |
+| To Hell We Ride | Lostprophets | Start Something |
 
-_Updated 2026-06-18 13:22 UTC_
+_Updated 2026-06-18 18:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
