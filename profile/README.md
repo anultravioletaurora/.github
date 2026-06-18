@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Syndicate |
-| Rollercoaster | Perrie | Rollercoaster |
-| And the Hero Will Drown | Story of the Year | Page Avenue |
-| Remedy | Leony | Somewhere in Between |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
+| Your Type | Carly Rae Jepsen | Emotion (deluxe Expanded Edition) |
+| Within You, Within Me (Audiotree Live Version) | Meltt, Audiotree | Meltt on Audiotree Live |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-06-18 01:14 UTC_
+_Updated 2026-06-18 07:55 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
