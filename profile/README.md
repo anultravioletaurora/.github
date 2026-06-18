@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| To Hell We Ride | Lostprophets | Start Something |
-| SOS | Nura x Remoe | SOS |
-| To Hell We Ride | Lostprophets | Start Something |
-| SOS | Nura x Remoe | SOS |
-| To Hell We Ride | Lostprophets | Start Something |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Rollercoaster | Perrie | Rollercoaster |
+| And the Hero Will Drown | Story of the Year | Page Avenue |
+| Remedy | Leony | Somewhere in Between |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
 
-_Updated 2026-06-17 18:59 UTC_
+_Updated 2026-06-18 01:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
