@@ -47,11 +47,11 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 |-------|--------|-------|
 | Blue Monday | New Order | Singles |
 | Blue Monday | New Order | Singles |
-| Body Favors | Jae Stephens | TOTAL SELLOUT |
-| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| Blue Monday | New Order | Singles |
+| Blue Monday | New Order | Singles |
 | Body Favors | Jae Stephens | TOTAL SELLOUT |
 
-_Updated 2026-06-19 08:05 UTC_
+_Updated 2026-06-19 13:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
