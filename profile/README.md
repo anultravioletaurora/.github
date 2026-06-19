@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| edamame | bbno$ feat. Rich Brian | eat ya veggies |
-| To Hell We Ride | Lostprophets | Start Something |
-| edamame | bbno$ feat. Rich Brian | eat ya veggies |
-| edamame | bbno$ feat. Rich Brian | eat ya veggies |
-| To Hell We Ride | Lostprophets | Start Something |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| Away From Today | Dan Croll | Emerging Adulthood |
+| Sweetheart (Dance Yourself Clean remix) | Rebecca Black | Sweetheart (Dance Yourself Clean remix) |
+| Remedy | Leony | Somewhere in Between |
+| Easy | Bonnie McKee | Bombastic |
 
-_Updated 2026-06-18 18:57 UTC_
+_Updated 2026-06-19 01:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
