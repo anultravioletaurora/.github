@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Blue Monday | New Order | Singles |
+| Blue Monday | New Order | Singles |
 | Body Favors | Jae Stephens | TOTAL SELLOUT |
-| Away From Today | Dan Croll | Emerging Adulthood |
-| Sweetheart (Dance Yourself Clean remix) | Rebecca Black | Sweetheart (Dance Yourself Clean remix) |
-| Remedy | Leony | Somewhere in Between |
-| Easy | Bonnie McKee | Bombastic |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
 
-_Updated 2026-06-19 01:20 UTC_
+_Updated 2026-06-19 08:05 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
