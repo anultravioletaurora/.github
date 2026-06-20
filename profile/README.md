@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Remedy | Leony | Somewhere in Between |
-| Remedy | Leony | Somewhere in Between |
+| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
+| To Hell We Ride | Lostprophets | Start Something |
 | Remedy | Leony | Somewhere in Between |
 | Remedy | Leony | Somewhere in Between |
 | Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-20 01:09 UTC_
+_Updated 2026-06-20 07:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
