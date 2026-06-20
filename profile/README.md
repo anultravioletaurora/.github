@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| To Hell We Ride | Lostprophets | Start Something |
-| And the Hero Will Drown | Story of the Year | Page Avenue |
-| And the Hero Will Drown | Story of the Year | Page Avenue |
-| To Hell We Ride | Lostprophets | Start Something |
-| To Hell We Ride | Lostprophets | Start Something |
+| Remedy | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-19 18:45 UTC_
+_Updated 2026-06-20 01:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
