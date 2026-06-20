@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
-| Big Stick | MUNA | Dancing on the Wall |
-| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
+| Prodigal Daughter | Lights | Prodigal Daughter |
+| Prodigal Daughter | Lights | Prodigal Daughter |
+| Prodigal Daughter | Lights | Prodigal Daughter |
+| Prodigal Daughter | Lights | Prodigal Daughter |
 | To Hell We Ride | Lostprophets | Start Something |
-| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-20 12:47 UTC_
+_Updated 2026-06-20 18:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
