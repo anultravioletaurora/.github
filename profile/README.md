@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
 | To Hell We Ride | Lostprophets | Start Something |
+| Nomu | Good Kid | Good Kid |
+| To Hell We Ride | Lostprophets | Start Something |
+| Nomu | Good Kid | Good Kid |
+| Nomu | Good Kid | Good Kid |
 
-_Updated 2026-06-20 18:38 UTC_
+_Updated 2026-06-21 01:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
