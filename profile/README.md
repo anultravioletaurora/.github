@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| From the Start | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
-| Karma | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
-| Shadow | Icon for Hire | Shadow |
-| Shadow | Icon for Hire | Shadow |
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
+| Cry Baby | Clean Bandit, Anne‐Marie & David Guetta | Cry Baby |
+| Cry Baby | Clean Bandit, Anne‐Marie & David Guetta | Cry Baby |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| I Wanna | The All‐American Rejects | When the World Comes Down |
 
-_Updated 2026-06-22 01:17 UTC_
+_Updated 2026-06-22 08:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
