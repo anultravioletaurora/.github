@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| To Hell We Ride | Lostprophets | Start Something |
-| To Hell We Ride | Lostprophets | Start Something |
-| To Hell We Ride | Lostprophets | Start Something |
-| Nomu | Good Kid | Good Kid |
+| From the Start | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
+| Karma | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
+| Shadow | Icon for Hire | Shadow |
+| Shadow | Icon for Hire | Shadow |
+| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
 
-_Updated 2026-06-21 18:40 UTC_
+_Updated 2026-06-22 01:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
