@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Cry Baby | Clean Bandit, Anne‐Marie & David Guetta | Cry Baby |
-| Cry Baby | Clean Bandit, Anne‐Marie & David Guetta | Cry Baby |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Body Favors | Jae Stephens | TOTAL SELLOUT |
-| I Wanna | The All‐American Rejects | When the World Comes Down |
+| Nomu x Animal Crossing | Good Kid | Nomu x Animal Crossing |
+| MAGIC | Ado | MAGIC |
+| Nomu | Good Kid | Good Kid |
+| ROCKSTAR | Ado | ROCKSTAR |
+| Paint Me Silver | Pond | The Weather |
 
-_Updated 2026-06-22 08:17 UTC_
+_Updated 2026-06-22 14:04 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
