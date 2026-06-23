@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| edamame | bbno$ feat. Rich Brian | edamame |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | Nomu x Animal Crossing | Good Kid | Nomu x Animal Crossing |
 | MAGIC | Ado | MAGIC |
-| Nomu | Good Kid | Good Kid |
-| ROCKSTAR | Ado | ROCKSTAR |
-| Paint Me Silver | Pond | The Weather |
 
-_Updated 2026-06-23 01:03 UTC_
+_Updated 2026-06-23 07:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
