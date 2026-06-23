@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Nomu | Good Kid | Good Kid |
-| Take Me to the River | Talking Heads | The Best of Talking Heads |
-| Take Me to the River | Talking Heads | The Best of Talking Heads |
-| Take Me to the River | Talking Heads | The Best of Talking Heads |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| Where It Started From | Lawrence | Breakfast |
+| Where It Started From | Lawrence | Breakfast |
+| Where It Started From | Lawrence | Breakfast |
+| Remedy | Leony | Somewhere in Between |
+| Where It Started From | Lawrence | Breakfast |
 
-_Updated 2026-06-23 13:09 UTC_
+_Updated 2026-06-23 18:51 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
