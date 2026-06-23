@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Nomu | Good Kid | Good Kid |
+| Take Me to the River | Talking Heads | The Best of Talking Heads |
+| Take Me to the River | Talking Heads | The Best of Talking Heads |
+| Take Me to the River | Talking Heads | The Best of Talking Heads |
 | I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
-| edamame | bbno$ feat. Rich Brian | edamame |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Nomu x Animal Crossing | Good Kid | Nomu x Animal Crossing |
-| MAGIC | Ado | MAGIC |
 
-_Updated 2026-06-23 07:27 UTC_
+_Updated 2026-06-23 13:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
