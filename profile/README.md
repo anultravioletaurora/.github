@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Changes | David Bowie | Best of Bowie |
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
 | Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
 | 2020 | The Funky Knuckles | 2020 |
 | Sun Shy | Dresses | Sun Shy |
-| Kiss Me Goodbye | Alexandra Stan | Unlocked |
-| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
 
-_Updated 2026-06-24 12:56 UTC_
+_Updated 2026-06-24 18:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
