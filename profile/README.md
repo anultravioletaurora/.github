@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Remedy | Leony | Somewhere in Between |
-| Çike Çike | Bebe Rexha | DIRTY BLONDE |
-| Away From Today | Dan Croll | Emerging Adulthood |
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
+| 2020 | The Funky Knuckles | 2020 |
+| Sun Shy | Dresses | Sun Shy |
+| Kiss Me Goodbye | Alexandra Stan | Unlocked |
+| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
 
-_Updated 2026-06-24 07:23 UTC_
+_Updated 2026-06-24 12:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
