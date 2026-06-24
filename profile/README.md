@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Where It Started From | Lawrence | Breakfast |
-| Where It Started From | Lawrence | Breakfast |
-| Where It Started From | Lawrence | Breakfast |
-| Remedy | Leony | Somewhere in Between |
-| Where It Started From | Lawrence | Breakfast |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| By the End of the Night | Amber Mark | Pretty Idea |
+| Shadow | Icon for Hire | Shadow |
 
-_Updated 2026-06-23 18:51 UTC_
+_Updated 2026-06-24 01:02 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
