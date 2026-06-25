@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
+| Blue Monday | New Order | Singles |
+| Heaven’s Sake | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
+| From the Start | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
+| Karma | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
+| Dead to Me | Meet Me @ the Altar | Meet Me @ the Altar on Audiotree Live |
 
-_Updated 2026-06-25 07:23 UTC_
+_Updated 2026-06-25 12:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
