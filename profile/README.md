@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Prodigal Daughter | Lights | Prodigal Daughter |
+| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 
-_Updated 2026-06-25 01:06 UTC_
+_Updated 2026-06-25 07:23 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
