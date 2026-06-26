@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dirty Harry (Schtung Chinese New Year remix) | Gorillaz | D‐Sides |
-| Mountain Sound | Of Monsters and Men | Live From Vatnagarðar |
-| Mountain Sound | Of Monsters and Men | Live From Vatnagarðar |
-| Straight Up (Needy) | Meet Me @ the Altar | WORRIED SICK |
-| In the Next Life | Meet Me @ the Altar | WORRIED SICK |
+| UK Border Patrol | Dimension | Organ |
+| Becoming Insane (album mix) | Infected Mushroom | Becoming Insane |
+| On & On (mixed) | Armin van Buuren, Punctual & Alika | Live at Tomorrowland 2023 (Highlights) |
+| Teka | DJ Snake & Peso Pluma | Nomad |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-25 18:53 UTC_
+_Updated 2026-06-26 01:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
