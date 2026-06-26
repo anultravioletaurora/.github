@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
+| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
+| Friday I’m in Love | The Cure | Wish |
 | UK Border Patrol | Dimension | Organ |
-| Becoming Insane (album mix) | Infected Mushroom | Becoming Insane |
-| On & On (mixed) | Armin van Buuren, Punctual & Alika | Live at Tomorrowland 2023 (Highlights) |
-| Teka | DJ Snake & Peso Pluma | Nomad |
-| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-06-26 12:53 UTC_
+_Updated 2026-06-26 18:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
