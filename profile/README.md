@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Back In Your Arms | Palace | Reckless Heart |
-| Love Language | Mimi Webb | Confessions |
-| Bizarre Love Triangle | New Order | Singles |
-| Sad Girls | Bebe Rexha | DIRTY BLONDE |
-| Blue Monday | New Order | Singles |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Stronger By The Day | Palace | Reckless Heart |
+| Move Me | Palace | Reckless Heart |
 
-_Updated 2026-06-27 12:37 UTC_
+_Updated 2026-06-27 18:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
