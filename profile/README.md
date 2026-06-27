@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
-| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
-| Sad Girls | Bebe Rexha & David Guetta | DIRTY BLONDE |
-| Friday I’m in Love | The Cure | Wish |
-| UK Border Patrol | Dimension | Organ |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Take On Me | Goose | 2024/10/26 Birmingham, AL |
+| Take On Me | Goose | 2024/10/26 Birmingham, AL |
 
-_Updated 2026-06-26 18:45 UTC_
+_Updated 2026-06-27 01:04 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
