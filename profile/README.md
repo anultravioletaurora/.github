@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Friction | The Midnight | Syndicate (Deluxe) |
+| Sad Girls | Bebe Rexha | DIRTY BLONDE |
+| Blue Monday | New Order | Singles |
 | Runaways | The Midnight | Syndicate (Deluxe) |
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| Take On Me | Goose | 2024/10/26 Birmingham, AL |
-| Take On Me | Goose | 2024/10/26 Birmingham, AL |
+| Black Sunshine (Indestructible “Sock It to Me” Psycho‐Head mix) | White Zombie | Nightcrawlers: The KMFDM Remixes |
+| Starlighter | Jupiter | Juicy Lucy |
 
-_Updated 2026-06-27 01:04 UTC_
+_Updated 2026-06-27 07:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
