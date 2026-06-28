@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Voices | Koven | Voices |
-| Love Language | Mimi Webb | Confessions |
-| Love Language | Mimi Webb | Confessions |
-| Lady Wood | Tove Lo | Lady Wood |
-| Terra Firma | Franc Moody | Dream in Colour |
+| Wait a Minute! | WILLOW | ARDIPITHECUS |
+| Twist the Knife | Rebecca Black | SALVATION |
+| BUTTERFLY | MARINA | BUTTERFLY |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-06-28 12:38 UTC_
+_Updated 2026-06-28 18:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
