@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| Forget Me | All the Damn Vampires | Forget Me |
-| Bloody Waters | H.E.R. feat. Thundercat | Back of My Mind |
-| Bloody Waters | H.E.R. feat. Thundercat | Back of My Mind |
-| Won't Cry | Amber Mark | Loosies |
+| Voices | Koven | Voices |
+| Love Language | Mimi Webb | Confessions |
+| Love Language | Mimi Webb | Confessions |
+| Lady Wood | Tove Lo | Lady Wood |
+| Terra Firma | Franc Moody | Dream in Colour |
 
-_Updated 2026-06-28 01:10 UTC_
+_Updated 2026-06-28 07:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
