@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Stronger By The Day | Palace | Reckless Heart |
-| Move Me | Palace | Reckless Heart |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Forget Me | All the Damn Vampires | Forget Me |
+| Bloody Waters | H.E.R. feat. Thundercat | Back of My Mind |
+| Bloody Waters | H.E.R. feat. Thundercat | Back of My Mind |
+| Won't Cry | Amber Mark | Loosies |
 
-_Updated 2026-06-27 18:32 UTC_
+_Updated 2026-06-28 01:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
