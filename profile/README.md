@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Wait a Minute! | WILLOW | ARDIPITHECUS |
-| Twist the Knife | Rebecca Black | SALVATION |
-| BUTTERFLY | MARINA | BUTTERFLY |
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| swordsman | Night Tapes | portals//polarities |
+| Wait a Minute! | WILLOW | ARDIPITHECUS |
+| Wait a Minute! | WILLOW | ARDIPITHECUS |
+| Wait a Minute! | WILLOW | ARDIPITHECUS |
+| Friction | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-06-28 18:32 UTC_
+_Updated 2026-06-29 01:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
