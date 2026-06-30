@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Runaways | The Midnight | Syndicate (Deluxe) |
+| Runaways | The Midnight | Syndicate (Deluxe) |
 | Lights Up | Harry Styles | Fine Line |
 | Adore You | Harry Styles | Fine Line |
 | Watermelon Sugar | Harry Styles | Fine Line |
-| Runaways | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-06-30 01:06 UTC_
+_Updated 2026-06-30 07:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
