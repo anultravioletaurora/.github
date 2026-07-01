@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| Lights Up | Harry Styles | Fine Line |
-| Adore You | Harry Styles | Fine Line |
-| Watermelon Sugar | Harry Styles | Fine Line |
+| Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
+| San Francisco Blues | Molly Tuttle & Golden Highway feat. Dan Tyminski | Crooked Tree |
+| Nashville Mess Around | Molly Tuttle & Golden Highway | Crooked Tree |
+| Over the Line | Molly Tuttle & Golden Highway feat. Sierra Hull | Crooked Tree |
+| The River Knows | Molly Tuttle & Golden Highway | Crooked Tree |
 
-_Updated 2026-06-30 18:46 UTC_
+_Updated 2026-07-01 01:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
