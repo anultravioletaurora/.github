@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
+| Country Boy | Haylie Davis | Wandering Star |
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
 | Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
-| Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
-| Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
-| Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
-| San Francisco Blues | Molly Tuttle & Golden Highway feat. Dan Tyminski | Crooked Tree |
 
-_Updated 2026-07-01 13:06 UTC_
+_Updated 2026-07-01 18:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
