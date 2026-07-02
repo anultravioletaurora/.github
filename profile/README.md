@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
+| Can’t Tame Her | Zara Larsson | VENUS |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| greedy | Tate McRae | THINK LATER |
+| Friday I’m in Love | The Cure | Wish |
+| If I Had to Do It All Again | Yola | Stand For Myself |
 
-_Updated 2026-07-02 01:07 UTC_
+_Updated 2026-07-02 12:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
