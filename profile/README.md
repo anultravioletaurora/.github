@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can’t Tame Her | Zara Larsson | VENUS |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| greedy | Tate McRae | THINK LATER |
-| Friday I’m in Love | The Cure | Wish |
-| If I Had to Do It All Again | Yola | Stand For Myself |
+| No Rain | Goose | 2025/06/20 Cleveland, OH |
+| The Way It Is | Goose | 2021/07/03 Eau Claire, WI |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Friday I’m in Love (Strangelove mix) | Cure | Wish |
+| HEAT | Tove Lo & SG Lewis | HEAT |
 
-_Updated 2026-07-02 12:47 UTC_
+_Updated 2026-07-02 18:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
