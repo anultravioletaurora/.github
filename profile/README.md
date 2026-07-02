@@ -47,11 +47,11 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 |-------|--------|-------|
 | My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
 | My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| Country Boy | Haylie Davis | Wandering Star |
 | My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
-| Sitting, Waiting, Wishing | Jack Johnson | In Between Dreams |
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
+| My Heart Beats Like a Drum (Dam Dam Dam) | ATC | Planet Pop |
 
-_Updated 2026-07-01 18:48 UTC_
+_Updated 2026-07-02 01:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
