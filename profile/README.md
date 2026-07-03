@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| No Rain | Goose | 2025/06/20 Cleveland, OH |
-| The Way It Is | Goose | 2021/07/03 Eau Claire, WI |
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Friday I’m in Love (Strangelove mix) | Cure | Wish |
-| HEAT | Tove Lo & SG Lewis | HEAT |
+| Fight For Me | Ava Max | Don't Click Play |
+| Fight For Me | Ava Max | Don't Click Play |
+| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
+| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
+| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
 
-_Updated 2026-07-02 18:36 UTC_
+_Updated 2026-07-03 00:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
