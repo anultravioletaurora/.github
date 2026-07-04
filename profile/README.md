@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Won't Cry | Amber Mark | Loosies |
-| Starlighter | Jupiter | Juicy Lucy |
-| Prodigal Daughter | Lights | Prodigal Daughter |
+| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
+| Follow the Light | Cory Wong & Dirty Loops | Turbo |
+| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
+| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
+| TRUST! | Rebecca Black | SALVATION |
 
-_Updated 2026-07-04 00:51 UTC_
+_Updated 2026-07-04 12:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
