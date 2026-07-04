@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
+| Landslide | Caveboy | Night In The Park, Kiss In The Dark (deluxe Edition) |
+| swordsman | Night Tapes | portals//polarities |
+| I Need to Know | Ledisi | Good Life |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Follow the Light | Cory Wong & Dirty Loops | Turbo |
-| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
-| Tangerine | Glass Animals feat. Arlo Parks | Tangerine |
-| TRUST! | Rebecca Black | SALVATION |
 
-_Updated 2026-07-04 12:32 UTC_
+_Updated 2026-07-04 18:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
