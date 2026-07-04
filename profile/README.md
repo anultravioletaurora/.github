@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| And the Hero Will Drown | Story of the Year | Page Avenue |
-| Love Is an Ocean | The Midnight | Love Is an Ocean |
-| 99 Red Balloons | Goose | 2023/12/09 Hampton, VA |
-| Friday I’m in Love | The Cure | Wish |
-| Friday I’m in Love | The Cure | Wish |
+| swordsman | Night Tapes | portals//polarities |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Won't Cry | Amber Mark | Loosies |
+| Starlighter | Jupiter | Juicy Lucy |
+| Prodigal Daughter | Lights | Prodigal Daughter |
 
-_Updated 2026-07-03 12:46 UTC_
+_Updated 2026-07-04 00:51 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
