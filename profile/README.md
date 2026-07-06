@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Prodigal Daughter | Lights | Prodigal Daughter |
-| Prodigal Daughter | Lights | Prodigal Daughter |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Chemicals | Oliver feat. MNDR | Full Circle |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 | Prodigal Daughter | Lights | Prodigal Daughter |
 
-_Updated 2026-07-06 07:45 UTC_
+_Updated 2026-07-06 13:23 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
