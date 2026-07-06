@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| swordsman | Night Tapes | portals//polarities |
+| swordsman | Night Tapes | portals//polarities |
 | Go With It | Oliver feat. Chromeo | Full Circle |
 | No One But Us | KISS OF LIFE | Lose Yourself |
 | Landslide | Caveboy | Night In The Park, Kiss In The Dark (deluxe Edition) |
-| swordsman | Night Tapes | portals//polarities |
-| I Need to Know | Ledisi | Good Life |
 
-_Updated 2026-07-05 18:28 UTC_
+_Updated 2026-07-06 00:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
