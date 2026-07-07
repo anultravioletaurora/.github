@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Chasing The Sun | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| Chasing The Sun | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| Anna Sun | WALK THE MOON | Walk the Moon |
+| Anna Sun | WALK THE MOON | Walk the Moon |
+| Drunk in Love | LUNAX | Slap House Party |
+| Helena Beat | Foster the People | Torches |
 
-_Updated 2026-07-07 07:20 UTC_
+_Updated 2026-07-07 12:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
