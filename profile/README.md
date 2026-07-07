@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Chasing The Sun | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| Anna Sun | WALK THE MOON | Walk the Moon |
-| Anna Sun | WALK THE MOON | Walk the Moon |
-| Drunk in Love | LUNAX | Slap House Party |
-| Helena Beat | Foster the People | Torches |
+| Hollywood | Cherry Pools | Less Religion More Sex |
+| Chemicals | Oliver feat. MNDR | Full Circle |
+| swordsman | Night Tapes | portals//polarities |
+| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-07-07 12:57 UTC_
+_Updated 2026-07-07 18:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
