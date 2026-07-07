@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hollywood | Cherry Pools | Less Religion More Sex |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Chemicals | Oliver feat. MNDR | Full Circle |
-| Prodigal Daughter | Lights | Prodigal Daughter |
+| Chasing The Sun | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| Chasing The Sun | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
+| Learn to Fly | Foo Fighters | There Is Nothing Left to Lose |
 
-_Updated 2026-07-06 18:44 UTC_
+_Updated 2026-07-07 00:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
