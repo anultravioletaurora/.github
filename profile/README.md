@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
 | Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
 | Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
 | Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
 
-_Updated 2026-07-08 00:46 UTC_
+_Updated 2026-07-08 06:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
