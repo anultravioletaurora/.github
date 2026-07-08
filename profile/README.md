@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Around the World (La La La La La) | ATC | Planet Pop |
-| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
-| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
-| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
-| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Go With It | Oliver feat. Chromeo | Full Circle |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-07-08 12:42 UTC_
+_Updated 2026-07-08 18:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
