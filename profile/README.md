@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hollywood | Cherry Pools | Less Religion More Sex |
-| Chemicals | Oliver feat. MNDR | Full Circle |
-| swordsman | Night Tapes | portals//polarities |
-| You Don't Know | Sola Rosa | Chasing The Sun (deluxe Edition) |
-| swordsman | Night Tapes | portals//polarities |
+| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
+| Sgt. Tagowski (Remastered Version) | Starcadian | Sunset Blood Special Edition |
 
-_Updated 2026-07-07 18:47 UTC_
+_Updated 2026-07-08 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
