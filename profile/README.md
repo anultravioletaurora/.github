@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| swordsman | Night Tapes | portals//polarities |
-| HEAT | Tove Lo & SG Lewis | HEAT |
+| Is This Love | Particle House & Le June | Is This Love |
+| Love You When You’re Gone | Daya | In Between Dreams |
+| Love Is an Ocean | The Midnight | Syndicate |
 | Around the World (La La La La La) | ATC | Planet Pop |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-07-09 00:51 UTC_
+_Updated 2026-07-09 07:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
