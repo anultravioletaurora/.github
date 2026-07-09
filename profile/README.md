@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| swordsman | Night Tapes | portals//polarities |
+| HEAT | Tove Lo & SG Lewis | HEAT |
 | Around the World (La La La La La) | ATC | Planet Pop |
 | Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Go With It | Oliver feat. Chromeo | Full Circle |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-07-08 18:35 UTC_
+_Updated 2026-07-09 00:51 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
