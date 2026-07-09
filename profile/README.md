@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Is This Love | Particle House & Le June | Is This Love |
-| Love You When You’re Gone | Daya | In Between Dreams |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Big Stick | MUNA | Dancing on the Wall |
+| on the road | COSMIC CYCLER | lights... |
+| shadows | COSMIC CYCLER | lights... |
+| Shadow Walk | arcologies | Dreaming in Cyan |
+| Langley | arcologies | Dreaming in Cyan |
+| Past Life | arcologies | Dreaming in Cyan |
 
-_Updated 2026-07-09 13:11 UTC_
+_Updated 2026-07-09 18:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
