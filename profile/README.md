@@ -46,12 +46,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Kiss Me Goodbye | Alexandra Stan | Unlocked |
+| Kiss Me Goodbye | Alexandra Stan | Unlocked |
+| Kiss Me Goodbye | Alexandra Stan | Unlocked |
 | Around the World (La La La La La) | ATC | Planet Pop |
 | I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-07-10 00:50 UTC_
+_Updated 2026-07-10 07:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
