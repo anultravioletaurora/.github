@@ -26,7 +26,11 @@ _A free and open source media server._
 
 _A high-performance audio player library for React Native, powered by [Nitro Modules](https://nitro.margelo.com)._
 
-## what i'm incubating
+## what i'm testing
+
+### [nomad-driver-container](https://github.com/anultravioletaurora/nomad-driver-container)
+
+_A task driver for Hashicorp's Nomad that provides support for Apple's Container and is designed for Apple Silicon_
 
 ### Nomadintosh
 [![View on GitHub](https://img.shields.io/badge/GitHub-Nomadintosh-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/anultravioletaurora/Nomadintosh)
