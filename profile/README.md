@@ -45,13 +45,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| on the road | COSMIC CYCLER | lights... |
-| shadows | COSMIC CYCLER | lights... |
-| Shadow Walk | arcologies | Dreaming in Cyan |
-| Langley | arcologies | Dreaming in Cyan |
-| Past Life | arcologies | Dreaming in Cyan |
+| Kiss Me Goodbye | Alexandra Stan | Unlocked |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-07-09 18:41 UTC_
+_Updated 2026-07-10 00:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
