@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Comeback Kid | The Midnight | Endless Summer |
-| Memories | The Midnight | Endless Summer |
-| Endless Summer | The Midnight | Endless Summer |
-| Crockett’s Revenge | The Midnight | Endless Summer |
-| Jason | The Midnight feat. Nikki Flores | Endless Summer |
+| Love You When You’re Gone | Daya | In Between Dreams |
+| swordsman | Night Tapes | portals//polarities |
+| HEAT | Tove Lo & SG Lewis | HEAT |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Runaways | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-07-10 12:52 UTC_
+_Updated 2026-07-10 18:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
