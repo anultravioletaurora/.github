@@ -1,8 +1,8 @@
 # hi, i'm violet
 
-I like building things and sharing them with the world.
+i like building things and sharing them with the world.
 
-I'm an Apple enthusiast and self-hosting nerd — most of my work lives at the intersection of mobile development and open source media. I run a Mac mini cluster at home and I'm always tinkering with something new.
+i'm an Apple enthusiast with a passion for selfhosting. my most recent obsessions are Jellyfin and React Native.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Apple](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=flat-square)
 
@@ -26,6 +26,8 @@ _A free and open source media server._
 
 _A high-performance audio player library for React Native, powered by [Nitro Modules](https://nitro.margelo.com)._
 
+## what i'm incubating
+
 ### Nomadintosh
 [![View on GitHub](https://img.shields.io/badge/GitHub-Nomadintosh-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/anultravioletaurora/Nomadintosh)
 
@@ -36,7 +38,7 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 ## what i'm planning
 
 - **Jellible** — a cross-platform audiobooks client for [Jellyfin](https://jellyfin.org), under the [Jellible-Audiobooks](https://github.com/Jellible-Audiobooks) org
-
+- **Freakwency** - a free and open source instrument tuner powered by React Native and Nitro Modules
 
 ---
 
