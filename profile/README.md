@@ -52,12 +52,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| Fame Is a Gun | Addison Rae | Addison |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| Holiday | Green Day | American Idiot (20th Anniversary Deluxe Edition) |
-| Holiday | Green Day | American Idiot (20th Anniversary Deluxe Edition) |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
 
-_Updated 2026-07-11 00:44 UTC_
+_Updated 2026-07-11 06:53 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
