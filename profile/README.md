@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| Fame Is a Gun | Addison Rae | Addison |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| Take On Me | Shannon Curtis | 80s kids |
+| Take On Me | Shannon Curtis | 80s kids |
+| Reptilia | The Strokes | Room on Fire |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
 
-_Updated 2026-07-11 12:25 UTC_
+_Updated 2026-07-11 18:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
