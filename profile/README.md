@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Take On Me | Shannon Curtis | 80s kids |
-| Take On Me | Shannon Curtis | 80s kids |
-| Reptilia | The Strokes | Room on Fire |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| I'm Good (Blue) (Oliver Heldens Extended Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Extended Remixes #2) |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| Big Stick | MUNA | Dancing on the Wall |
+| Take My Call | Ava Max | Don't Click Play |
 
-_Updated 2026-07-11 18:22 UTC_
+_Updated 2026-07-12 00:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
