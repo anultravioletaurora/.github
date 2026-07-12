@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Big Stick | MUNA | Dancing on the Wall |
-| Take My Call | Ava Max | Don't Click Play |
+| I Like to Hide in the Bathroom at Parties | Winnetka Bowling League & The Knocks | I Like to Hide in the Bathroom at Parties |
+| Fuck Love | BANKS | Serpentina |
+| Skin in the Game | Ava Max | Don't Click Play |
+| Skin in the Game | Ava Max | Don't Click Play |
+| Fight For Me | Ava Max | Don't Click Play |
 
-_Updated 2026-07-12 00:48 UTC_
+_Updated 2026-07-12 12:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
