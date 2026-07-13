@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| I Like to Hide in the Bathroom at Parties | Winnetka Bowling League & The Knocks | I Like to Hide in the Bathroom at Parties |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Go With It | Oliver feat. Chromeo | Full Circle |
 
-_Updated 2026-07-13 07:18 UTC_
+_Updated 2026-07-13 12:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
