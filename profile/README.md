@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Like to Hide in the Bathroom at Parties | Winnetka Bowling League & The Knocks | I Like to Hide in the Bathroom at Parties |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Go With It | Oliver feat. Chromeo | Full Circle |
+| TRUST! | Rebecca Black | SALVATION |
+| TRUST! | Rebecca Black | SALVATION |
+| TRUST! | Rebecca Black | SALVATION |
+| TRUST! | Rebecca Black | SALVATION |
+| TRUST! | Rebecca Black | SALVATION |
 
-_Updated 2026-07-13 12:56 UTC_
+_Updated 2026-07-13 18:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
