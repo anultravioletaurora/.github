@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Like to Hide in the Bathroom at Parties | Winnetka Bowling League & The Knocks | I Like to Hide in the Bathroom at Parties |
-| Fuck Love | BANKS | Serpentina |
-| Skin in the Game | Ava Max | Don't Click Play |
-| Skin in the Game | Ava Max | Don't Click Play |
-| Fight For Me | Ava Max | Don't Click Play |
+| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
 
-_Updated 2026-07-12 18:23 UTC_
+_Updated 2026-07-13 00:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
