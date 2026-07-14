@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| TRUST! | Rebecca Black | SALVATION |
-| TRUST! | Rebecca Black | SALVATION |
-| TRUST! | Rebecca Black | SALVATION |
-| TRUST! | Rebecca Black | SALVATION |
-| TRUST! | Rebecca Black | SALVATION |
+| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Drunk in Love | LUNAX | Slap House Party |
+| Eismann | GReeeN | Ach du grüne Neune |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
 
-_Updated 2026-07-13 18:38 UTC_
+_Updated 2026-07-14 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
