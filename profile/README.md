@@ -52,12 +52,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Pink Power | Dirty Loops | Pink Power |
-| Pink Power | Dirty Loops | Pink Power |
-| I'm a never forgive kinda girl | Banshee | FABLES |
-| BACKSTABBER | Banshee | FABLES |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| delta waves | arcologies | VAPOR DRIVE |
+| delta waves | arcologies | VAPOR DRIVE |
+| delta waves | arcologies | VAPOR DRIVE |
+| delta waves | arcologies | VAPOR DRIVE |
 
-_Updated 2026-07-14 06:52 UTC_
+_Updated 2026-07-14 12:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
