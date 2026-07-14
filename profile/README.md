@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Drunk in Love | LUNAX | Slap House Party |
-| Eismann | GReeeN | Ach du grüne Neune |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
+| Pink Power | Dirty Loops | Pink Power |
+| Pink Power | Dirty Loops | Pink Power |
+| I'm a never forgive kinda girl | Banshee | FABLES |
+| BACKSTABBER | Banshee | FABLES |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
 
-_Updated 2026-07-14 00:42 UTC_
+_Updated 2026-07-14 06:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
