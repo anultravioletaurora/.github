@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
+| Midnight | Coldplay | Ghost Stories |
+| ExtraL | JENNIE | Ruby |
 | Pink Power | Dirty Loops | Pink Power |
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
-| delta waves | arcologies | VAPOR DRIVE |
 
-_Updated 2026-07-14 12:34 UTC_
+_Updated 2026-07-14 18:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
