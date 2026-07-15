@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Midnight | Coldplay | Ghost Stories |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
 | ExtraL | JENNIE | Ruby |
-| Pink Power | Dirty Loops | Pink Power |
+| ExtraL | JENNIE | Ruby |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
 
-_Updated 2026-07-14 18:29 UTC_
+_Updated 2026-07-15 00:40 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
