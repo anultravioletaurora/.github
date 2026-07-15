@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| ExtraL | JENNIE | Ruby |
-| ExtraL | JENNIE | Ruby |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
+| Fear, Sex | Magdalena Bay | Imaginal Disk |
+| Image | Magdalena Bay | Imaginal Disk |
+| She's a Riot | The Jungle Giants | Learn To Exist |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
 
-_Updated 2026-07-15 06:53 UTC_
+_Updated 2026-07-15 18:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
