@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Dancing on the Wall | MUNA | Dancing on the Wall |
+| Sunset | The Midnight | Endless Summer |
+| HEAT | Tove Lo & SG Lewis | HEAT |
+| HEAT | Tove Lo & SG Lewis | HEAT |
 | Skin to Bone | The Jungle Giants | Learn To Exist |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Chemicals | SG Lewis | Chemicals |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-07-16 00:43 UTC_
+_Updated 2026-07-16 06:57 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
