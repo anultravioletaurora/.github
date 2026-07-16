@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| Make the First Move | Fleurie x Fathoms | Make the First Move |
-| Chemicals | SG Lewis | Chemicals |
-| Cellulite | AUDREY NUNA | Cellulite |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| LAST MAN STANDING | Blusher | RACER |
+| Everytime We Touch | Cascada | The UK Collection |
+| BRING IT BACK | TWICE | Eyes wide open |
+| Every Teardrop Is a Waterfall | Coldplay | Mylo Xyloto |
+| Everytime We Touch | Cascada | The UK Collection |
 
-_Updated 2026-07-16 12:40 UTC_
+_Updated 2026-07-16 18:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
