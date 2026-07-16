@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dancing on the Wall | MUNA | Dancing on the Wall |
-| Sunset | The Midnight | Endless Summer |
 | HEAT | Tove Lo & SG Lewis | HEAT |
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Make the First Move | Fleurie x Fathoms | Make the First Move |
+| Chemicals | SG Lewis | Chemicals |
+| Cellulite | AUDREY NUNA | Cellulite |
+| Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-07-16 06:57 UTC_
+_Updated 2026-07-16 12:40 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
