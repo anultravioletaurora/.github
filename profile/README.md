@@ -52,12 +52,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Turn It Up | Penguin Prison | Turn It Up |
-| Welcome Home, Son | Radical Face | Ghost |
-| Gimme More | Britney Spears | The Essential Britney Spears |
-| Gimme More | Britney Spears | The Essential Britney Spears |
-| Scream & Shout (radio edit) | will.i.am feat. Britney Spears | The Essential Britney Spears |
+| Turn It Up | Penguin Prison | Turn It Up |
+| On Your Side (feat. Soren Bryce) | Penguin Prison & Soren Bryce | Turn It Up |
+| On Your Side (feat. Soren Bryce) | Penguin Prison & Soren Bryce | Turn It Up |
+| Turn It Up | Penguin Prison | Turn It Up |
 
-_Updated 2026-07-17 12:33 UTC_
+_Updated 2026-07-17 18:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
