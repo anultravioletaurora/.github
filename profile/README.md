@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| LAST MAN STANDING | Blusher | RACER |
-| Everytime We Touch | Cascada | The UK Collection |
-| BRING IT BACK | TWICE | Eyes wide open |
-| Every Teardrop Is a Waterfall | Coldplay | Mylo Xyloto |
-| Everytime We Touch | Cascada | The UK Collection |
+| Gimme More | Britney Spears | The Essential Britney Spears |
+| Gimme More | Britney Spears | The Essential Britney Spears |
+| Scream & Shout (radio edit) | will.i.am feat. Britney Spears | The Essential Britney Spears |
+| Free (Fifi remix) | Rose Gray & Fifi | Louder, Please |
+| 나 너 좋아하나봐 | 승민, 아이엔 | MAXIDENT |
 
-_Updated 2026-07-16 18:30 UTC_
+_Updated 2026-07-17 00:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
