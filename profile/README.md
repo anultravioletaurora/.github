@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Turn It Up | Penguin Prison | Turn It Up |
-| Turn It Up | Penguin Prison | Turn It Up |
-| On Your Side (feat. Soren Bryce) | Penguin Prison & Soren Bryce | Turn It Up |
-| On Your Side (feat. Soren Bryce) | Penguin Prison & Soren Bryce | Turn It Up |
-| Turn It Up | Penguin Prison | Turn It Up |
+| Running Up That Hill | Kim Petras | Running Up That Hill |
+| Running Up That Hill | Kim Petras | Running Up That Hill |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
+| Somebody to Love | Kylie Minogue | Tension |
 
-_Updated 2026-07-17 18:27 UTC_
+_Updated 2026-07-18 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
