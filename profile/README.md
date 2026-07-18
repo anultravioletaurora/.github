@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Method Acting | Work Drugs | Method Acting |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| Put Your Hands Up (If You Feel Love) | Kylie Minogue | Aphrodite |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Running Up That Hill | Kim Petras | Running Up That Hill |
+| Cheap Seats | Ripe | Play The Game |
+| Friend in the Dark | Ripe | Play The Game |
+| Letting Go | Ripe & Lawrence | Play The Game |
+| Throw Some Ass | Sofi Tukker | BREAD |
+| Language | Circles Around the Sun | Language |
 
-_Updated 2026-07-18 12:24 UTC_
+_Updated 2026-07-18 18:23 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
