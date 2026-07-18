@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Put Your Hands Up (If You Feel Love) | Kylie Minogue | Aphrodite |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
 | Running Up That Hill | Kim Petras | Running Up That Hill |
 | Running Up That Hill | Kim Petras | Running Up That Hill |
 | Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Somebody to Love | Kylie Minogue | Tension |
 
-_Updated 2026-07-18 00:42 UTC_
+_Updated 2026-07-18 06:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
