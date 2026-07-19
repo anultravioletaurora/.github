@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Çike Çike | Bebe Rexha | DIRTY BLONDE |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Soak Up The Sun | Soccer Mommy | Karaoke Night |
-| Make the First Move | Fleurie x Fathoms | Make the First Move |
+| Dripfield | Goose | 2025/10/05 Sloan, NV |
+| mary poppins | bbno$ | mary poppins |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
+| Dive Into Me | Alok & Khalid | Dive Into Me |
 
-_Updated 2026-07-19 00:47 UTC_
+_Updated 2026-07-19 06:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
