@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Cheap Seats | Ripe | Play The Game |
-| Friend in the Dark | Ripe | Play The Game |
-| Letting Go | Ripe & Lawrence | Play The Game |
-| Throw Some Ass | Sofi Tukker | BREAD |
-| Language | Circles Around the Sun | Language |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Çike Çike | Bebe Rexha | DIRTY BLONDE |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Soak Up The Sun | Soccer Mommy | Karaoke Night |
+| Make the First Move | Fleurie x Fathoms | Make the First Move |
 
-_Updated 2026-07-18 18:23 UTC_
+_Updated 2026-07-19 00:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
