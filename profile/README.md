@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dripfield | Goose | 2025/10/05 Sloan, NV |
-| mary poppins | bbno$ | mary poppins |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
-| Dive Into Me | Alok & Khalid | Dive Into Me |
+| Julia | Makeup and Vanity Set | Hit TV |
+| Takeoff | Noble Oak | When It Finds You |
+| The truth | Noble Oak | When It Finds You |
+| Broken window | Noble Oak | When It Finds You |
+| River’s edge | Noble Oak | When It Finds You |
 
-_Updated 2026-07-19 06:58 UTC_
+_Updated 2026-07-19 12:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
