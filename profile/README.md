@@ -53,11 +53,11 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 |-------|--------|-------|
 | Coming Back Around | Cory Wong feat. Cody Fry | Cory and the Wongnotes |
 | Heartbeat | The Midnight | Heroes |
-| Follow the Light | Cory Wong & Dirty Loops | Follow the Light |
-| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
-| Coming Back Around | Cory Wong feat. Cody Fry | Cory and the Wongnotes |
+| Got My Number | Kim Petras | Clarity |
+| Heartbeat | The Midnight | Heroes |
+| Touch | Big Wild | Touch (reworks) |
 
-_Updated 2026-07-20 00:48 UTC_
+_Updated 2026-07-20 12:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
