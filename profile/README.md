@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Julia | Makeup and Vanity Set | Hit TV |
-| Takeoff | Noble Oak | When It Finds You |
-| The truth | Noble Oak | When It Finds You |
-| Broken window | Noble Oak | When It Finds You |
-| River’s edge | Noble Oak | When It Finds You |
+| Coming Back Around | Cory Wong feat. Cody Fry | Cory and the Wongnotes |
+| Heartbeat | The Midnight | Heroes |
+| Follow the Light | Cory Wong & Dirty Loops | Follow the Light |
+| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
+| Coming Back Around | Cory Wong feat. Cody Fry | Cory and the Wongnotes |
 
-_Updated 2026-07-19 12:24 UTC_
+_Updated 2026-07-20 00:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
