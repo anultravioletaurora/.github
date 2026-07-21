@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dancing on the Wall | MUNA | Dancing on the Wall |
-| Dancing on the Wall | MUNA | Dancing on the Wall |
-| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
-| Touch of Grey | Grateful Dead | In the Dark |
-| Lights Up | PRIZM | Times Like These |
+| Dancing on Glass | St. Lucia | Matter |
+| Eurowave | Jordan F | Eurowave |
+| Juicy | Emmett Kai | Midnight |
+| Original Girl | Emmett Kai | Baby Hits! |
+| Midnight | Emmett Kai | Midnight |
 
-_Updated 2026-07-21 00:45 UTC_
+_Updated 2026-07-21 06:59 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
