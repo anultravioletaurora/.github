@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
-| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
-| Party in the U.S.A. | Miley Cyrus | The Time of Our Lives |
-| Shy Boy | Carly Rae Jepsen | Shy Boy |
-| Sooner or Later | MUTEMATH | Voice in the Silence |
+| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
+| Remedy | Leony | Somewhere in Between |
+| Body Favors | Jae Stephens | TOTAL SELLOUT |
+| Soak Up The Sun | Soccer Mommy | Karaoke Night |
+| Feel the Way I Do | The Jungle Giants | Quiet Ferocity |
 
-_Updated 2026-07-21 12:38 UTC_
+_Updated 2026-07-21 18:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
