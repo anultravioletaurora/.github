@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dancing on Glass | St. Lucia | Matter |
-| Eurowave | Jordan F | Eurowave |
-| Juicy | Emmett Kai | Midnight |
-| Original Girl | Emmett Kai | Baby Hits! |
-| Midnight | Emmett Kai | Midnight |
+| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
+| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
+| Party in the U.S.A. | Miley Cyrus | The Time of Our Lives |
+| Shy Boy | Carly Rae Jepsen | Shy Boy |
+| Sooner or Later | MUTEMATH | Voice in the Silence |
 
-_Updated 2026-07-21 06:59 UTC_
+_Updated 2026-07-21 12:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
