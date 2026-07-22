@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
-| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
-| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
-| Skyhigh | Betamaxx feat. glitbiter | Lost in a Dreamworld |
-| Lost in a Dreamworld | Betamaxx | Lost in a Dreamworld |
+| Shy | Reneé Rapp | BITE ME |
+| Shy | Reneé Rapp | BITE ME |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Belle Parker | Yonder Mountain String Band | The Show |
 
-_Updated 2026-07-22 00:44 UTC_
+_Updated 2026-07-22 07:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
