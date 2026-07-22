@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Shy | Reneé Rapp | BITE ME |
-| Shy | Reneé Rapp | BITE ME |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Closer | The Chainsmokers, Halsey | Closer |
+| Magic | Panama | Magic |
+| Magic | Panama | Magic |
+| Within You, Within Me | Meltt | Another Quiet Sunday |
 | Belle Parker | Yonder Mountain String Band | The Show |
+| Vampire in the Corner | Magdalena Bay | Imaginal Disk |
 
-_Updated 2026-07-22 07:00 UTC_
+_Updated 2026-07-22 12:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
