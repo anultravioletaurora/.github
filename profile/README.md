@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Magic | Panama | Magic |
-| Magic | Panama | Magic |
-| Within You, Within Me | Meltt | Another Quiet Sunday |
-| Belle Parker | Yonder Mountain String Band | The Show |
-| Vampire in the Corner | Magdalena Bay | Imaginal Disk |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Closer | The Chainsmokers, Halsey | Closer |
+| WHERE IS MY HUSBAND! | RAYE | WHERE IS MY HUSBAND! (Remix) |
+| WHERE IS MY HUSBAND! | RAYE | WHERE IS MY HUSBAND! (Remix) |
+| Closer | The Chainsmokers, Halsey | Closer |
 
-_Updated 2026-07-22 12:39 UTC_
+_Updated 2026-07-22 18:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
