@@ -42,7 +42,7 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 ## what i'm planning
 
 - **Jellible** — a cross-platform audiobooks client for [Jellyfin](https://jellyfin.org), under the [Jellible-Audiobooks](https://github.com/Jellible-Audiobooks) org
-- **Freakwency** - a free and open source instrument tuner powered by React Native and Nitro Modules
+- **Freakwency** - a companion mobile app for Listenbrainz
 
 ---
 
