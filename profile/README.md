@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I am not a woman, I’m a god (Hot Chip remix) | Halsey | I am not a woman, I’m a god (remixes) |
-| Remedy | Leony | Somewhere in Between |
-| Body Favors | Jae Stephens | TOTAL SELLOUT |
-| Soak Up The Sun | Soccer Mommy | Karaoke Night |
-| Feel the Way I Do | The Jungle Giants | Quiet Ferocity |
+| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
+| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
+| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
+| Skyhigh | Betamaxx feat. glitbiter | Lost in a Dreamworld |
+| Lost in a Dreamworld | Betamaxx | Lost in a Dreamworld |
 
-_Updated 2026-07-21 18:34 UTC_
+_Updated 2026-07-22 00:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
