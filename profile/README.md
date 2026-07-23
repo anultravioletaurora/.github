@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Closer | The Chainsmokers, Halsey | Closer |
-| Closer | The Chainsmokers, Halsey | Closer |
-| WHERE IS MY HUSBAND! | RAYE | WHERE IS MY HUSBAND! (Remix) |
-| WHERE IS MY HUSBAND! | RAYE | WHERE IS MY HUSBAND! (Remix) |
-| Closer | The Chainsmokers, Halsey | Closer |
+| FFF | Zara Larsson | Poster Girl |
+| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
+| I Love Hollywood! | Slayyyter | STARFUCKER |
+| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
+| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
 
-_Updated 2026-07-22 18:31 UTC_
+_Updated 2026-07-23 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
