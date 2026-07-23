@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Closer | The Chainsmokers, Halsey | Closer |
-| Closer | The Chainsmokers, Halsey | Closer |
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Take On Me | Shannon Curtis | 80s kids |
-| Anna Sun | WALK THE MOON | Walk the Moon |
+| Cowboy | Moray Pringle | Good Times |
+| Space Ghetto | Moray Pringle | Good Times |
+| Jaywalk | Moray Pringle | Good Times |
+| Solo | Moray Pringle | Good Times |
+| Smile | Moray Pringle | Good Times |
 
-_Updated 2026-07-23 06:58 UTC_
+_Updated 2026-07-23 12:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
