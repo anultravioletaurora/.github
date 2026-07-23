@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| FFF | Zara Larsson | Poster Girl |
-| Fame is a Gun (triple j Like A Version) | Rebecca Black | Fame is a Gun (triple j Like A Version) |
-| I Love Hollywood! | Slayyyter | STARFUCKER |
-| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
-| Get Lucky | Daft Punk feat. Pharrell Williams & Nile Rodgers | Random Access Memories |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Take On Me | Shannon Curtis | 80s kids |
+| Anna Sun | WALK THE MOON | Walk the Moon |
 
-_Updated 2026-07-23 00:46 UTC_
+_Updated 2026-07-23 06:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
