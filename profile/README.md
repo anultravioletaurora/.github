@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Cowboy | Moray Pringle | Good Times |
-| Space Ghetto | Moray Pringle | Good Times |
-| Jaywalk | Moray Pringle | Good Times |
-| Solo | Moray Pringle | Good Times |
-| Smile | Moray Pringle | Good Times |
+| Wait a Minute! | WILLOW | ARDIPITHECUS |
+| Wallflowers | The Chain Gang of 1974 | FELT |
+| love me true | MisterWives | SUPERBLOOM |
+| Forever Young | Cherry Pools | Less Religion More Sex |
+| Shy Boy | Carly Rae Jepsen | Shy Boy |
 
-_Updated 2026-07-23 12:39 UTC_
+_Updated 2026-07-23 18:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
