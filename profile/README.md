@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Little Lies | Fleetwood Mac | Tango in the Night |
-| Wait a Minute! | WILLOW | ARDIPITHECUS |
-| Wallflowers | The Chain Gang of 1974 | FELT |
-| love me true | MisterWives | SUPERBLOOM |
-| Forever Young | Cherry Pools | Less Religion More Sex |
+| Board Game | Koven | Reality Reach EP |
+| Let Go | Koven | Hereinafter |
+| Rider in Red | Savant | πρῶτος (Protos) |
+| Love Is Blind | Nina feat. LAU | Synthian |
+| Love Is Blind | Nina feat. LAU | Synthian |
 
-_Updated 2026-07-24 00:43 UTC_
+_Updated 2026-07-24 06:59 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
