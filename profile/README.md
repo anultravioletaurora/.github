@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Board Game | Koven | Reality Reach EP |
-| Let Go | Koven | Hereinafter |
-| Rider in Red | Savant | πρῶτος (Protos) |
-| Love Is Blind | Nina feat. LAU | Synthian |
-| Love Is Blind | Nina feat. LAU | Synthian |
+| Seize the Power | Yonaka | Seize the Power |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Sooner or Later | MUTEMATH | Voice in the Silence |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Designer | Balu Brigada | Find a Way |
 
-_Updated 2026-07-24 06:59 UTC_
+_Updated 2026-07-24 12:37 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
