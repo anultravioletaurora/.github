@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Seize the Power | Yonaka | Seize the Power |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Sooner or Later | MUTEMATH | Voice in the Silence |
-| Closer | The Chainsmokers, Halsey | Closer |
-| Designer | Balu Brigada | Find a Way |
+| Your Truth | NINA | Sleepwalking |
+| Your Truth | NINA | Sleepwalking |
+| Diet Pepsi | Addison Rae | Addison |
+| Counting Stars | NINA | Sleepwalking |
+| One of Us | NINA | Sleepwalking |
 
-_Updated 2026-07-24 12:37 UTC_
+_Updated 2026-07-24 18:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
