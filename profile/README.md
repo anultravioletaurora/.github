@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Little Lies | Fleetwood Mac | Tango in the Night |
 | Wait a Minute! | WILLOW | ARDIPITHECUS |
 | Wallflowers | The Chain Gang of 1974 | FELT |
 | love me true | MisterWives | SUPERBLOOM |
 | Forever Young | Cherry Pools | Less Religion More Sex |
-| Shy Boy | Carly Rae Jepsen | Shy Boy |
 
-_Updated 2026-07-23 18:32 UTC_
+_Updated 2026-07-24 00:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
