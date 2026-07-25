@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Your Truth | NINA | Sleepwalking |
-| Your Truth | NINA | Sleepwalking |
-| Diet Pepsi | Addison Rae | Addison |
-| Counting Stars | NINA | Sleepwalking |
-| One of Us | NINA | Sleepwalking |
+| Sure and Certain | Jimmy Eat World | Sure and Certain |
+| Sure and Certain | Jimmy Eat World | Sure and Certain |
+| Intimacy | The Sunbathers | A Heat Wave |
+| Carter & Cash | Tor Miller | American English |
+| Low Tide | XY&O | Shimmer + Shade |
 
-_Updated 2026-07-24 18:36 UTC_
+_Updated 2026-07-25 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
