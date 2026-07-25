@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Friday I’m in Love | The Cure | Wish |
-| greedy | Tate McRae | THINK LATER |
-| greedy | Tate McRae | THINK LATER |
-| Blue Moon | Bebe Rexha | Bebe |
-| Got Love | Tove Lo | Queen of the Clouds |
+| First Time Feeling | Ripe | First Time Feeling |
+| First Time Feeling | Ripe | First Time Feeling |
+| First Time Feeling | Ripe | First Time Feeling |
+| I’m in Love With You | The 1975 | I’m in Love With You |
+| Out of Touch | Brothertiger | Out of Touch |
 
-_Updated 2026-07-25 12:26 UTC_
+_Updated 2026-07-25 18:23 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
