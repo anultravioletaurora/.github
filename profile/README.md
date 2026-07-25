@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sure and Certain | Jimmy Eat World | Sure and Certain |
-| Sure and Certain | Jimmy Eat World | Sure and Certain |
-| Intimacy | The Sunbathers | A Heat Wave |
-| Carter & Cash | Tor Miller | American English |
-| Low Tide | XY&O | Shimmer + Shade |
+| Friday I’m in Love | The Cure | Wish |
+| greedy | Tate McRae | THINK LATER |
+| greedy | Tate McRae | THINK LATER |
+| Blue Moon | Bebe Rexha | Bebe |
+| Got Love | Tove Lo | Queen of the Clouds |
 
-_Updated 2026-07-25 00:46 UTC_
+_Updated 2026-07-25 06:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
