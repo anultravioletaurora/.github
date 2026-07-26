@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Keep Me Waiting | Shannon Lauren Callihan | One Sided |
-| Take Off! | A.L.I.S.O.N | Stargazing / Take Off! |
-| Golden Dust | A.L.I.S.O.N | Space Station |
-| Echo Chambers | A.L.I.S.O.N feat. VOYAGER | Space Station |
-| Space Echo | A.L.I.S.O.N | Space Station |
+| Take Me Out | Franz Ferdinand | Hits to the Head |
+| Forever | Deco | Destination: I Don't Know |
+| Forever Young | Cherry Pools | Less Religion More Sex |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Blue Monday | New Order | Singles |
 
-_Updated 2026-07-26 12:30 UTC_
+_Updated 2026-07-26 18:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
