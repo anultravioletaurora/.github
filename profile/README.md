@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| Closer | The Chainsmokers, Halsey | Closer |
-| Closer | The Chainsmokers, Halsey | Closer |
-| Shy | Reneé Rapp | BITE ME |
-| Take On Me | Shannon Curtis | 80s kids |
+| Amplify | A.L.I.S.O.N | Signal Flow |
+| Subtract | A.L.I.S.O.N | Signal Flow |
+| Oscillate | A.L.I.S.O.N | Signal Flow |
+| Input | A.L.I.S.O.N | Signal Flow |
+| Take Off! | A.L.I.S.O.N | Stargazing / Take Off! |
 
-_Updated 2026-07-26 00:50 UTC_
+_Updated 2026-07-26 07:02 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
