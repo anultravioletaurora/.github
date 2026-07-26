@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| First Time Feeling | Ripe | First Time Feeling |
-| First Time Feeling | Ripe | First Time Feeling |
-| First Time Feeling | Ripe | First Time Feeling |
-| I’m in Love With You | The 1975 | I’m in Love With You |
-| Out of Touch | Brothertiger | Out of Touch |
+| swordsman | Night Tapes | portals//polarities |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Closer | The Chainsmokers, Halsey | Closer |
+| Shy | Reneé Rapp | BITE ME |
+| Take On Me | Shannon Curtis | 80s kids |
 
-_Updated 2026-07-25 18:23 UTC_
+_Updated 2026-07-26 00:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
