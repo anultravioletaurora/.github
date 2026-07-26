@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Amplify | A.L.I.S.O.N | Signal Flow |
-| Subtract | A.L.I.S.O.N | Signal Flow |
-| Oscillate | A.L.I.S.O.N | Signal Flow |
-| Input | A.L.I.S.O.N | Signal Flow |
+| Keep Me Waiting | Shannon Lauren Callihan | One Sided |
 | Take Off! | A.L.I.S.O.N | Stargazing / Take Off! |
+| Golden Dust | A.L.I.S.O.N | Space Station |
+| Echo Chambers | A.L.I.S.O.N feat. VOYAGER | Space Station |
+| Space Echo | A.L.I.S.O.N | Space Station |
 
-_Updated 2026-07-26 07:02 UTC_
+_Updated 2026-07-26 12:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
