@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
 | Take Me Out | Franz Ferdinand | Hits to the Head |
 | Forever | Deco | Destination: I Don't Know |
 | Forever Young | Cherry Pools | Less Religion More Sex |
 | Love Is an Ocean | The Midnight | Syndicate |
-| Blue Monday | New Order | Singles |
 
-_Updated 2026-07-26 18:26 UTC_
+_Updated 2026-07-27 00:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
