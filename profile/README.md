@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| 6's to 9's (Analog Sessions) | Big Wild feat. Rationale | Superdream: Analog Sessions |
+| 6's to 9's (Analog Sessions) | Big Wild feat. Rationale | Superdream: Analog Sessions |
 | Dani California | Red Hot Chili Peppers | Stadium Arcadium |
 | Take Me Out | Franz Ferdinand | Hits to the Head |
-| Forever | Deco | Destination: I Don't Know |
-| Forever Young | Cherry Pools | Less Religion More Sex |
-| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-07-27 00:49 UTC_
+_Updated 2026-07-27 07:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
