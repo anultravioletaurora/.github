@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| lemon tree midnight | Night Tapes | portals//polarities |
-| Are You In Love | Cherry Pools | Less Religion More Sex |
-| River | BANKS | Off With Her Head |
+| Love Is Unkind | BANKS | Off With Her Head |
 | Out of Touch | Brothertiger | Out of Touch |
-| Los Angeles | The Midnight | Days of Thunder |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Got Love | Tove Lo | Queen of the Clouds |
+| Around the World (La La La La La) | ATC | Planet Pop |
 
-_Updated 2026-07-27 13:11 UTC_
+_Updated 2026-07-27 18:37 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
