@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| All Around the World (La La La) | R3HAB × A Touch of Class | All Around the World |
+| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
 | Chocolate | The 1975 | The 1975 |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| DAY N NITE | YUNG BAE & Ric Wilson | 6AE |
-| DAY N NITE | YUNG BAE & Ric Wilson | 6AE |
-| OOWAH | YUNG BAE & Imad Royal | 6AE |
 
-_Updated 2026-07-28 12:44 UTC_
+_Updated 2026-07-28 18:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
