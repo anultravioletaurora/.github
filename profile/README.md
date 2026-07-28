@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Remedy | Leony | Somewhere in Between |
-| Gypsy Wind | Casiopea | Make Up City |
-| Nagisa91 | 高中正義 | The Lover |
-| Chemicals | Oliver feat. MNDR | Full Circle |
-| Big Stick | MUNA | Dancing on the Wall |
+| Chocolate | The 1975 | The 1975 |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| DAY N NITE | YUNG BAE & Ric Wilson | 6AE |
+| DAY N NITE | YUNG BAE & Ric Wilson | 6AE |
+| OOWAH | YUNG BAE & Imad Royal | 6AE |
 
-_Updated 2026-07-28 07:00 UTC_
+_Updated 2026-07-28 12:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
