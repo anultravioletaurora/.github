@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| UNTZ UNTZ | INJI | LFG |
+| ALL I WANNA DO | INJI | LFG |
 | You Love Who You Love | Zara Larsson | VENUS |
 | You Love Who You Love | Zara Larsson | VENUS |
 | On My Love | Zara Larsson × David Guetta | VENUS |
-| GASLIGHT | INJI | LFG |
-| MADELINE | INJI | LFG |
 
-_Updated 2026-07-29 12:48 UTC_
+_Updated 2026-07-29 18:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
