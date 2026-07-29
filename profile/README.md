@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| All Around the World (La La La) | R3HAB × A Touch of Class | All Around the World |
-| Drugs From Amsterdam | Mau P | Drugs From Amsterdam (Reinier Zonneveld Remix) |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Chocolate | The 1975 | The 1975 |
+| swordsman | Night Tapes | portals//polarities |
+| swordsman | Night Tapes | portals//polarities |
+| No Time to Explain | Good Kid | No Time to Explain |
+| No Time to Explain | Good Kid | No Time to Explain |
+| Haunting | Halsey | BADLANDS |
 
-_Updated 2026-07-28 18:35 UTC_
+_Updated 2026-07-29 00:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
