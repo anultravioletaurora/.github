@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| swordsman | Night Tapes | portals//polarities |
-| No Time to Explain | Good Kid | No Time to Explain |
-| No Time to Explain | Good Kid | No Time to Explain |
-| Haunting | Halsey | BADLANDS |
+| You Love Who You Love | Zara Larsson | VENUS |
+| You Love Who You Love | Zara Larsson | VENUS |
+| On My Love | Zara Larsson × David Guetta | VENUS |
+| GASLIGHT | INJI | LFG |
+| MADELINE | INJI | LFG |
 
-_Updated 2026-07-29 07:03 UTC_
+_Updated 2026-07-29 12:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
