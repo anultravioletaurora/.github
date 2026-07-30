@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Grapefruit | Tove Lo | Dirt Femme |
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| No One Dies From Love | Tove Lo | Dirt Femme |
-| ALL I WANNA DO | INJI | LFG |
-| MADELINE | INJI | LFG |
+| I Need Love | Zara Larsson feat. Trevor Daniel | Poster Girl |
+| I Need Love | Zara Larsson feat. Trevor Daniel | Poster Girl |
+| Right Here (Alok remix) | Zara Larsson | Poster Girl |
+| Never Forget You (orchestral version) | Zara Larsson | Poster Girl |
+| Ruin My Life (orchestral version) | Zara Larsson | Poster Girl |
 
-_Updated 2026-07-30 00:42 UTC_
+_Updated 2026-07-30 07:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
