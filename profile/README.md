@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Need Love | Zara Larsson feat. Trevor Daniel | Poster Girl |
-| I Need Love | Zara Larsson feat. Trevor Daniel | Poster Girl |
-| Right Here (Alok remix) | Zara Larsson | Poster Girl |
-| Never Forget You (orchestral version) | Zara Larsson | Poster Girl |
-| Ruin My Life (orchestral version) | Zara Larsson | Poster Girl |
+| Dancing on the Wall | MUNA | Dancing on the Wall |
+| Dancing on the Wall | MUNA | Dancing on the Wall |
+| Within You, Within Me | Meltt | Another Quiet Sunday |
+| Touch of Grey | Grateful Dead | In the Dark |
+| Los Angeles | The Midnight | Days of Thunder |
 
-_Updated 2026-07-30 07:01 UTC_
+_Updated 2026-07-30 12:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
