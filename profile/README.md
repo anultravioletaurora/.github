@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| UNTZ UNTZ | INJI | LFG |
+| Grapefruit | Tove Lo | Dirt Femme |
+| 2 Die 4 | Tove Lo | Dirt Femme |
+| No One Dies From Love | Tove Lo | Dirt Femme |
 | ALL I WANNA DO | INJI | LFG |
-| You Love Who You Love | Zara Larsson | VENUS |
-| You Love Who You Love | Zara Larsson | VENUS |
-| On My Love | Zara Larsson × David Guetta | VENUS |
+| MADELINE | INJI | LFG |
 
-_Updated 2026-07-29 18:26 UTC_
+_Updated 2026-07-30 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
