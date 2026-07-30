@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dancing on the Wall | MUNA | Dancing on the Wall |
-| Dancing on the Wall | MUNA | Dancing on the Wall |
-| Within You, Within Me | Meltt | Another Quiet Sunday |
-| Touch of Grey | Grateful Dead | In the Dark |
-| Los Angeles | The Midnight | Days of Thunder |
+| ALL I WANNA DO | INJI | LFG |
+| ALL I WANNA DO | INJI | LFG |
+| GASLIGHT | INJI | LFG |
+| ALL I WANNA DO | INJI | LFG |
+| Slipknot! > | Grateful Dead | 77-02-26 - Swing Auditorium |
 
-_Updated 2026-07-30 12:41 UTC_
+_Updated 2026-07-30 18:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
