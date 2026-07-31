@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Madhuvan | Goose | 2025/09/12 Fredericton, NB |
-| Love Is Unkind | BANKS | Off With Her Head |
-| GASLIGHT | INJI | LFG |
-| MADELINE | INJI | LFG |
-| Forever | Ykiki Beat | When the World Is Wide |
+| Method Acting | Work Drugs | Method Acting |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Maliblue | Darius | Velour |
+| Dimensions | Last Heroes | Dimensions |
+| Hold On | Adele | 30 |
 
-_Updated 2026-07-31 12:45 UTC_
+_Updated 2026-07-31 18:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
