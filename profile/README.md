@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| ALL I WANNA DO | INJI | LFG |
-| ALL I WANNA DO | INJI | LFG |
-| GASLIGHT | INJI | LFG |
-| ALL I WANNA DO | INJI | LFG |
-| Slipknot! > | Grateful Dead | 77-02-26 - Swing Auditorium |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Blue Moon | Bebe Rexha | Bebe |
+| Blindside | Hunter Hunted | Ready for You |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
+| Method Acting | Work Drugs | Method Acting |
 
-_Updated 2026-07-30 18:36 UTC_
+_Updated 2026-07-31 00:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
