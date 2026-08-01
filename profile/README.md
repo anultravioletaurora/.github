@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Big Blind | The Story So Far | All This Time |
+| Hollywood Baby | Quarters of Change | Portraits |
 | Method Acting | Work Drugs | Method Acting |
-| Method Acting | Work Drugs | Method Acting |
-| Amplify | A.L.I.S.O.N | Signal Flow |
-| Subtract | A.L.I.S.O.N | Signal Flow |
-| Oscillate | A.L.I.S.O.N | Signal Flow |
 
-_Updated 2026-08-01 12:27 UTC_
+_Updated 2026-08-01 18:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
