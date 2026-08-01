@@ -52,12 +52,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Method Acting | Work Drugs | Method Acting |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Maliblue | Darius | Velour |
-| Dimensions | Last Heroes | Dimensions |
-| Hold On | Adele | 30 |
+| Method Acting | Work Drugs | Method Acting |
+| Amplify | A.L.I.S.O.N | Signal Flow |
+| Subtract | A.L.I.S.O.N | Signal Flow |
+| Oscillate | A.L.I.S.O.N | Signal Flow |
 
-_Updated 2026-07-31 18:36 UTC_
+_Updated 2026-08-01 00:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
