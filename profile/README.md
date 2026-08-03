@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Within You, Within Me | Meltt | Another Quiet Sunday |
+| Touch of Grey | Grateful Dead | In the Dark |
+| Los Angeles | The Midnight | Days of Thunder |
 | Runaways | The Midnight feat. Bonnie McKee | Syndicate |
 | Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Big Blind | The Story So Far | All This Time |
-| Hollywood Baby | Quarters of Change | Portraits |
-| Method Acting | Work Drugs | Method Acting |
 
-_Updated 2026-08-02 18:25 UTC_
+_Updated 2026-08-03 00:48 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
