@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Dracula (JENNIE remix) | Tame Impala | Dracula (remix) |
-| Meet Me at Our Spot | THE ANXIETY | THE ANXIETY |
-| Meet Me at Our Spot | THE ANXIETY | THE ANXIETY |
-| I Don’t Need Anything | Bebe Rexha | DIRTY BLONDE |
-| Sad Girls | Bebe Rexha | DIRTY BLONDE |
+| Hollywood Baby | Quarters of Change | Portraits |
+| Hollywood | Cherry Pools | Less Religion More Sex |
+| Temple | Kings of Leon | Mechanical Bull |
+| Tightrope | Quarters of Change | Portraits |
+| Heaven Bound | Quarters of Change | Portraits |
 
-_Updated 2026-08-03 13:10 UTC_
+_Updated 2026-08-03 18:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
