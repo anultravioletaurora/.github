@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| MADELINE | INJI | LFG |
-| ALL I WANNA DO | INJI | LFG |
-| BELLYDANCING | INJI | BELLYDANCING |
-| BELLYDANCING | INJI | BELLYDANCING |
-| River | BANKS | Off With Her Head |
+| Dracula (JENNIE remix) | Tame Impala | Dracula (remix) |
+| Meet Me at Our Spot | THE ANXIETY | THE ANXIETY |
+| Meet Me at Our Spot | THE ANXIETY | THE ANXIETY |
+| I Don’t Need Anything | Bebe Rexha | DIRTY BLONDE |
+| Sad Girls | Bebe Rexha | DIRTY BLONDE |
 
-_Updated 2026-08-03 07:18 UTC_
+_Updated 2026-08-03 13:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
