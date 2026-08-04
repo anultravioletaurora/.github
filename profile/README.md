@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hollywood Baby | Quarters of Change | Portraits |
-| Hollywood | Cherry Pools | Less Religion More Sex |
-| Temple | Kings of Leon | Mechanical Bull |
-| Tightrope | Quarters of Change | Portraits |
-| Heaven Bound | Quarters of Change | Portraits |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Jeep | Kim Petras | Detour |
+| Brutalist | Kim Petras | Detour |
+| I Like Ur Look | Kim Petras | Detour |
+| I Won’t Run | The Struts | Pretty Vicious |
 
-_Updated 2026-08-03 18:39 UTC_
+_Updated 2026-08-04 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
