@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Dreamin' | Taurus 1984, Dana Jean Phoenix | Modern Romance |
+| Dreamin' | Taurus 1984, Dana Jean Phoenix | Modern Romance |
+| Beggin for Thread | BANKS | Goddess |
+| more than friends | Isabel LaRosa | YOU FEAR THE GOD THAT LOVES YOU |
 | Breakdown | Dirty Loops | Phoenix |
-| Breakdown | Dirty Loops | Phoenix |
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Jeep | Kim Petras | Detour |
-| Brutalist | Kim Petras | Detour |
 
-_Updated 2026-08-04 07:00 UTC_
+_Updated 2026-08-04 12:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
