@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Breakdown | Dirty Loops | Phoenix |
+| Breakdown | Dirty Loops | Phoenix |
 | Friction | The Midnight | Syndicate (Deluxe) |
 | Jeep | Kim Petras | Detour |
 | Brutalist | Kim Petras | Detour |
-| I Like Ur Look | Kim Petras | Detour |
-| I Won’t Run | The Struts | Pretty Vicious |
 
-_Updated 2026-08-04 00:46 UTC_
+_Updated 2026-08-04 07:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
