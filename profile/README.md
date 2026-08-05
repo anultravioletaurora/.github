@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
-| swordsman | Night Tapes | portals//polarities |
-| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
-| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
-| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| Thunderbirds | The Fearless Flyers | The Fearless Flyers IV |
+| Thunderbirds | The Fearless Flyers | The Fearless Flyers IV |
+| Snowbirds | The Fearless Flyers | The Fearless Flyers IV |
+| Frecce Tricolori | The Fearless Flyers | The Fearless Flyers IV |
+| Patrouille de France | The Fearless Flyers | The Fearless Flyers IV |
 
-_Updated 2026-08-05 07:02 UTC_
+_Updated 2026-08-05 12:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
