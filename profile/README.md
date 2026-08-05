@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Thunderbirds | The Fearless Flyers | The Fearless Flyers IV |
-| Thunderbirds | The Fearless Flyers | The Fearless Flyers IV |
-| Snowbirds | The Fearless Flyers | The Fearless Flyers IV |
-| Frecce Tricolori | The Fearless Flyers | The Fearless Flyers IV |
-| Patrouille de France | The Fearless Flyers | The Fearless Flyers IV |
+| Model | GReeeN | Ach du grüne Neune |
+| Model | GReeeN | Ach du grüne Neune |
+| THC | GReeeN | Ach du grüne Neune |
+| Offiziell glücklich | Paula Carolina | Extra |
+| Extra | Paula Carolina | Extra |
 
-_Updated 2026-08-05 12:42 UTC_
+_Updated 2026-08-05 18:37 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
