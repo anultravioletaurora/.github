@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
 | swordsman | Night Tapes | portals//polarities |
 | BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
 | BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
 | DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
-| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-08-05 00:42 UTC_
+_Updated 2026-08-05 07:02 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
