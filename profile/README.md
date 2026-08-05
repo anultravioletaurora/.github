@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sinister | Mallory Merk | Counterparts |
-| Sinister | Mallory Merk | Counterparts |
-| Sinister | Mallory Merk | Counterparts |
-| Beggin for Thread | BANKS | Goddess |
-| Dreamin' | Taurus 1984, Dana Jean Phoenix | Modern Romance |
+| swordsman | Night Tapes | portals//polarities |
+| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
+| BEAT UP CHANEL$ | Slayyyter | WOR$T GIRL IN AMERICA |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-08-04 18:37 UTC_
+_Updated 2026-08-05 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
