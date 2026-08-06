@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Into Your Room | Holly Humberstone | Paint My Bedroom Black |
-| Into Your Room | Holly Humberstone | Paint My Bedroom Black |
-| I Like Ur Look | Kim Petras | Detour |
-| Dracula (JENNIE remix) | Tame Impala | Dracula (remix) |
-| Angst frisst Demokratie | Paula Carolina | Extra |
+| Slow Motion | Highway Superstar feat. Zoe Polanski | Contraband |
+| Down This Road | Highway Superstar feat. Sally Shapiro | Contraband |
+| Velvet and Rust | Highway Superstar | Contraband |
+| Dirty Talk | Highway Superstar | Contraband |
+| Feel It Right Now | Highway Superstar feat. Doubleboy | Contraband |
 
-_Updated 2026-08-06 00:40 UTC_
+_Updated 2026-08-06 07:02 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
