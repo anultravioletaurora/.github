@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Model | GReeeN | Ach du grüne Neune |
-| Model | GReeeN | Ach du grüne Neune |
-| THC | GReeeN | Ach du grüne Neune |
-| Offiziell glücklich | Paula Carolina | Extra |
-| Extra | Paula Carolina | Extra |
+| Into Your Room | Holly Humberstone | Paint My Bedroom Black |
+| Into Your Room | Holly Humberstone | Paint My Bedroom Black |
+| I Like Ur Look | Kim Petras | Detour |
+| Dracula (JENNIE remix) | Tame Impala | Dracula (remix) |
+| Angst frisst Demokratie | Paula Carolina | Extra |
 
-_Updated 2026-08-05 18:37 UTC_
+_Updated 2026-08-06 00:40 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
