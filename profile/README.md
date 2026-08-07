@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Best Days | Sam Feldt & Karma Child feat. Tabitha | The Best Days |
-| Got Love | Tove Lo | Queen of the Clouds |
-| The Best Days | Sam Feldt & Karma Child feat. Tabitha | The Best Days |
 | Somebody to Love | Kylie Minogue | Tension |
-| Selfish (feat. Kelli-Leigh & YOU) | Sonny Fodera feat. Kelli‐Leigh & YOU | Wide Awake |
+| Houdini | Dua Lipa | Dua Lipa Radical Optimism Tour |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| The Best Days | Sam Feldt & Karma Child feat. Tabitha | The Best Days |
 
-_Updated 2026-08-07 06:30 UTC_
+_Updated 2026-08-07 12:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
