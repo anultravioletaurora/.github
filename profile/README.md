@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Somebody to Love | Kylie Minogue | Tension |
-| Houdini | Dua Lipa | Dua Lipa Radical Optimism Tour |
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| The Best Days | Sam Feldt & Karma Child feat. Tabitha | The Best Days |
+| TRUST! | Rebecca Black | SALVATION |
+| Slow Song | The Knocks with Dragonette | HISTORY |
+| Death & Romance | Magdalena Bay | Imaginal Disk |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-08-07 12:21 UTC_
+_Updated 2026-08-07 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
