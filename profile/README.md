@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Got Love | Tove Lo | Queen of the Clouds |
-| Oceanside by Night | Particle House | Oceanside by Night |
-| Mega | Emil Rottmayer | Descend |
-| Wieder da | LINA | Melodrama |
-| Cardboard Box | FLO | Cardboard Box |
+| Big Hoops (Bigger the Better) (Wideboys club mix radio edit) | Nelly Furtado | Big Hoops (Bigger the Better) |
+| ALL I WANNA DO | INJI | LFG |
+| Numb | Cassie feat. Rick Ross | RockaByeBaby |
+| Numb | Cassie feat. Rick Ross | RockaByeBaby |
+| Addiction | Cassie feat. French Montana | RockaByeBaby |
 
-_Updated 2026-08-08 12:12 UTC_
+_Updated 2026-08-08 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
