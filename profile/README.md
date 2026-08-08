@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Pretty Vicious | The Struts | Pretty Vicious |
-| Pretty Vicious | The Struts | Pretty Vicious |
-| Pretty Vicious | The Struts | Pretty Vicious |
-| Here to Dance (Front Row remix) | The Veronicas | Here to Dance (Front Row remix) |
-| I Like Ur Look | Kim Petras | Detour |
+| Got Love | Tove Lo | Queen of the Clouds |
+| Oceanside by Night | Particle House | Oceanside by Night |
+| Mega | Emil Rottmayer | Descend |
+| Wieder da | LINA | Melodrama |
+| Cardboard Box | FLO | Cardboard Box |
 
-_Updated 2026-08-08 06:19 UTC_
+_Updated 2026-08-08 12:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
