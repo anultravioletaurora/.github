@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| TRUST! | Rebecca Black | SALVATION |
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Death & Romance | Magdalena Bay | Imaginal Disk |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Love Is an Ocean | The Midnight | Syndicate |
+| SkateQueen | Skule Toyama | PopSlinger Original Soundtrack |
+| Chill City | Skule Toyama | PopSlinger Original Soundtrack |
+| Set District | Skule Toyama | PopSlinger Original Soundtrack |
+| GIN | Skule Toyama | PopSlinger Original Soundtrack |
+| Standing By - Purple Lounge | Skule Toyama | PopSlinger Original Soundtrack |
 
-_Updated 2026-08-07 18:20 UTC_
+_Updated 2026-08-08 00:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
