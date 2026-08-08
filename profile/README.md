@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| SkateQueen | Skule Toyama | PopSlinger Original Soundtrack |
-| Chill City | Skule Toyama | PopSlinger Original Soundtrack |
-| Set District | Skule Toyama | PopSlinger Original Soundtrack |
-| GIN | Skule Toyama | PopSlinger Original Soundtrack |
-| Standing By - Purple Lounge | Skule Toyama | PopSlinger Original Soundtrack |
+| Pretty Vicious | The Struts | Pretty Vicious |
+| Pretty Vicious | The Struts | Pretty Vicious |
+| Pretty Vicious | The Struts | Pretty Vicious |
+| Here to Dance (Front Row remix) | The Veronicas | Here to Dance (Front Row remix) |
+| I Like Ur Look | Kim Petras | Detour |
 
-_Updated 2026-08-08 00:25 UTC_
+_Updated 2026-08-08 06:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
