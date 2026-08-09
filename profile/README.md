@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Big Hoops (Bigger the Better) (Wideboys club mix radio edit) | Nelly Furtado | Big Hoops (Bigger the Better) |
-| ALL I WANNA DO | INJI | LFG |
-| Numb | Cassie feat. Rick Ross | RockaByeBaby |
-| Numb | Cassie feat. Rick Ross | RockaByeBaby |
-| Addiction | Cassie feat. French Montana | RockaByeBaby |
+| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
+| Messy | Lola Young | Messy |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
 
-_Updated 2026-08-08 18:11 UTC_
+_Updated 2026-08-09 00:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
