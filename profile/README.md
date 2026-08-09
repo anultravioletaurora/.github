@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| SIGN IT | Agnes | BEAUTIFUL MADNESS |
-| I Want It All | Bonnie McKee | Bombastic |
-| Love of Your Life | RAYE | Love of Your Life |
+| TAKE IT EASY | Lights | A6 |
+| SURFACE TENSION | Lights | A6 |
+| INTRO | Lights | A6 |
+| EDUCATION | Lights | A6 |
+| EMMA | Glasperlenspiel & ėmma | EMMA |
 
-_Updated 2026-08-09 12:13 UTC_
+_Updated 2026-08-09 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
