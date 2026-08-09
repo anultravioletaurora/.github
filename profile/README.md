@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can't Get You out of My Head | Kylie Minogue | Step Back in Time: The Definitive Collection |
-| Messy | Lola Young | Messy |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
+| UH OH! | Loud Luxury | UH OH! |
 
-_Updated 2026-08-09 00:27 UTC_
+_Updated 2026-08-09 06:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
