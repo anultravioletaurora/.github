@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| Runaways | The Midnight feat. Bonnie McKee | Syndicate |
-| UH OH! | Loud Luxury | UH OH! |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| SIGN IT | Agnes | BEAUTIFUL MADNESS |
+| I Want It All | Bonnie McKee | Bombastic |
+| Love of Your Life | RAYE | Love of Your Life |
 
-_Updated 2026-08-09 06:20 UTC_
+_Updated 2026-08-09 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
