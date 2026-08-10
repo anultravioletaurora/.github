@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| HEAT | Tove Lo & SG Lewis | HEAT |
 | Dreams | LUNAX feat. Diana Goldberg | Forever Fighting |
 | Nicht Nach Hause | 2 Engel & Charlie / LUNAX / Jebroer | Forever Fighting |
 | 2 Die 4 | Tove Lo | Dirt Femme |
 | HEAT | Tove Lo & SG Lewis | HEAT |
-| Bring the Heat | LUNAX feat. Aurila | Forever Fighting |
 
-_Updated 2026-08-10 00:28 UTC_
+_Updated 2026-08-10 06:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
