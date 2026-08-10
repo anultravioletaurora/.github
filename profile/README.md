@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| Dreams | LUNAX feat. Diana Goldberg | Forever Fighting |
-| Nicht Nach Hause | 2 Engel & Charlie / LUNAX / Jebroer | Forever Fighting |
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| HEAT | Tove Lo & SG Lewis | HEAT |
+| Blue Moon | Bebe Rexha | Pride Party by Bebe Rexha |
+| Blue Moon | Bebe Rexha | Pride Party by Bebe Rexha |
+| Lift | Sunk Loto | Jingle Balls |
+| Mature Adults | FRND CRCL | Promstarr |
+| Alienation | Three Days Grace | Alienation |
 
-_Updated 2026-08-10 12:22 UTC_
+_Updated 2026-08-10 18:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
