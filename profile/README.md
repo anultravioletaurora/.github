@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| You Get What You Give | New Radicals | Maybe You've Been Brainwashed Too |
-| You're Not Good Enough | Blood Orange feat. Samantha Urbani | Cupid Deluxe |
-| It’s Safe Now | Scattle | Hotline Miami: The Takedown EP |
-| Knock Knock | Scattle | Hotline Miami: The Takedown EP |
-| Take It or Leave It | Alessi Rose | Voyeur |
+| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Mama Shoot | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Malediven | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
 
-_Updated 2026-08-11 12:21 UTC_
+_Updated 2026-08-11 18:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
