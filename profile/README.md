@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Blue Moon | Bebe Rexha | Pride Party by Bebe Rexha |
-| Blue Moon | Bebe Rexha | Pride Party by Bebe Rexha |
-| Lift | Sunk Loto | Jingle Balls |
-| Mature Adults | FRND CRCL | Promstarr |
-| Alienation | Three Days Grace | Alienation |
+| 2 Die 4 | Tove Lo | Dirt Femme |
+| 2 Die 4 | Tove Lo | Dirt Femme |
+| A Certain Shade of Green | Incubus | A Certain Shade of Green |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| 24/5 | Mimi Webb | 24/5 |
 
-_Updated 2026-08-10 18:21 UTC_
+_Updated 2026-08-11 00:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
