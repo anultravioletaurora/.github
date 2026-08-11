@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| A Certain Shade of Green | Incubus | A Certain Shade of Green |
-| Runaways | The Midnight | Syndicate (Deluxe) |
-| 24/5 | Mimi Webb | 24/5 |
+| It’s Safe Now | Scattle | Hotline Miami: The Takedown EP |
+| Knock Knock | Scattle | Hotline Miami: The Takedown EP |
+| Take It or Leave It | Alessi Rose | Voyeur |
+| You Get What You Give | New Radicals | Maybe You've Been Brainwashed Too |
+| Carter & Cash | Tor Miller | American English |
 
-_Updated 2026-08-11 00:26 UTC_
+_Updated 2026-08-11 06:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
