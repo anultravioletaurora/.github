@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Infinite (Demo) | The Midnight | Syndicate (Deluxe) |
-| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
-| Remedy | Leony | Somewhere in Between |
+| I Just Wanna Make Love To You | Kidburn | Love In Times Of Death |
+| I Just Wanna Make Love To You | Kidburn | Love In Times Of Death |
+| Heartbreak | Kidburn | Love In Times Of Death |
+| Need Your Loving Tonight | Kidburn | Love In Times Of Death |
+| Insomnia (Album Mix) | Kidburn | Love In Times Of Death |
 
-_Updated 2026-08-12 00:31 UTC_
+_Updated 2026-08-12 06:35 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
