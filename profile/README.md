@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
-| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
-| Kilimanjaro | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
-| Mama Shoot | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
-| Malediven | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Infinite (Demo) | The Midnight | Syndicate (Deluxe) |
+| A Few Tomorrows | Meet Me @ the Altar | Past // Present // Future |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-11 18:21 UTC_
+_Updated 2026-08-12 00:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
