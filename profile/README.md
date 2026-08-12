@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Last Chance | Kidburn | Love In Times Of Death |
-| Love In Times Of Death (Album Mix) | Kidburn | Love In Times Of Death |
-| Phenomenal Cosmetic Power | Kidburn | Love In Times Of Death |
-| Letter To M | Kidburn | Love In Times Of Death |
-| Letter To M | Kidburn | Love In Times Of Death |
+| How Does It Feel? | FLO | Access All Areas |
+| Walk Like This | FLO | Access All Areas |
+| Intro | FLO & Cynthia Erivo | Access All Areas |
+| Ain't Got No... | Tove Styrke | Kiddo |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-12 12:22 UTC_
+_Updated 2026-08-12 18:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
