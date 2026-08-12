@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Just Wanna Make Love To You | Kidburn | Love In Times Of Death |
-| I Just Wanna Make Love To You | Kidburn | Love In Times Of Death |
-| Heartbreak | Kidburn | Love In Times Of Death |
-| Need Your Loving Tonight | Kidburn | Love In Times Of Death |
-| Insomnia (Album Mix) | Kidburn | Love In Times Of Death |
+| The Last Chance | Kidburn | Love In Times Of Death |
+| Love In Times Of Death (Album Mix) | Kidburn | Love In Times Of Death |
+| Phenomenal Cosmetic Power | Kidburn | Love In Times Of Death |
+| Letter To M | Kidburn | Love In Times Of Death |
+| Letter To M | Kidburn | Love In Times Of Death |
 
-_Updated 2026-08-12 06:35 UTC_
+_Updated 2026-08-12 12:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
