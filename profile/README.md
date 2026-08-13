@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Dirty Harry | Gorillaz featuring Bootie Brown | Demon Days |
 | I Like to Hide in the Bathroom at Parties | Winnetka Bowling League & The Knocks | I Like to Hide in the Bathroom at Parties |
 | APPETITE | Ellise | OVER HER DEAD BODY |
 | DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
 | wet dreams | Recent Rumors | i see you |
-| Lonesome | SHAED | MELT |
 
-_Updated 2026-08-13 06:37 UTC_
+_Updated 2026-08-13 12:22 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
