@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| How Does It Feel? | FLO | Access All Areas |
-| Walk Like This | FLO | Access All Areas |
-| Intro | FLO & Cynthia Erivo | Access All Areas |
-| Ain't Got No... | Tove Styrke | Kiddo |
-| Remedy | Leony | Somewhere in Between |
+| APPETITE | Ellise | OVER HER DEAD BODY |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| wet dreams | Recent Rumors | i see you |
+| Lonesome | SHAED | MELT |
+| Lonesome | SHAED | MELT |
 
-_Updated 2026-08-12 18:22 UTC_
+_Updated 2026-08-13 00:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
