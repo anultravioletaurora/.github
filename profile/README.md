@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Eurosummer | Zara Larsson | Midnight Sun |
-| Take My Call | Ava Max | Don't Click Play |
-| Take My Call | Ava Max | Don't Click Play |
+| Beggin for Thread | BANKS | Goddess |
+| Heartbreaker Hills | Eagle Eyed Tiger | On The Run |
+| Heartbreaker Hills | Eagle Eyed Tiger | On The Run |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
 | Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
-| Çike Çike | Bebe Rexha | DIRTY BLONDE |
 
-_Updated 2026-08-14 06:35 UTC_
+_Updated 2026-08-14 12:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
