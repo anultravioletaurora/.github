@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
-| Taste Like Venom | GUNSHIP | UNICORN |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Won't Cry | Amber Mark | Loosies |
-| Destiny's Child | Amber Mark | Loosies |
+| Eurosummer | Zara Larsson | Midnight Sun |
+| Take My Call | Ava Max | Don't Click Play |
+| Take My Call | Ava Max | Don't Click Play |
+| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Çike Çike | Bebe Rexha | DIRTY BLONDE |
 
-_Updated 2026-08-13 18:22 UTC_
+_Updated 2026-08-14 00:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
