@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Beggin for Thread | BANKS | Goddess |
-| Heartbreaker Hills | Eagle Eyed Tiger | On The Run |
-| Heartbreaker Hills | Eagle Eyed Tiger | On The Run |
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| Blue (Da Ba Dee) (video edit) | Eiffel 65 | Blue (Da Ba Dee) |
+| Outer Boroughs | Circles Around the Sun | Language |
+| Language | Circles Around the Sun | Language |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Future Starts Now | Kim Petras | Future Starts Now |
 
-_Updated 2026-08-14 12:21 UTC_
+_Updated 2026-08-14 18:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
