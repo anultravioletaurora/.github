@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Everything Must Go (Maddy O'Neal remix) | Maddy O’Neal & Goose | Everything Must Go Remixed |
-| Outer Boroughs | Circles Around the Sun | Language |
-| Language | Circles Around the Sun | Language |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Slow Song | The Knocks with Dragonette | HISTORY |
+| Method Acting | Work Drugs | Method Acting |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
+| ALL I WANNA DO | INJI | LFG |
 
-_Updated 2026-08-15 12:08 UTC_
+_Updated 2026-08-15 18:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
