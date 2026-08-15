@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Everything Must Go (Maddy O'Neal remix) | Maddy O’Neal & Goose | Everything Must Go Remixed |
 | Outer Boroughs | Circles Around the Sun | Language |
 | Language | Circles Around the Sun | Language |
 | Can’t Get You Out of My Head | Kylie Minogue | Fever |
 | Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Future Starts Now | Kim Petras | Future Starts Now |
 
-_Updated 2026-08-14 18:21 UTC_
+_Updated 2026-08-15 00:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
