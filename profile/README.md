@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
-| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
-| Haunting | Halsey | BADLANDS |
-| ALL I WANNA DO | INJI | LFG |
-| Learn to Fly | Foo Fighters | There Is Nothing Left to Lose |
+| Big Stick | MUNA | Dancing on the Wall |
+| The Moment | Tame Impala | Currents |
+| Remedy | Leony | Somewhere in Between |
+| Bad Girl | Daya | Bad Girl |
+| Velvet Skin | Velvet Bloom | In the Light |
 
-_Updated 2026-08-16 12:08 UTC_
+_Updated 2026-08-16 18:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
