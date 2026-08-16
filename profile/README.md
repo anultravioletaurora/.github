@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Slow Song | The Knocks with Dragonette | HISTORY |
-| Method Acting | Work Drugs | Method Acting |
 | Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| Sad Girls (extended mix) | Bebe Rexha & David Guetta | Sad Girls (extended mix) |
-| ALL I WANNA DO | INJI | LFG |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Fool for You | Jafunk, Nic Hanson & NanaBcool | Fool for You |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Friction | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-08-15 18:07 UTC_
+_Updated 2026-08-16 00:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
