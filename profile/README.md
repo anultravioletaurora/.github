@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
+| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
 | Haunting | Halsey | BADLANDS |
 | ALL I WANNA DO | INJI | LFG |
 | Learn to Fly | Foo Fighters | There Is Nothing Left to Lose |
-| Future Starts Now | Kim Petras | Future Starts Now |
-| My Head & My Heart | Ava Max | Heaven & Hell |
 
-_Updated 2026-08-16 06:11 UTC_
+_Updated 2026-08-16 12:08 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
