@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Fool for You | Jafunk, Nic Hanson & NanaBcool | Fool for You |
-| Friction | The Midnight | Syndicate (Deluxe) |
-| Friction | The Midnight | Syndicate (Deluxe) |
+| Haunting | Halsey | BADLANDS |
+| ALL I WANNA DO | INJI | LFG |
+| Learn to Fly | Foo Fighters | There Is Nothing Left to Lose |
+| Future Starts Now | Kim Petras | Future Starts Now |
+| My Head & My Heart | Ava Max | Heaven & Hell |
 
-_Updated 2026-08-16 00:20 UTC_
+_Updated 2026-08-16 06:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
