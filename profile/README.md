@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lose Yourself | Eminem | Curtain Call: The Hits |
-| Big Stick | MUNA | Dancing on the Wall |
-| The Moment | Tame Impala | Currents |
-| Remedy | Leony | Somewhere in Between |
-| Bad Girl | Daya | Bad Girl |
+| Midnight in New York | Ayra Starr | Starrgirl |
+| Tornado | Ayra Starr | Starrgirl |
+| Pressure | Ayra Starr | Starrgirl |
+| Gimme Dat | Ayra Starr feat. Wizkid | Starrgirl |
+| Amazing | Ayra Starr feat. kwn | Starrgirl |
 
-_Updated 2026-08-17 06:17 UTC_
+_Updated 2026-08-17 12:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
