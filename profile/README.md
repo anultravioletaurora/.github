@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Walk | Foo Fighters | Wasting Light |
+| Walk | Foo Fighters | Wasting Light |
 | Lose Yourself | Eminem | Curtain Call: The Hits |
 | Lose Yourself | Eminem | Curtain Call: The Hits |
 | Dance | Ayra Starr | Starrgirl |
-| Ms. Paper | Ayra Starr feat. Theodora | Starrgirl |
-| Hot Body | Ayra Starr | Starrgirl |
 
-_Updated 2026-08-18 12:12 UTC_
+_Updated 2026-08-18 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
