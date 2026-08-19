@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Velvet Skin | Velvet Bloom | In the Light |
-| Velvet Skin | Velvet Bloom | In the Light |
+| Lose Yourself | Eminem | Curtain Call: The Hits |
+| Bad Girl | Daya | Bad Girl |
 | Remedy | Leony | Somewhere in Between |
-| The Moment | Tame Impala | Currents |
-| Big Stick | MUNA | Dancing on the Wall |
+| Velvet Skin | Velvet Bloom | In the Light |
+| Velvet Skin | Velvet Bloom | In the Light |
 
-_Updated 2026-08-19 06:13 UTC_
+_Updated 2026-08-19 12:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
