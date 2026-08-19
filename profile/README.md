@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Walk | Foo Fighters | Wasting Light |
-| Walk | Foo Fighters | Wasting Light |
-| Lose Yourself | Eminem | Curtain Call: The Hits |
-| Lose Yourself | Eminem | Curtain Call: The Hits |
-| Dance | Ayra Starr | Starrgirl |
+| Velvet Skin | Velvet Bloom | In the Light |
+| Velvet Skin | Velvet Bloom | In the Light |
+| Remedy | Leony | Somewhere in Between |
+| The Moment | Tame Impala | Currents |
+| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-08-18 18:11 UTC_
+_Updated 2026-08-19 00:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
