@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart | Ava Max | Heaven & Hell |
-| Future Starts Now | Kim Petras | Future Starts Now |
-| ALL I WANNA DO | INJI | LFG |
-| Remedy | Leony | Somewhere in Between |
-| Remedy | Leony | Somewhere in Between |
+| Sleepyhead | Passion Pit | Manners |
+| 6's To 9's | Big Wild featuring Rationale | Superdream |
+| Ladies Room | Olivia Dean | Ladies Room |
+| Chemicals | Oliver feat. MNDR | Full Circle |
+| Sleepyhead | Passion Pit | Manners |
 
-_Updated 2026-08-20 06:14 UTC_
+_Updated 2026-08-20 12:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
