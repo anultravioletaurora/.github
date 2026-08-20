@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sleepyhead | Passion Pit | Manners |
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| Ladies Room | Olivia Dean | Ladies Room |
-| Chemicals | Oliver feat. MNDR | Full Circle |
+| Modern Symphony | Laura Lee Lovely | Eden |
+| Bad Girl | Daya | Bad Girl |
+| Remedy | Leony | Somewhere in Between |
+| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
 | Sleepyhead | Passion Pit | Manners |
 
-_Updated 2026-08-20 12:12 UTC_
+_Updated 2026-08-20 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
