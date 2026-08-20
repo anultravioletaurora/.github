@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lose Yourself | Eminem | Curtain Call: The Hits |
-| Bad Girl | Daya | Bad Girl |
+| My Head & My Heart | Ava Max | Heaven & Hell |
+| Future Starts Now | Kim Petras | Future Starts Now |
+| ALL I WANNA DO | INJI | LFG |
 | Remedy | Leony | Somewhere in Between |
-| Velvet Skin | Velvet Bloom | In the Light |
-| Velvet Skin | Velvet Bloom | In the Light |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-19 18:10 UTC_
+_Updated 2026-08-20 00:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
