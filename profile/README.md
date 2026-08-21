@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| パーティーヘッド | BRADIO | PARTY BOOSTER |
+| Fallin' Apart | The All‐American Rejects | When the World Comes Down |
+| Everything Changes (But I Won’t) | Rose Gray | A Little Louder, Please (Deluxe) |
+| Free | Rose Gray | Louder, Please |
 | Vampires | The Midnight | Endless Summer |
-| Jason | The Midnight feat. Nikki Flores | Endless Summer |
-| Daytona | The Midnight | Endless Summer |
-| Sunset | The Midnight | Endless Summer |
-| Endless Summer | The Midnight | Endless Summer |
 
-_Updated 2026-08-21 00:20 UTC_
+_Updated 2026-08-21 06:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
