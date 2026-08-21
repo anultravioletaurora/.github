@@ -52,12 +52,12 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 | Track | Artist | Album |
 |-------|--------|-------|
 | Officially Mine | Maude Latour | Sugar Water |
-| パーティーヘッド | BRADIO | PARTY BOOSTER |
-| Fallin' Apart | The All‐American Rejects | When the World Comes Down |
-| Everything Changes (But I Won’t) | Rose Gray | A Little Louder, Please (Deluxe) |
-| Free | Rose Gray | Louder, Please |
+| Fire | Sarah Engels | Fire |
+| Rodeo | Sizzy Rocket | Rode Hard, Put Away Wet |
+| Fire | Sarah Engels | Fire |
+| Officially Mine | Maude Latour | Sugar Water |
 
-_Updated 2026-08-21 12:12 UTC_
+_Updated 2026-08-21 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
