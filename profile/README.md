@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Modern Symphony | Laura Lee Lovely | Eden |
-| Bad Girl | Daya | Bad Girl |
-| Remedy | Leony | Somewhere in Between |
-| Alive and Amplified | The Mooney Suzuki | Alive & Amplified |
-| Sleepyhead | Passion Pit | Manners |
+| Vampires | The Midnight | Endless Summer |
+| Jason | The Midnight feat. Nikki Flores | Endless Summer |
+| Daytona | The Midnight | Endless Summer |
+| Sunset | The Midnight | Endless Summer |
+| Endless Summer | The Midnight | Endless Summer |
 
-_Updated 2026-08-20 18:11 UTC_
+_Updated 2026-08-21 00:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
