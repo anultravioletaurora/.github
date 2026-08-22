@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Officially Mine | Maude Latour | Sugar Water |
-| Fire | Sarah Engels | Fire |
-| Rodeo | Sizzy Rocket | Rode Hard, Put Away Wet |
-| Fire | Sarah Engels | Fire |
-| Officially Mine | Maude Latour | Sugar Water |
+| Lost In The Wild | RVRB | Lost In The Wild |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Remedy | Leony | Somewhere in Between |
+| Fallin' Apart | The All‐American Rejects | When the World Comes Down |
 
-_Updated 2026-08-21 18:11 UTC_
+_Updated 2026-08-22 00:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
