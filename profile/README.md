@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| In My Room | Gorgeous War |  |
-| A Matter of Time | Ollie Wride | The Pressure Point |
-| A Matter of Time | Ollie Wride | The Pressure Point |
-| Lost In The Wild | RVRB | Lost In The Wild |
-| Runaways | The Midnight | Syndicate (Deluxe) |
+| Surrender | Leony | Surrender |
+| Boots | Leony | Boots |
+| Far Away From Home | Sam Feldt & VIZE feat. Leony | Somewhere in Between |
+| Friendships (Lost My Love) | Pascal Letoublon ft. Leony | Somewhere in Between |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-22 12:08 UTC_
+_Updated 2026-08-22 18:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
