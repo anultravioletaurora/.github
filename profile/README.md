@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Golden | Parade of Lights | Feeling Electric |
+| In My Room | Gorgeous War |  |
 | Put a Light On | Generationals | Heza |
 | swordsman | Night Tapes | Night Tapes on Audiotree Live |
 | selene | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Boots | Leony | Boots |
 
-_Updated 2026-08-23 00:20 UTC_
+_Updated 2026-08-23 06:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
