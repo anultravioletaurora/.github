@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Surrender | Leony | Surrender |
+| Put a Light On | Generationals | Heza |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| selene | Night Tapes | Night Tapes on Audiotree Live |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
 | Boots | Leony | Boots |
-| Far Away From Home | Sam Feldt & VIZE feat. Leony | Somewhere in Between |
-| Friendships (Lost My Love) | Pascal Letoublon ft. Leony | Somewhere in Between |
-| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-22 18:07 UTC_
+_Updated 2026-08-23 00:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
