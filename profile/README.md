@@ -1,13 +1,5 @@
 # hi, i'm violet
 
-i like building things and sharing them with the world.
-
-i'm an Apple enthusiast with a passion for selfhosting. my most recent obsessions are Jellyfin and React Native.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square) ![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=flat-square) ![Apple](https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=flat-square)
-
----
-
 ## what i'm working on
 
 ### Jellify
@@ -25,24 +17,6 @@ _A free and open source media server._
 ### [React Native Nitro Player](https://github.com/riteshshukla04/react-native-nitro-player)
 
 _A high-performance audio player library for React Native, powered by [Nitro Modules](https://nitro.margelo.com)._
-
-## what i'm testing
-
-### [nomad-driver-container](https://github.com/anultravioletaurora/nomad-driver-container)
-
-_A task driver for Hashicorp's Nomad that provides support for Apple's Container and is designed for Apple Silicon_
-
-### Nomadintosh
-[![View on GitHub](https://img.shields.io/badge/GitHub-Nomadintosh-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/anultravioletaurora/Nomadintosh)
-
-_An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad/docs) + [Consul](https://developer.hashicorp.com/consul/docs) on a Mac mini cluster. Makes a best-effort to run workloads bare-metal to take advantage of Apple Silicon's native hardware acceleration (Metal, VideoToolbox, Core ML), but provides roles for deploying various container technologies (Docker Desktop, Red Hat's Podman, Apple's Container)._
-
----
-
-## what i'm planning
-
-- **Jellible** — a cross-platform audiobooks client for [Jellyfin](https://jellyfin.org), under the [Jellible-Audiobooks](https://github.com/Jellible-Audiobooks) org
-- **Freakwency** - a companion mobile app for Listenbrainz
 
 ---
 
