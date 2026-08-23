@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Golden | Parade of Lights | Feeling Electric |
-| In My Room | Gorgeous War |  |
-| Put a Light On | Generationals | Heza |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| selene | Night Tapes | Night Tapes on Audiotree Live |
+| Quarters | Lost Cousins | Quarters |
+| Ramble On | Led Zeppelin | Led Zeppelin II |
+| Greek Tragedy | The Wombats | Glitterbug |
+| Give Me a Try | The Wombats | Glitterbug |
+| Give Me a Try | The Wombats | Glitterbug |
 
-_Updated 2026-08-23 06:12 UTC_
+_Updated 2026-08-23 12:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
