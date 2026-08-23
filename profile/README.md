@@ -51,13 +51,13 @@ _An Ansible playbook for deploying [Nomad](https://developer.hashicorp.com/nomad
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Quarters | Lost Cousins | Quarters |
-| Ramble On | Led Zeppelin | Led Zeppelin II |
-| Greek Tragedy | The Wombats | Glitterbug |
-| Give Me a Try | The Wombats | Glitterbug |
-| Give Me a Try | The Wombats | Glitterbug |
+| Officially Mine | Maude Latour | Sugar Water |
+| Fire | Sarah Engels | Fire |
+| Rodeo | Sizzy Rocket | Rode Hard, Put Away Wet |
+| Go With It | Oliver feat. Chromeo | Full Circle |
+| Friction | The Midnight | Syndicate (Deluxe) |
 
-_Updated 2026-08-23 12:09 UTC_
+_Updated 2026-08-23 18:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
