@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Overtime | The Strike | The Lost Years |
+| Boots | Leony | Boots |
 | I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
 | Got Love | Tove Lo | Queen of the Clouds |
 | Out of Time | Slayyyter | Erotic Electronic |
-| I Don’t Speak French | Rose Gray | Louder, Please |
-| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-08-24 00:20 UTC_
+_Updated 2026-08-24 06:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
