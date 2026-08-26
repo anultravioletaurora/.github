@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
 | The Aisle | PinkPantheress | Heaven Knows |
 | HEAT | Tove Lo & SG Lewis | HEAT |
 | Boots | Leony | Boots |
 | Greek Tragedy | The Wombats | Glitterbug |
-| Swimming Pool | Florrie | Swimming Pool |
 
-_Updated 2026-08-26 00:20 UTC_
+_Updated 2026-08-26 06:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
