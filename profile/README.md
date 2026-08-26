@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Boots | Leony | Boots |
 | Greek Tragedy | The Wombats | Glitterbug |
 
-_Updated 2026-08-26 06:15 UTC_
+_Updated 2026-08-26 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
