@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Are You In Love | Cherry Pools | Less Religion More Sex |
-| April | Rose Gray | Louder, Please |
-| Anything Could Happen in Midnight City | M83;Ellie Goulding | Anything Could Happen in Midnight City |
+| Body | Julia Jacklin | Body |
+| Ramble On | Led Zeppelin | Led Zeppelin II |
+| Bad Behavior | The Maine | Lovely Little Lonely |
+| Honolulu | Last Dinosaurs | In a Million Years |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-08-26 18:40 UTC_
+_Updated 2026-08-27 01:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
