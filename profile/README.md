@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Body | Julia Jacklin | Body |
-| Ramble On | Led Zeppelin | Led Zeppelin II |
-| Bad Behavior | The Maine | Lovely Little Lonely |
-| Honolulu | Last Dinosaurs | In a Million Years |
-| Remedy | Leony | Somewhere in Between |
+| Terra Firma | Franc Moody | Dream in Colour |
+| Touch of Grey | Grateful Dead | In the Dark |
+| Greek Tragedy | The Wombats | Glitterbug |
+| Give Me a Try | The Wombats | Glitterbug |
+| Airplanes, Pt II | B.o.B feat. Eminem & Hayley Williams of Paramore | Greatest Hits |
 
-_Updated 2026-08-27 01:49 UTC_
+_Updated 2026-08-27 09:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
