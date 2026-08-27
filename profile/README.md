@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | Terra Firma | Franc Moody | Dream in Colour |
+| Take On Me | Shannon Curtis | 80s kids |
+| The Devil | BANKS | Serpentina |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
 | Touch of Grey | Grateful Dead | In the Dark |
-| Greek Tragedy | The Wombats | Glitterbug |
-| Give Me a Try | The Wombats | Glitterbug |
-| Airplanes, Pt II | B.o.B feat. Eminem & Hayley Williams of Paramore | Greatest Hits |
 
-_Updated 2026-08-27 09:14 UTC_
+_Updated 2026-08-27 15:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
