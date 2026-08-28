@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Take On Me | Shannon Curtis | 80s kids |
 | The Devil | BANKS | Serpentina |
 
-_Updated 2026-08-28 16:16 UTC_
+_Updated 2026-08-28 21:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
