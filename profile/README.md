@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Reptilia | The Strokes | Room on Fire |
+| Woof | Sofi Tukker | BREAD |
 | Terra Firma | Franc Moody | Dream in Colour |
 | Take On Me | Shannon Curtis | 80s kids |
 | The Devil | BANKS | Serpentina |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Touch of Grey | Grateful Dead | In the Dark |
 
-_Updated 2026-08-28 03:12 UTC_
+_Updated 2026-08-28 09:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
