@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Disco at the Strip Club | Rêve | Saturn Return |
 | Do You Ever Wonder? | Meltt | Eternal Embers |
 | Do You Ever Wonder? | Meltt | Eternal Embers |
 | Within You, Within Me | Meltt | Eternal Embers |
 | BELLYDANCING | INJI | BELLYDANCING |
-| Reptilia | The Strokes | Room on Fire |
 
-_Updated 2026-08-30 12:22 UTC_
+_Updated 2026-08-30 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
