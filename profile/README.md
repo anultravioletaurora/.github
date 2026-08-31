@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Disco at the Strip Club | Rêve | Saturn Return |
-| Do You Ever Wonder? | Meltt | Eternal Embers |
-| Do You Ever Wonder? | Meltt | Eternal Embers |
-| Within You, Within Me | Meltt | Eternal Embers |
+| Terra Firma | Franc Moody | Dream in Colour |
+| Take On Me | Shannon Curtis | 80s kids |
 | BELLYDANCING | INJI | BELLYDANCING |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-08-31 00:50 UTC_
+_Updated 2026-08-31 06:36 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
