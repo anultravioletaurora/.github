@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Take On Me | Shannon Curtis | 80s kids |
 | Terra Firma | Franc Moody | Dream in Colour |
 | Take On Me | Shannon Curtis | 80s kids |
 | BELLYDANCING | INJI | BELLYDANCING |
 | BELLYDANCING | INJI | BELLYDANCING |
-| Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-08-31 06:36 UTC_
+_Updated 2026-08-31 12:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
