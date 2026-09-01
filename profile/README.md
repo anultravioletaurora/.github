@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | Take On Me | Shannon Curtis | 80s kids |
+| Take On Me | Shannon Curtis | 80s kids |
 | Terra Firma | Franc Moody | Dream in Colour |
 | Take On Me | Shannon Curtis | 80s kids |
 | Reptilia | The Strokes | Room on Fire |
-| BELLYDANCING | INJI | BELLYDANCING |
 
-_Updated 2026-09-01 00:55 UTC_
+_Updated 2026-09-01 06:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
