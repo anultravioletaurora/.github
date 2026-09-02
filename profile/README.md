@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Take On Me | Shannon Curtis | 80s kids |
 | Take On Me | Shannon Curtis | 80s kids |
 
-_Updated 2026-09-02 00:46 UTC_
+_Updated 2026-09-02 06:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
