@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Fire | Sarah Engels | Fire |
-| Dracula (JENNIE remix) | Tame Impala with JENNIE | Dracula (remix) |
-| Reptilia | The Strokes | Room on Fire |
-| Take On Me | Shannon Curtis | 80s kids |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
+| Closer | The Chainsmokers, Halsey | Closer |
+| swordsman | Night Tapes | portals//polarities |
+| The Devil | BANKS | Serpentina |
 
-_Updated 2026-09-03 06:28 UTC_
+_Updated 2026-09-03 12:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
