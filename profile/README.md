@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| BELLYDANCING | INJI | BELLYDANCING |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Fire | Sarah Engels | Fire |
+| Dracula (JENNIE remix) | Tame Impala with JENNIE | Dracula (remix) |
+| Reptilia | The Strokes | Room on Fire |
 | Take On Me | Shannon Curtis | 80s kids |
-| Take On Me | Shannon Curtis | 80s kids |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
 
-_Updated 2026-09-03 00:47 UTC_
+_Updated 2026-09-03 06:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
