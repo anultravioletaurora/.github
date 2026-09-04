@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Baby Don't Hurt Me | David Guetta, Anne-Marie, Coi Leray | SUPER UNHEALTHY (VOICENOTE EDITION) |
-| Closer | The Chainsmokers, Halsey | Closer |
-| swordsman | Night Tapes | portals//polarities |
-| The Devil | BANKS | Serpentina |
+| Do You Ever Wonder? | Meltt | Eternal Embers |
+| Within You, Within Me | Meltt | Eternal Embers |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| America Online | The Midnight | America Online |
+| Midnight City | M83 | Midnight City |
 
-_Updated 2026-09-04 06:28 UTC_
+_Updated 2026-09-04 12:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
