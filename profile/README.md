@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Do You Ever Wonder? | Meltt | Eternal Embers |
-| Within You, Within Me | Meltt | Eternal Embers |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| America Online | The Midnight | America Online |
-| Midnight City | M83 | Midnight City |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Sad Girls | Bebe Rexha | DIRTY BLONDE |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Somebody to Love | Kylie Minogue | Tension |
+| 17 Crimes | AFI | Burials |
 
-_Updated 2026-09-04 12:25 UTC_
+_Updated 2026-09-04 18:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
