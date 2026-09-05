@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Sad Girls | Bebe Rexha | DIRTY BLONDE |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Somebody to Love | Kylie Minogue | Tension |
-| 17 Crimes | AFI | Burials |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| In My Room | Gorgeous War |  |
+| Low Tide | XY&O | Shimmer + Shade |
+| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-09-04 18:18 UTC_
+_Updated 2026-09-05 00:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
