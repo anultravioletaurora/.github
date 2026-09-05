@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| In My Room | Gorgeous War |  |
-| Low Tide | XY&O | Shimmer + Shade |
-| Big Stick | MUNA | Dancing on the Wall |
+| 24/7 | LINA | Melodrama |
+| Tin Soldiers | Kidburn | Love In Times Of Death |
+| Boots | Leony | Boots |
+| Nie vergessen (Alternative Remix) | Glasperlenspiel | Nie vergessen |
+| Swimming Pool | Florrie | Swimming Pool |
 
-_Updated 2026-09-05 00:44 UTC_
+_Updated 2026-09-05 06:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
