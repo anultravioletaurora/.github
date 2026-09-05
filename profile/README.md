@@ -27,11 +27,11 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 |-------|--------|-------|
 | 17 Crimes | AFI | Burials |
 | 17 Crimes | AFI | Burials |
+| 17 Crimes | AFI | Burials |
+| 17 Crimes | AFI | Burials |
 | 24/7 | LINA | Melodrama |
-| Tin Soldiers | Kidburn | Love In Times Of Death |
-| Boots | Leony | Boots |
 
-_Updated 2026-09-05 12:21 UTC_
+_Updated 2026-09-05 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
