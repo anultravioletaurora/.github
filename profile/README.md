@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 17 Crimes | AFI | Burials |
-| 17 Crimes | AFI | Burials |
-| 17 Crimes | AFI | Burials |
-| 17 Crimes | AFI | Burials |
-| 24/7 | LINA | Melodrama |
+| Saturn Return | Rêve | Saturn Return |
+| Release Me | Rêve | Saturn Return |
+| Whitney | Rêve | Saturn Return |
+| Past Life | Rêve | Saturn Return |
+| My My (What a Life) | Rêve | Saturn Return |
 
-_Updated 2026-09-05 18:17 UTC_
+_Updated 2026-09-06 00:51 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
