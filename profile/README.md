@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Big Boom | Rêve | Saturn Return |
 | Contemporary Love | Rêve | Saturn Return |
 
-_Updated 2026-09-07 00:50 UTC_
+_Updated 2026-09-07 06:37 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
