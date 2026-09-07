@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Stranger Love | Ollie Wride & Sunglasses Kid | Stranger Love |
-| 17 Crimes | AFI | Burials |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
-| Corsetry | Rebecca Black | Age of the Exhibitionist |
-| Exhibitionism | Rebecca Black | Age of the Exhibitionist |
+| Tin Soldiers | Kidburn | Love In Times Of Death |
+| Disco at the Strip Club | Rêve | Saturn Return |
+| Hypersexual | Rêve | Saturn Return |
+| CTRL + ALT + DEL | Rêve | Saturn Return |
+| Big Boom | Rêve | Saturn Return |
 
-_Updated 2026-09-07 12:25 UTC_
+_Updated 2026-09-07 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
