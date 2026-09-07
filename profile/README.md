@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Contemporary Love | Rêve | Saturn Return |
+| Disco at the Strip Club | Rêve | Saturn Return |
 | CTRL + ALT + DEL | Rêve | Saturn Return |
 | Big Boom | Rêve | Saturn Return |
 | Contemporary Love | Rêve | Saturn Return |
-| Disco at the Strip Club | Rêve | Saturn Return |
-| Saturn Return | Rêve | Saturn Return |
 
-_Updated 2026-09-06 18:17 UTC_
+_Updated 2026-09-07 00:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
