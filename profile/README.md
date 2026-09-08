@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | Tin Soldiers | Kidburn | Love In Times Of Death |
+| Tin Soldiers | Kidburn | Love In Times Of Death |
 | Disco at the Strip Club | Rêve | Saturn Return |
 | Hypersexual | Rêve | Saturn Return |
 | CTRL + ALT + DEL | Rêve | Saturn Return |
-| Big Boom | Rêve | Saturn Return |
 
-_Updated 2026-09-07 18:19 UTC_
+_Updated 2026-09-08 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
