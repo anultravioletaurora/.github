@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| One That Got Away | MUNA | One That Got Away |
-| Stronger | Britney Spears | Oops!…I Did It Again |
-| Shut Up and Drive | Rihanna | Good Girl Gone Bad |
-| Tongue | Rêve | Saturn Return |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| HEAT | Tove Lo & SG Lewis | HEAT |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Love Is an Ocean | The Midnight | Syndicate |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Morning | Noble Oak | Horizon |
 
-_Updated 2026-09-08 18:20 UTC_
+_Updated 2026-09-09 00:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
