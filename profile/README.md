@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| HEAT | Tove Lo & SG Lewis | HEAT |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Love Is an Ocean | The Midnight | Syndicate |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Morning | Noble Oak | Horizon |
+| Elevate | St. Lucia | When the Night |
+| Funky Disk | Skule Toyama | PopSlinger Original Soundtrack |
+| Funky Disk | Skule Toyama | PopSlinger Original Soundtrack |
+| LOVER | The Knocks | Lover |
+| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
 
-_Updated 2026-09-09 06:29 UTC_
+_Updated 2026-09-09 12:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
