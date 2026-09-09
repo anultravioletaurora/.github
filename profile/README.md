@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Around the World (La La La La La) | ATC | Planet Pop |
 | Morning | Noble Oak | Horizon |
 
-_Updated 2026-09-09 00:45 UTC_
+_Updated 2026-09-09 06:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
