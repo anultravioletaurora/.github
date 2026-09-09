@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Elevate | St. Lucia | When the Night |
-| Funky Disk | Skule Toyama | PopSlinger Original Soundtrack |
-| Funky Disk | Skule Toyama | PopSlinger Original Soundtrack |
-| LOVER | The Knocks | Lover |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| Cautious | Emarosa | Peach Club |
+| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
+| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
+| Do You Wanna Do Nothing With Me? | Lawrence | Breakfast |
+| Do You Remember? | St. Lucia | Matter |
 
-_Updated 2026-09-09 12:25 UTC_
+_Updated 2026-09-09 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
