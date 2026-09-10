@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My My (What a Life) | Rêve | Saturn Return |
 | Tongue | Rêve | Saturn Return |
-| LOVER | The Knocks | Lover |
-| Driving | Wanderer | Songs For The Night |
-| Aerodynamic | Daft Punk | Discovery |
-| Love Is an Ocean | The Midnight | Syndicate |
+| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
+| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
+| Tongue | Rêve | Saturn Return |
 
-_Updated 2026-09-10 06:28 UTC_
+_Updated 2026-09-10 12:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
