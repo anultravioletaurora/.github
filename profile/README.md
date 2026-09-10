@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Morning | Noble Oak | Horizon |
+| Tongue | Rêve | Saturn Return |
 | My My (What a Life) | Rêve | Saturn Return |
 | Tongue | Rêve | Saturn Return |
 | Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Tongue | Rêve | Saturn Return |
 
-_Updated 2026-09-10 12:24 UTC_
+_Updated 2026-09-10 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
