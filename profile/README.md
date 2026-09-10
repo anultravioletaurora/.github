@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Disco at the Strip Club | Rêve | Saturn Return |
 | Tongue | Rêve | Saturn Return |
-| Avalanche | WALK THE MOON | Talking Is Hard |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Remedy | Leony | Somewhere in Between |
+| LOVER | The Knocks | Lover |
+| Driving | Wanderer | Songs For The Night |
+| Aerodynamic | Daft Punk | Discovery |
+| Love Is an Ocean | The Midnight | Syndicate |
 
-_Updated 2026-09-10 00:44 UTC_
+_Updated 2026-09-10 06:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
