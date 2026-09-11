@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Night Odyssey | Wolf Saga | ODAYIN, Pt. 1 |
-| Saturn Return | Rêve | Saturn Return |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Get Outta My Way | Kylie Minogue | Aphrodite |
+| Walk | Foo Fighters | Walk |
+| Seeing What’s Next (Kev Frey remix) | Hollywood Principle & Kev Frey | Rocket League: Official Game Soundtrack, Vol. 2 |
+| sammy | chloe moriondo | sammy |
 
-_Updated 2026-09-11 06:27 UTC_
+_Updated 2026-09-11 12:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
