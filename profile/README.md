@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Like a G6 | Far East Movement ft. Cataracs & Dev | Like a G6 |
-| Tongue | Rêve | Saturn Return |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Fire | Sarah Engels | Fire |
+| Cautious | Emarosa | Peach Club |
+| Elevate | St. Lucia | When the Night |
+| Remedy | Leony | Somewhere in Between |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| Slow Song | The Knocks with Dragonette | HISTORY |
 
-_Updated 2026-09-12 00:43 UTC_
+_Updated 2026-09-12 06:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
