@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Cautious | Emarosa | Peach Club |
-| Elevate | St. Lucia | When the Night |
-| Remedy | Leony | Somewhere in Between |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Slow Song | The Knocks with Dragonette | HISTORY |
+| Ladies Room | Olivia Dean | Messy |
+| UTERUS & UNIVERSE | Agnes | BEAUTIFUL MADNESS |
+| LOVESONGS | Agnes | BEAUTIFUL MADNESS |
+| PRE | Agnes | BEAUTIFUL MADNESS |
+| SIGN IT | Agnes | BEAUTIFUL MADNESS |
 
-_Updated 2026-09-12 06:25 UTC_
+_Updated 2026-09-12 12:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
