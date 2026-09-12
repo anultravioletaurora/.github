@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Fire | Sarah Engels | Fire |
+| Like a G6 | Far East Movement ft. Cataracs & Dev | Like a G6 |
 | Tongue | Rêve | Saturn Return |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Fire | Sarah Engels | Fire |
-| Tongue | Rêve | Saturn Return |
-| 2 Die 4 | Tove Lo | Dirt Femme |
 
-_Updated 2026-09-11 18:19 UTC_
+_Updated 2026-09-12 00:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
