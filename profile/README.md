@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Ladies Room | Olivia Dean | Messy |
-| UTERUS & UNIVERSE | Agnes | BEAUTIFUL MADNESS |
-| LOVESONGS | Agnes | BEAUTIFUL MADNESS |
-| PRE | Agnes | BEAUTIFUL MADNESS |
-| SIGN IT | Agnes | BEAUTIFUL MADNESS |
+| My My (What a Life) | Rêve | Saturn Return |
+| My My (What a Life) | Rêve | Saturn Return |
+| CTRL + ALT + DEL | Rêve | Saturn Return |
+| Contemporary Love | Rêve | Saturn Return |
+| Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-09-12 12:21 UTC_
+_Updated 2026-09-12 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
