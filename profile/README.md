@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My My (What a Life) | Rêve | Saturn Return |
-| My My (What a Life) | Rêve | Saturn Return |
-| CTRL + ALT + DEL | Rêve | Saturn Return |
-| Contemporary Love | Rêve | Saturn Return |
 | Disco at the Strip Club | Rêve | Saturn Return |
+| ALL I WANNA DO | INJI | LFG |
+| All Around the World (La La La) | R3HAB & A Touch Of Class | All Around the World |
+| Without Me | Eminem | Without Me |
+| Icy | Kim Petras | Clarity |
 
-_Updated 2026-09-12 18:17 UTC_
+_Updated 2026-09-13 00:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
