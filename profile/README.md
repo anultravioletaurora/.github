@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Disco at the Strip Club | Rêve | Saturn Return |
-| ALL I WANNA DO | INJI | LFG |
-| All Around the World (La La La) | R3HAB & A Touch Of Class | All Around the World |
-| Without Me | Eminem | Without Me |
-| Icy | Kim Petras | Clarity |
+| All We Ever Do Is Talk | Del Water Gap | I Miss You Already + I Haven’t Left Yet |
+| Take Me Back (Reimagined) | RYLY | Young + Naive |
+| Young + Naive (I'm Addicted to My Phone and So Is Everyone Else) | RYLY | Young + Naive |
+| Lonely | RYLY | Young + Naive |
+| Paint Me Silver | Pond | The Weather |
 
-_Updated 2026-09-13 00:50 UTC_
+_Updated 2026-09-13 06:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
