@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Lonely | RYLY | Young + Naive |
 | Paint Me Silver | Pond | The Weather |
 
-_Updated 2026-09-14 12:26 UTC_
+_Updated 2026-09-14 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
