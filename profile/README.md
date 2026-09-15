@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| All We Ever Do Is Talk | Del Water Gap | I Miss You Already + I Haven’t Left Yet |
-| Take Me Back (Reimagined) | RYLY | Young + Naive |
-| Young + Naive (I'm Addicted to My Phone and So Is Everyone Else) | RYLY | Young + Naive |
-| Lonely | RYLY | Young + Naive |
-| Paint Me Silver | Pond | The Weather |
+| My Head & My Heart | Ava Max | Heaven & Hell |
+| Disco at the Strip Club | Rêve | Saturn Return |
+| BELLYDANCING | INJI | BELLYDANCING |
+| MADELINE | INJI | LFG |
+| One That Got Away | MUNA | One That Got Away |
 
-_Updated 2026-09-15 00:46 UTC_
+_Updated 2026-09-15 06:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
