@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| SURFACE TENSION | Lights | A6 |
-| One That Got Away | MUNA | One That Got Away |
-| MADELINE | INJI | LFG |
-| All We Ever Do Is Talk | Del Water Gap | I Miss You Already + I Haven’t Left Yet |
+| Rock My Body | R3HAB | Rock My Body (the Remixes) |
+| Fire | Sarah Engels | Fire |
+| Out of Time | Slayyyter | STARFUCKER |
+| My Head & My Heart | Ava Max | Heaven & Hell |
+| Method Acting | Work Drugs | Method Acting |
 
-_Updated 2026-09-16 00:45 UTC_
+_Updated 2026-09-16 06:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
