@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lights (single version) | Ellie Goulding | Lights |
-| Bodies | The Knocks & MUNA | HISTORY |
-| I Love Hollywood! | Slayyyter | STARFUCKER |
-| Fire | Sarah Engels | Fire |
-| Like a G6 | Far East Movement ft. Cataracs & DEV | Like a G6 |
+| Remedy | Leony | Somewhere in Between |
+| MADELINE | INJI | LFG |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| Love Is an Ocean | The Midnight | Syndicate |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-09-17 00:45 UTC_
+_Updated 2026-09-17 06:29 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
