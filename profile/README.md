@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Rock My Body | R3HAB | Rock My Body (the Remixes) |
+| Lights (single version) | Ellie Goulding | Lights |
+| Bodies | The Knocks & MUNA | HISTORY |
+| I Love Hollywood! | Slayyyter | STARFUCKER |
 | Fire | Sarah Engels | Fire |
-| Out of Time | Slayyyter | STARFUCKER |
-| My Head & My Heart | Ava Max | Heaven & Hell |
-| Method Acting | Work Drugs | Method Acting |
+| Like a G6 | Far East Movement ft. Cataracs & DEV | Like a G6 |
 
-_Updated 2026-09-16 18:19 UTC_
+_Updated 2026-09-17 00:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
