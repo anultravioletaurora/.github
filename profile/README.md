@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Remedy | Leony | Somewhere in Between |
-| MADELINE | INJI | LFG |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
 | Love Is an Ocean | The Midnight | Syndicate |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
+| My Head & My Heart | Ava Max | Heaven & Hell |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Remedy | Leony | Somewhere in Between |
 
-_Updated 2026-09-18 06:28 UTC_
+_Updated 2026-09-18 12:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
