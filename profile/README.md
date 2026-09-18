@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love Is an Ocean | The Midnight | Syndicate |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | Bebe |
-| My Head & My Heart | Ava Max | Heaven & Hell |
-| BELLYDANCING | INJI | BELLYDANCING |
-| Remedy | Leony | Somewhere in Between |
+| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| One That Got Away | MUNA | One That Got Away |
+| GODDESS | PVRIS | EVERGREEN |
+| Überdosis | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
+| Midnight City | M83 | Midnight City |
 
-_Updated 2026-09-18 12:24 UTC_
+_Updated 2026-09-18 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
