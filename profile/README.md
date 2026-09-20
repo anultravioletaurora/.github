@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Überdosis | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
 | Midnight City | M83 | Midnight City |
 
-_Updated 2026-09-20 11:01 UTC_
+_Updated 2026-09-20 15:47 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
