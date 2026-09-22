@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Mii Channel Banner | Kazumi Totaka | Wii System Soundtrack |
+| Wii System v1.0 Channel Banner | Kazumi Totaka | Wii System Soundtrack |
+| No Disc Inserted Banner | Kazumi Totaka | Wii System Soundtrack |
+| Wii Menu | Kazumi Totaka | Wii System Soundtrack |
 | Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
-| One That Got Away | MUNA | One That Got Away |
-| GODDESS | PVRIS | EVERGREEN |
-| Überdosis | Nina Chuba | Ich lieb mich, ich lieb mich nicht |
-| Midnight City | M83 | Midnight City |
 
-_Updated 2026-09-22 04:15 UTC_
+_Updated 2026-09-22 11:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
