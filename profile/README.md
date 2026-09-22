@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Mii Channel Banner | Kazumi Totaka | Wii System Soundtrack |
-| Wii System v1.0 Channel Banner | Kazumi Totaka | Wii System Soundtrack |
-| No Disc Inserted Banner | Kazumi Totaka | Wii System Soundtrack |
-| Wii Menu | Kazumi Totaka | Wii System Soundtrack |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| Space Echo | A.L.I.S.O.N | Space Station |
+| She Way Out | The 1975 | The 1975 |
+| 12 | The 1975 | The 1975 |
+| Girls | The 1975 | The 1975 |
+| Robbers | The 1975 | The 1975 |
 
-_Updated 2026-09-22 11:17 UTC_
+_Updated 2026-09-22 16:39 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
