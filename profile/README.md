@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Touch of Grey | Grateful Dead | In the Dark |
 | Space Echo | A.L.I.S.O.N | Space Station |
 | She Way Out | The 1975 | The 1975 |
-| 12 | The 1975 | The 1975 |
-| Girls | The 1975 | The 1975 |
 
-_Updated 2026-09-23 16:32 UTC_
+_Updated 2026-09-23 21:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
