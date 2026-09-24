@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Touch of Grey | Grateful Dead | In the Dark |
-| Space Echo | A.L.I.S.O.N | Space Station |
-| She Way Out | The 1975 | The 1975 |
+| Fight For Me | Ava Max | Don't Click Play |
+| Won't Cry | Amber Mark | Loosies |
+| Aquamarine | Addison Rae | Addison |
+| Call on Me (David Guetta remix) | Bebe Rexha | Call on Me |
+| My Head & My Heart | Ava Max | Heaven & Hell |
 
-_Updated 2026-09-23 21:19 UTC_
+_Updated 2026-09-24 04:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
