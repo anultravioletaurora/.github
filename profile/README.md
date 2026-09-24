@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| White Lights | Goose | 2021/07/06 Livingston, MT |
-| Silence | Blanke & HALIENE | Silence |
-| 6's To 9's | Big Wild featuring Rationale | Superdream |
-| Fight For Me | Ava Max | Don't Click Play |
-| Won't Cry | Amber Mark | Loosies |
+| Bad Girl | Daya | Bad Girl |
+| By the End of the Night | Amber Mark | Pretty Idea |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 
-_Updated 2026-09-24 11:26 UTC_
+_Updated 2026-09-24 16:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
