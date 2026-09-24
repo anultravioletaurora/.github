@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| White Lights | Goose | 2021/07/06 Livingston, MT |
+| Silence | Blanke & HALIENE | Silence |
+| 6's To 9's | Big Wild featuring Rationale | Superdream |
 | Fight For Me | Ava Max | Don't Click Play |
 | Won't Cry | Amber Mark | Loosies |
-| Aquamarine | Addison Rae | Addison |
-| Call on Me (David Guetta remix) | Bebe Rexha | Call on Me |
-| My Head & My Heart | Ava Max | Heaven & Hell |
 
-_Updated 2026-09-24 04:07 UTC_
+_Updated 2026-09-24 11:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
