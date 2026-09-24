@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Bad Girl | Daya | Bad Girl |
-| By the End of the Night | Amber Mark | Pretty Idea |
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
+| Million Dollar Baby | Ava Max | Diamonds & Dancefloors |
+| Contaminated | BANKS | III |
+| Houdini | Dua Lipa | Radical Optimism |
+| I'm Good (Blue) (Oliver Heldens Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Remixes #2) |
+| The Boys of Summer | The Ataris | So Long, Astoria |
 
-_Updated 2026-09-24 16:52 UTC_
+_Updated 2026-09-24 21:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
