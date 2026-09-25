@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| tokyo | joan | portra |
 | Hollywood | Cherry Pools | Less Religion More Sex |
 | Gemini Feed | BANKS | The Altar |
 | BELLYDANCING | INJI | BELLYDANCING |
 | Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 
-_Updated 2026-09-25 04:21 UTC_
+_Updated 2026-09-25 11:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
