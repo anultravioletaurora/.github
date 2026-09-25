@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Million Dollar Baby | Ava Max | Diamonds & Dancefloors |
-| Contaminated | BANKS | III |
-| Houdini | Dua Lipa | Radical Optimism |
-| I'm Good (Blue) (Oliver Heldens Remix) | David Guetta, Bebe Rexha | I'm Good (Blue) (Remixes #2) |
-| The Boys of Summer | The Ataris | So Long, Astoria |
+| Hollywood | Cherry Pools | Less Religion More Sex |
+| Gemini Feed | BANKS | The Altar |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 
-_Updated 2026-09-24 21:21 UTC_
+_Updated 2026-09-25 04:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
