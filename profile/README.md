@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Friday I’m in Love | The Cure | Wish |
-| Love Nebula | Kainalu | Audiotree Live |
-| Queen of Wands | Kainalu | Ginseng Hourglass |
-| take me on | joan | portra |
-| tokyo | joan | portra |
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Kerosene | Biig Piig | Bubblegum |
+| Diet Pepsi | Addison Rae | Addison |
+| GASLIGHT | INJI | LFG |
+| MADELINE | INJI | LFG |
 
-_Updated 2026-09-25 16:56 UTC_
+_Updated 2026-09-25 21:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
