@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Get Outta My Way | Kylie Minogue | Aphrodite |
 | Remedy | Leony | Somewhere in Between |
-| Method Acting | Work Drugs | Method Acting |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Remedy | Leony | Somewhere in Between |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Mr. Brightside (Jacques Lu Cont’s Thin White Duke radio remix) | The Killers | Mr. Brightside (remixes) |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| mary poppins | bbno$ | mary poppins |
 
-_Updated 2026-09-26 16:07 UTC_
+_Updated 2026-09-26 20:53 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
