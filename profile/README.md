@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Future Starts Now | Kim Petras | Future Starts Now |
 | Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
 | Kerosene | Biig Piig | Bubblegum |
 | Diet Pepsi | Addison Rae | Addison |
 | GASLIGHT | INJI | LFG |
-| MADELINE | INJI | LFG |
 
-_Updated 2026-09-25 21:21 UTC_
+_Updated 2026-09-26 04:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
