@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Seeing What's Next (Kev Frey remix) | Hollywood Principle | Play |
+| Spell (Radio Edit) [Sando remix] | Hollywood Principle | Play |
+| Solar Eclipses (Radio Edit) | Hollywood Principle & Dr. Awkward | Play |
+| Firework (Melad remix) | Hollywood Principle | Play |
 | Future Starts Now | Kim Petras | Future Starts Now |
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Kerosene | Biig Piig | Bubblegum |
-| Diet Pepsi | Addison Rae | Addison |
-| GASLIGHT | INJI | LFG |
 
-_Updated 2026-09-26 04:25 UTC_
+_Updated 2026-09-26 11:07 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
