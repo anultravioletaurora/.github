@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Love at First Sight | Kylie Minogue | Fever |
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
-| Secrets (Your Fire) | Magdalena Bay | Mercurial World |
+| KITTY | REYSHA RAMI | KITTY |
+| LOVER | The Knocks & Dolores Forever | LOVER |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| Follow the Light | Cory Wong & Dirty Loops | Turbo |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 
-_Updated 2026-09-27 11:45 UTC_
+_Updated 2026-09-27 16:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
