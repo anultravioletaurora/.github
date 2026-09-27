@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
 | Secrets (Your Fire) | Magdalena Bay | Mercurial World |
 
-_Updated 2026-09-27 04:43 UTC_
+_Updated 2026-09-27 11:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
