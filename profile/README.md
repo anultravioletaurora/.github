@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Remedy | Leony | Somewhere in Between |
+| Reptilia | The Strokes | Room on Fire |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| Dawning of the Season | Magdalena Bay | Mercurial World |
 | KITTY | REYSHA RAMI | KITTY |
-| LOVER | The Knocks & Dolores Forever | LOVER |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Follow the Light | Cory Wong & Dirty Loops | Turbo |
-| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
 
-_Updated 2026-09-27 16:43 UTC_
+_Updated 2026-09-27 21:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
