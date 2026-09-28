@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sports car | Tate McRae | So Close to What |
-| Can’t Tame Her | Zara Larsson | VENUS |
-| Somebody to Love | Kylie Minogue | Tension |
-| Sports car | Tate McRae | So Close to What |
-| Give It All | Rise Against | Siren Song of the Counter Culture |
+| Disco at the Strip Club | Rêve | Saturn Return |
+| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
+| Naked | Ava Max | Heaven & Hell |
+| Sweet but Psycho | Ava Max | Heaven & Hell |
+| Kings & Queens | Ava Max | Heaven & Hell |
 
-_Updated 2026-09-28 13:26 UTC_
+_Updated 2026-09-28 23:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
