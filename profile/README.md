@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Remedy | Leony | Somewhere in Between |
-| Reptilia | The Strokes | Room on Fire |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| Dawning of the Season | Magdalena Bay | Mercurial World |
-| KITTY | REYSHA RAMI | KITTY |
+| The Devil | BANKS | The Devil |
+| Better | Cody Fry, Cory Wong & Dynamo | 08.26.18 |
+| Tonight Is the Night | Outasight | Tonight Is the Night |
+| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| Somebody to Love | Kylie Minogue | Tension |
 
-_Updated 2026-09-27 21:09 UTC_
+_Updated 2026-09-28 04:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
