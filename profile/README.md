@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| The Devil | BANKS | The Devil |
-| Better | Cody Fry, Cory Wong & Dynamo | 08.26.18 |
-| Tonight Is the Night | Outasight | Tonight Is the Night |
-| Bad At Letting Go (feat. MUNA) | Leland | Bad At Letting Go (feat. Muna) |
+| Sports car | Tate McRae | So Close to What |
+| Can’t Tame Her | Zara Larsson | VENUS |
 | Somebody to Love | Kylie Minogue | Tension |
+| Sports car | Tate McRae | So Close to What |
+| Give It All | Rise Against | Siren Song of the Counter Culture |
 
-_Updated 2026-09-28 04:45 UTC_
+_Updated 2026-09-28 13:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
