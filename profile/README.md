@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Sweet but Psycho | Ava Max | Heaven & Hell |
 | Kings & Queens | Ava Max | Heaven & Hell |
 
-_Updated 2026-09-29 05:11 UTC_
+_Updated 2026-09-29 12:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
