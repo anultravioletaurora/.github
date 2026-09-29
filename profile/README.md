@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Regardless | RAYE & Rudimental | Euphoric Sad Songs (Dance Edition) |
 | Disco at the Strip Club | Rêve | Saturn Return |
-| Can’t Tame Her (Nightcore remix) | Zara Larsson | Can’t Tame Her: The Remixes |
-| Naked | Ava Max | Heaven & Hell |
-| Sweet but Psycho | Ava Max | Heaven & Hell |
-| Kings & Queens | Ava Max | Heaven & Hell |
+| Tongue | Rêve | Saturn Return |
+| BELLYDANCING | INJI | BELLYDANCING |
+| ALL I WANNA DO | INJI | LFG |
 
-_Updated 2026-09-29 12:30 UTC_
+_Updated 2026-09-29 22:04 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
