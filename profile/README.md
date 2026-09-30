@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Voodoo? | L’Impératrice | Tako Tsubo |
 | Hot n Heavy | Jessie Ware | Hot n Heavy |
 | Jacaré | Sofi Tukker | Jacaré |
 | Club to Your Arms | Rose Gray | Club to Your Arms |
 | Tombée pour la scène | L’Impératrice | Tako Tsubo |
-| Digital Sunset | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-09-30 12:14 UTC_
+_Updated 2026-09-30 22:03 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
