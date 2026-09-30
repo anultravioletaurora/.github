@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Regardless | RAYE & Rudimental | Euphoric Sad Songs (Dance Edition) |
-| Disco at the Strip Club | Rêve | Saturn Return |
-| Tongue | Rêve | Saturn Return |
-| BELLYDANCING | INJI | BELLYDANCING |
-| ALL I WANNA DO | INJI | LFG |
+| Hot n Heavy | Jessie Ware | Hot n Heavy |
+| Jacaré | Sofi Tukker | Jacaré |
+| Club to Your Arms | Rose Gray | Club to Your Arms |
+| Tombée pour la scène | L’Impératrice | Tako Tsubo |
+| Digital Sunset | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-09-29 22:04 UTC_
+_Updated 2026-09-30 04:58 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
