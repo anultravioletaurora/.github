@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Voodoo? | L’Impératrice | Tako Tsubo |
-| Hot n Heavy | Jessie Ware | Hot n Heavy |
-| Jacaré | Sofi Tukker | Jacaré |
-| Club to Your Arms | Rose Gray | Club to Your Arms |
-| Tombée pour la scène | L’Impératrice | Tako Tsubo |
+| Stuck | The Aces | When My Heart Felt Volcanic |
+| Better | Kaptan | Better |
+| Dance the Night | Dua Lipa | Live from the Royal Albert Hall |
+| Butterfly | Kylie Minogue | Fever (Deluxe Edition) |
+| Neon | Anika Nilles feat. Nevell | For A Colorful Soul |
 
-_Updated 2026-10-01 12:49 UTC_
+_Updated 2026-10-01 22:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
