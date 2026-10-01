@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Club to Your Arms | Rose Gray | Club to Your Arms |
 | Tombée pour la scène | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-10-01 05:12 UTC_
+_Updated 2026-10-01 12:49 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
