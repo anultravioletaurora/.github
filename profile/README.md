@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Our Affairs | Cory Henry & the Funk Apostles | Art of Love |
-| Molasses | Hiatus Kaiyote | Choose Your Weapon |
-| Love Heart Cheat Code | Hiatus Kaiyote | Love Heart Cheat Code |
-| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
-| Don’t Come Down | The Maine | Lovely Little Lonely |
+| Tombée pour la scène | L’Impératrice | Tako Tsubo |
+| Voodoo? | L’Impératrice | Tako Tsubo |
+| Tako Tsubo | L’Impératrice | Tako Tsubo |
+| Souffle au cœur | L’Impératrice | Tako Tsubo |
+| Off to the Side | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-10-02 05:00 UTC_
+_Updated 2026-10-02 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
