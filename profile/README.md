@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Stuck | The Aces | When My Heart Felt Volcanic |
-| Better | Kaptan | Better |
-| Dance the Night | Dua Lipa | Live from the Royal Albert Hall |
-| Butterfly | Kylie Minogue | Fever (Deluxe Edition) |
-| Neon | Anika Nilles feat. Nevell | For A Colorful Soul |
+| Our Affairs | Cory Henry & the Funk Apostles | Art of Love |
+| Molasses | Hiatus Kaiyote | Choose Your Weapon |
+| Love Heart Cheat Code | Hiatus Kaiyote | Love Heart Cheat Code |
+| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
+| Don’t Come Down | The Maine | Lovely Little Lonely |
 
-_Updated 2026-10-01 22:31 UTC_
+_Updated 2026-10-02 05:00 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
