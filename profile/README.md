@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tombée pour la scène | L’Impératrice | Tako Tsubo |
-| Voodoo? | L’Impératrice | Tako Tsubo |
-| Tako Tsubo | L’Impératrice | Tako Tsubo |
-| Souffle au cœur | L’Impératrice | Tako Tsubo |
-| Off to the Side | L’Impératrice | Tako Tsubo |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| ALL I WANNA DO | INJI | LFG |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Tongue | Rêve | Saturn Return |
+| Tant d’amour perdu | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-10-02 12:13 UTC_
+_Updated 2026-10-02 22:01 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
