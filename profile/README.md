@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Tongue | Rêve | Saturn Return |
 | Tant d’amour perdu | L’Impératrice | Tako Tsubo |
 
-_Updated 2026-10-02 22:01 UTC_
+_Updated 2026-10-03 04:44 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
