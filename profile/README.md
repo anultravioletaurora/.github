@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
-| Coast | Hailee Steinfeld ft. Anderson .Paak | Coast (acoustic version) |
-| You First (Re: Remi Wolf) | Paramore | You First (Re: Remi Wolf) |
-| Crying on the Dancefloor | Dayglow | Harmony House |
-| DRIP | BABYMONSTER | DRIP |
+| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
+| Am I Wrong | Anderson .Paak ft. ScHoolboy Q | Malibu |
+| Love Me | Yiruma | The Best – Reminiscent 10th Anniversary |
+| Love Heart Cheat Code | Hiatus Kaiyote | Love Heart Cheat Code |
+| Molasses | Hiatus Kaiyote | Choose Your Weapon |
 
-_Updated 2026-10-05 14:09 UTC_
+_Updated 2026-10-05 23:54 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
