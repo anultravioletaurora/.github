@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Anxiety | Doechii | Alligator Bites Never Heal |
-| Say It (to My Face) | Meet Me @ the Altar | Past // Present // Future |
-| Into Focus | Panama Wedding | Into Focus |
-| Rocket Science | Meet Me @ the Altar | Past // Present // Future |
-| Need Me | Meet Me @ the Altar | Past // Present // Future |
+| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
+| Coast | Hailee Steinfeld ft. Anderson .Paak | Coast (acoustic version) |
+| You First (Re: Remi Wolf) | Paramore | You First (Re: Remi Wolf) |
+| Crying on the Dancefloor | Dayglow | Harmony House |
+| DRIP | BABYMONSTER | DRIP |
 
-_Updated 2026-10-05 04:59 UTC_
+_Updated 2026-10-05 14:09 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
