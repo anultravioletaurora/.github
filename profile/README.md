@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
-| Am I Wrong | Anderson .Paak ft. ScHoolboy Q | Malibu |
-| Love Me | Yiruma | The Best – Reminiscent 10th Anniversary |
-| Love Heart Cheat Code | Hiatus Kaiyote | Love Heart Cheat Code |
-| Molasses | Hiatus Kaiyote | Choose Your Weapon |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Skin to Bone | The Jungle Giants | Learn To Exist |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Tongue | Rêve | Saturn Return |
+| Drop Dead | Hunnygloss | Drop Dead |
 
-_Updated 2026-10-06 13:06 UTC_
+_Updated 2026-10-06 22:32 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
