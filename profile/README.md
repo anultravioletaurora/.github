@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Love Heart Cheat Code | Hiatus Kaiyote | Love Heart Cheat Code |
 | Molasses | Hiatus Kaiyote | Choose Your Weapon |
 
-_Updated 2026-10-05 23:54 UTC_
+_Updated 2026-10-06 13:06 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
