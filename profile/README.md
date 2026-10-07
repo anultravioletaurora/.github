@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Skin to Bone | The Jungle Giants | Learn To Exist |
-| BELLYDANCING | INJI | BELLYDANCING |
 | Tongue | Rêve | Saturn Return |
-| Drop Dead | Hunnygloss | Drop Dead |
+| Everything | FM-84 | Atlas |
+| Anxiety | Doechii | Alligator Bites Never Heal |
+| ANGEL IN THE CLUB | Ashley Sienna | ANGEL RAVE |
+| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-10-06 22:32 UTC_
+_Updated 2026-10-07 05:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
