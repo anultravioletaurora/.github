@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tongue | Rêve | Saturn Return |
-| Everything | FM-84 | Atlas |
-| Anxiety | Doechii | Alligator Bites Never Heal |
-| ANGEL IN THE CLUB | Ashley Sienna | ANGEL RAVE |
-| swordsman | Night Tapes | portals//polarities |
+| Dance with Somebody | The Midnight | Dance With Somebody |
+| Hysterical Us | Magdalena Bay | Mercurial World |
+| Feel It All Around | Washed Out | Life of Leisure |
+| New Theory | Washed Out | Life of Leisure |
+| City of Angels | Ollie Wride | The Pressure Point |
 
-_Updated 2026-10-07 13:00 UTC_
+_Updated 2026-10-07 22:56 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
