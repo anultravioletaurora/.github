@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | New Theory | Washed Out | Life of Leisure |
 | City of Angels | Ollie Wride | The Pressure Point |
 
-_Updated 2026-10-07 22:56 UTC_
+_Updated 2026-10-08 05:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
