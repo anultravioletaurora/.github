@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| The Beginning | Magdalena Bay | Mercurial World |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 | swordsman | Night Tapes | portals//polarities |
 | Dance with Somebody | The Midnight | Dance With Somebody |
-| Crying on the Dancefloor | Dayglow | Harmony House |
-| Sports car | Tate McRae | Sports car |
 
-_Updated 2026-10-09 00:52 UTC_
+_Updated 2026-10-09 06:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
