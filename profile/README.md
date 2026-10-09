@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
+| swordsman | Night Tapes | portals//polarities |
+| Dance with Somebody | The Midnight | Dance With Somebody |
 | Crying on the Dancefloor | Dayglow | Harmony House |
 | Sports car | Tate McRae | Sports car |
-| Pretty Vicious | The Struts | Pretty Vicious |
-| Bizarre Love Triangle | New Order | Brotherhood |
-| Take My Call | Ava Max | Don't Click Play |
 
-_Updated 2026-10-08 23:08 UTC_
+_Updated 2026-10-09 00:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
