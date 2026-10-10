@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
+| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 | The Beginning | Magdalena Bay | Mercurial World |
 | Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
-| swordsman | Night Tapes | portals//polarities |
 
-_Updated 2026-10-10 06:28 UTC_
+_Updated 2026-10-10 12:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
