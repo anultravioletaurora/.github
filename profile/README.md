@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 | The Beginning | Magdalena Bay | Mercurial World |
 | Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | My Head & My Heart (Claptone extended mix) | Ava Max | My Head & My Heart (Claptone Extended Mix) |
 | swordsman | Night Tapes | portals//polarities |
-| Dance with Somebody | The Midnight | Dance With Somebody |
 
-_Updated 2026-10-10 00:50 UTC_
+_Updated 2026-10-10 06:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
