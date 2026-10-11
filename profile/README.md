@@ -25,13 +25,9 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| One That Got Away | MUNA | One That Got Away |
-| Somebody to Love | Kylie Minogue | Tension |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Stranger Love | Ollie Wride & Sunglasses Kid | Stranger Love |
 
-_Updated 2026-10-11 06:28 UTC_
+
+_Updated 2026-10-11 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
