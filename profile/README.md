@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Silenced by the Night | Keane | Strangeland |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| One That Got Away | MUNA | One That Got Away |
-| Somebody to Love | Kylie Minogue | Tension |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| greedy | Tate McRae | THINK LATER |
+| Lotus | Rose Gray | Louder, Please |
+| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
+| Tongue | Rêve | Saturn Return |
+| Big Stick | MUNA | Dancing on the Wall |
 
-_Updated 2026-10-12 18:21 UTC_
+_Updated 2026-10-13 00:52 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
