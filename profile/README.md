@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| greedy | Tate McRae | THINK LATER |
-| Lotus | Rose Gray | Louder, Please |
-| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
-| Tongue | Rêve | Saturn Return |
-| Big Stick | MUNA | Dancing on the Wall |
+| One That Got Away | MUNA | One That Got Away |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
+| Naïve | The Kooks | Inside In/Inside Out |
 
-_Updated 2026-10-13 12:28 UTC_
+_Updated 2026-10-13 18:23 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
