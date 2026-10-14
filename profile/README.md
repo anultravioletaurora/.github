@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| One That Got Away | MUNA | One That Got Away |
+| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
 | swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
-| Naïve | The Kooks | Inside In/Inside Out |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| WAKE UP | Agnes | BEAUTIFUL MADNESS |
+| FOCUS | Agnes | BEAUTIFUL MADNESS |
 
-_Updated 2026-10-14 12:25 UTC_
+_Updated 2026-10-14 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
