@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Shiznit | Sly5thAve feat. Jesse Fischer | The Invisible Man: An Orchestral Tribute to Dr. Dre |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| WAKE UP | Agnes | BEAUTIFUL MADNESS |
-| FOCUS | Agnes | BEAUTIFUL MADNESS |
+| Stranger Love | Ollie Wride & Sunglasses Kid | Stranger Love |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| Tongue | Rêve | Saturn Return |
+| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
+| Lotus | Rose Gray | Louder, Please |
 
-_Updated 2026-10-15 12:25 UTC_
+_Updated 2026-10-15 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
