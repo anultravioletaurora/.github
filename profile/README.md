@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love at First Sight | Kylie Minogue | Fever |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Wild in My Arms | Jessie Frye | Kiss Me in the Rain |
-| Eighteen | Jessie Frye | Kiss Me in the Rain |
+| Drop Dead | Hunnygloss | Drop Dead |
+| Sexxxtapes | Ellise | Sexxxtapes |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| Within You, Within Me | Meltt | Another Quiet Sunday |
 
-_Updated 2026-10-16 12:24 UTC_
+_Updated 2026-10-16 18:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
