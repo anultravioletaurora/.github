@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Stranger Love | Ollie Wride & Sunglasses Kid | Stranger Love |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Tongue | Rêve | Saturn Return |
-| Attention Whore | Tove Lo ft. Channel Tres | Dirt Femme |
-| Lotus | Rose Gray | Louder, Please |
+| Meteorite | Anna of the North & Gus Dapperton | Meteorite |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
+| Within You, Within Me | Meltt | Another Quiet Sunday |
+| Big Stick | MUNA | Dancing on the Wall |
+| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
 
-_Updated 2026-10-15 18:19 UTC_
+_Updated 2026-10-16 00:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
