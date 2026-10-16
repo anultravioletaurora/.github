@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Meteorite | Anna of the North & Gus Dapperton | Meteorite |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Within You, Within Me | Meltt | Another Quiet Sunday |
-| Big Stick | MUNA | Dancing on the Wall |
-| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Wild in My Arms | Jessie Frye | Kiss Me in the Rain |
+| Eighteen | Jessie Frye | Kiss Me in the Rain |
+| High | Jessie Frye feat. Robert Parker | Kiss Me in the Rain |
 
-_Updated 2026-10-16 00:41 UTC_
+_Updated 2026-10-16 06:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
