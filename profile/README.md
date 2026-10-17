@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| Method Acting | Work Drugs | Method Acting |
-| Stuck | The Aces | When My Heart Felt Volcanic |
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Episode | Gallant | Ology |
+| First Time Feeling | Ripe | First Time Feeling |
+| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
+| Meteorite | Anna of the North & Gus Dapperton | Meteorite |
+| Changes | Post Sex Nachos | Prima/vera |
+| Sexxxtapes | Ellise | Sexxxtapes |
 
-_Updated 2026-10-17 12:20 UTC_
+_Updated 2026-10-17 18:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
