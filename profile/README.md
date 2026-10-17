@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Drop Dead | Hunnygloss | Drop Dead |
-| Sexxxtapes | Ellise | Sexxxtapes |
 | Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Within You, Within Me | Meltt | Another Quiet Sunday |
+| Method Acting | Work Drugs | Method Acting |
+| Stuck | The Aces | When My Heart Felt Volcanic |
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Episode | Gallant | Ology |
 
-_Updated 2026-10-16 18:18 UTC_
+_Updated 2026-10-17 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
