@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Method Acting | Work Drugs | Method Acting |
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| Tongue | Rêve | Saturn Return |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Levitating | Dua Lipa | Dua Lipa Radical Optimism Tour |
+| Friction | The Midnight | Syndicate (Deluxe) |
+| Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Doom Dance | GUNSHIP feat. Carpenter Brut & Gavin Rossdale | UNICORN |
+| Taste Like Venom | GUNSHIP | UNICORN |
 
-_Updated 2026-10-18 12:21 UTC_
+_Updated 2026-10-18 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
