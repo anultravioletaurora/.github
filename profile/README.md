@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| First Time Feeling | Ripe | First Time Feeling |
-| Show Me What I’m Looking For | Carolina Liar | Coming to Terms |
-| Meteorite | Anna of the North & Gus Dapperton | Meteorite |
-| Changes | Post Sex Nachos | Prima/vera |
-| Sexxxtapes | Ellise | Sexxxtapes |
+| Levitating | Dua Lipa | Dua Lipa Radical Optimism Tour |
+| Future Starts Now | Kim Petras | Future Starts Now |
+| Close to You | Dayglow | Close to You |
+| All Around the World (La La La) | R3HAB & A Touch Of Class | All Around the World |
+| Dance with Somebody | The Midnight | Dance With Somebody |
 
-_Updated 2026-10-17 18:16 UTC_
+_Updated 2026-10-18 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
