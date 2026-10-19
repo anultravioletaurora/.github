@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| All Around the World (La La La) | R3HAB & A Touch Of Class | All Around the World |
-| Training Season | Dua Lipa | Training Season |
-| Jeannie Becomes a Mom | Caroline Rose | LONER |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
-| Weaponised Love | GUNSHIP | UNICORN |
+| Postcard From the American Dream | GUNSHIP | UNICORN |
+| Lost Shadow | GUNSHIP | UNICORN |
+| Run Like Hell | GUNSHIP | UNICORN |
+| Nuclear Date Night | GUNSHIP | UNICORN |
+| Holographic Heart | GUNSHIP feat. Britta Phillips | UNICORN |
 
-_Updated 2026-10-19 00:46 UTC_
+_Updated 2026-10-19 06:38 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
