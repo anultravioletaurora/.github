@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Postcard From the American Dream | GUNSHIP | UNICORN |
-| Lost Shadow | GUNSHIP | UNICORN |
-| Run Like Hell | GUNSHIP | UNICORN |
-| Nuclear Date Night | GUNSHIP | UNICORN |
-| Holographic Heart | GUNSHIP feat. Britta Phillips | UNICORN |
+| Tongue | Rêve | Saturn Return |
+| ALL I WANNA DO | INJI | LFG |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Taste Like Venom | GUNSHIP | UNICORN |
 
-_Updated 2026-10-19 12:26 UTC_
+_Updated 2026-10-19 18:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
