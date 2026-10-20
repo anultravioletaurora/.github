@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
+| Jeannie Becomes a Mom | Caroline Rose | LONER |
 | Tongue | Rêve | Saturn Return |
-| ALL I WANNA DO | INJI | LFG |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Taste Like Venom | GUNSHIP | UNICORN |
 
-_Updated 2026-10-19 18:21 UTC_
+_Updated 2026-10-20 00:43 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
