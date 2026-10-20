@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
-| Mantra | JENNIE | Mantra |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Sexxxtapes | Ellise | Sexxxtapes |
+| Drop Dead | Hunnygloss | Drop Dead |
+| Changes | Post Sex Nachos | Prima/vera |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 
-_Updated 2026-10-20 12:25 UTC_
+_Updated 2026-10-20 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
