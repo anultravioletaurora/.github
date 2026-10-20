@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Around the World (La La La La La) | ATC | Planet Pop |
+| Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
 | I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
-| Jeannie Becomes a Mom | Caroline Rose | LONER |
-| Tongue | Rêve | Saturn Return |
+| Mantra | JENNIE | Mantra |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
 
-_Updated 2026-10-20 00:43 UTC_
+_Updated 2026-10-20 06:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
