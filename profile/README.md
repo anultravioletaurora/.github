@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Mantra | JENNIE | Mantra |
-| Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Tech Noir II | GUNSHIP feat. John Carpenter, Charlie Simpson | UNICORN |
 
-_Updated 2026-10-21 12:24 UTC_
+_Updated 2026-10-21 18:20 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
