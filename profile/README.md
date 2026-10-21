@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Mantra | JENNIE | Mantra |
 | Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
 
-_Updated 2026-10-21 00:42 UTC_
+_Updated 2026-10-21 06:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
