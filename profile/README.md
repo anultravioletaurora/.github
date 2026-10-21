@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
 | I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
 
-_Updated 2026-10-21 06:28 UTC_
+_Updated 2026-10-21 12:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
