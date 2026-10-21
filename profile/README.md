@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Sexxxtapes | Ellise | Sexxxtapes |
-| Drop Dead | Hunnygloss | Drop Dead |
-| Changes | Post Sex Nachos | Prima/vera |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Edge of Seventeen | Stevie Nicks | Crystal Visions… The Very Best of Stevie Nicks |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
+| Afraid of Nothing | Rose Gray & Kungs | Afraid of Nothing |
 
-_Updated 2026-10-20 18:20 UTC_
+_Updated 2026-10-21 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
