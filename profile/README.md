@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Disco at the Strip Club | Rêve | Saturn Return |
+| Come As You Are | SHAED | Come As You Are |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Disco at the Strip Club | Rêve | Saturn Return |
-| Doom Dance | GUNSHIP feat. Carpenter Brut & Gavin Rossdale | UNICORN |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-10-22 06:28 UTC_
+_Updated 2026-10-22 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
