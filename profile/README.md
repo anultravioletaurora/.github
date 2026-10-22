@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| I’m Good (Blue) | David Guetta & Bebe Rexha | I’m Good (Blue) |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Tech Noir II | GUNSHIP feat. John Carpenter, Charlie Simpson | UNICORN |
+| Disco at the Strip Club | Rêve | Saturn Return |
+| Doom Dance | GUNSHIP feat. Carpenter Brut & Gavin Rossdale | UNICORN |
 
-_Updated 2026-10-21 18:20 UTC_
+_Updated 2026-10-22 00:42 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
