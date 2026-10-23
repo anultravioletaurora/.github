@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Disco at the Strip Club | Rêve | Saturn Return |
+| Friday I’m in Love | The Cure | Wish |
+| Can’t Get You Out of My Head | Kylie Minogue | Fever |
+| Tongue | Rêve | Saturn Return |
 
-_Updated 2026-10-23 12:23 UTC_
+_Updated 2026-10-23 18:19 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
