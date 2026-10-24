@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
+| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
+| Within You, Within Me | Meltt | Another Quiet Sunday |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | Runaways | The Midnight | Syndicate (Deluxe) |
-| Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Los Angeles | The Midnight | Days of Thunder |
 
-_Updated 2026-10-24 12:21 UTC_
+_Updated 2026-10-24 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
