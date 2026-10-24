@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Friday I’m in Love | The Cure | Wish |
-| Can’t Get You Out of My Head | Kylie Minogue | Fever |
-| Tongue | Rêve | Saturn Return |
+| Runaways | The Midnight | Syndicate (Deluxe) |
+| Love Is an Ocean | The Midnight | Syndicate (Deluxe) |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Los Angeles | The Midnight | Days of Thunder |
 
-_Updated 2026-10-23 18:19 UTC_
+_Updated 2026-10-24 00:41 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
