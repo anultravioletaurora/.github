@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Just Like Heaven | The Cure | Kiss Me Kiss Me Kiss Me |
-| Woof | Sofi Tukker feat. Kah‐Lo | BREAD |
-| Within You, Within Me | Meltt | Another Quiet Sunday |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Runaways | The Midnight | Syndicate (Deluxe) |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
+| Drunk in Love | LUNAX | Slap House Party |
+| greedy | Tate McRae | THINK LATER |
+| Good Times | Moray Pringle | Good Times |
 
-_Updated 2026-10-24 18:17 UTC_
+_Updated 2026-10-25 00:46 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
