@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| 2 Die 4 | Tove Lo | Dirt Femme |
 | Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Dani California | Red Hot Chili Peppers | Stadium Arcadium |
 | Drunk in Love | LUNAX | Slap House Party |
 | greedy | Tate McRae | THINK LATER |
-| Good Times | Moray Pringle | Good Times |
 
-_Updated 2026-10-25 06:25 UTC_
+_Updated 2026-10-25 12:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
