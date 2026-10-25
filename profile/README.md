@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Drunk in Love | LUNAX | Slap House Party |
 | greedy | Tate McRae | THINK LATER |
 
-_Updated 2026-10-25 12:21 UTC_
+_Updated 2026-10-25 18:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
