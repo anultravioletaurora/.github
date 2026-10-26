@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Replacements | Chromeo | Adult Contemporary |
-| Two of Us (Friendsnlovers, Pt. 2) | Chromeo | Adult Contemporary |
-| Friendsnlovers | Chromeo | Adult Contemporary |
-| A Cut Above | Chromeo | Adult Contemporary |
-| Words With You | Chromeo | Adult Contemporary |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| Haunting | Halsey | BADLANDS |
+| Drop Dead | Hunnygloss | Drop Dead |
 
-_Updated 2026-10-26 00:45 UTC_
+_Updated 2026-10-26 06:37 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
