@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Tears | FM-84 | Atlas |
+| Running in the Night | FM-84 feat. Ollie Wride | Atlas |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| Haunting | Halsey | BADLANDS |
-| Drop Dead | Hunnygloss | Drop Dead |
+| swordsman | Night Tapes | portals//polarities |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 
-_Updated 2026-10-26 06:37 UTC_
+_Updated 2026-10-26 13:50 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
