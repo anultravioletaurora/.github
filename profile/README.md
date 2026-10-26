@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tears | FM-84 | Atlas |
-| Running in the Night | FM-84 feat. Ollie Wride | Atlas |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| swordsman | Night Tapes | portals//polarities |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Voodoo? | L’Impératrice | Tako Tsubo |
+| U.S. Blues | Grateful Dead | 82-09-17 - Cumberland County Civic Center |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 
-_Updated 2026-10-26 13:50 UTC_
+_Updated 2026-10-26 18:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
