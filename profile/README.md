@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 2 Die 4 | Tove Lo | Dirt Femme |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Dani California | Red Hot Chili Peppers | Stadium Arcadium |
-| Drunk in Love | LUNAX | Slap House Party |
-| greedy | Tate McRae | THINK LATER |
+| Replacements | Chromeo | Adult Contemporary |
+| Two of Us (Friendsnlovers, Pt. 2) | Chromeo | Adult Contemporary |
+| Friendsnlovers | Chromeo | Adult Contemporary |
+| A Cut Above | Chromeo | Adult Contemporary |
+| Words With You | Chromeo | Adult Contemporary |
 
-_Updated 2026-10-25 18:17 UTC_
+_Updated 2026-10-26 00:45 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
