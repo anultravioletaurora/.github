@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| WAKE UP | Agnes | BEAUTIFUL MADNESS |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | BALENCIAGA COVERED EYES | Agnes | BEAUTIFUL MADNESS |
+| Remedy | Leony | Somewhere in Between |
+| Hollywood | Cherry Pools | Less Religion More Sex |
 
-_Updated 2026-10-27 06:28 UTC_
+_Updated 2026-10-27 12:25 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
