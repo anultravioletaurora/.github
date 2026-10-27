@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| WAKE UP | Agnes | BEAUTIFUL MADNESS |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | BALENCIAGA COVERED EYES | Agnes | BEAUTIFUL MADNESS |
+| Around the World (La La La La La) | ATC | Planet Pop |
 | Remedy | Leony | Somewhere in Between |
 | Hollywood | Cherry Pools | Less Religion More Sex |
 
-_Updated 2026-10-27 12:25 UTC_
+_Updated 2026-10-27 18:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
