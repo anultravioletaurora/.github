@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Monster in Paradise | GUNSHIP | UNICORN |
+| KiLL iT QUEEN | Ava Max | KiLL iT QUEEN |
+| KiLL iT QUEEN | Ava Max | KiLL iT QUEEN |
+| Substitute | The Who | Meaty Beaty Big and Bouncy |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| BALENCIAGA COVERED EYES | Agnes | BEAUTIFUL MADNESS |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Remedy | Leony | Somewhere in Between |
-| Hollywood | Cherry Pools | Less Religion More Sex |
 
-_Updated 2026-10-27 18:14 UTC_
+_Updated 2026-10-28 00:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
