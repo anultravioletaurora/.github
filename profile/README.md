@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP | UNICORN |
-| KiLL iT QUEEN | Ava Max | KiLL iT QUEEN |
-| KiLL iT QUEEN | Ava Max | KiLL iT QUEEN |
-| Substitute | The Who | Meaty Beaty Big and Bouncy |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Minute | Kim Petras | Feed the Beast |
+| Revelations | Kim Petras | Feed the Beast |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-10-28 12:18 UTC_
+_Updated 2026-10-28 18:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
