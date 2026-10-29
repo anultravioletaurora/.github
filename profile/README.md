@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lose Yourself | Eminem | Curtain Call: The Hits |
-| Drop Dead | Hunnygloss | Drop Dead |
-| BELLYDANCING | INJI | BELLYDANCING |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
+| Darkness for Dreams | GUNSHIP | UNICORN |
+| Ghost | GUNSHIP feat. Power Glove | UNICORN |
+| Weaponised Love | GUNSHIP | UNICORN |
+| Blood for the Blood God | GUNSHIP feat. HEALTH | UNICORN |
+| Doom Dance | GUNSHIP feat. Carpenter Brut & Gavin Rossdale | UNICORN |
 
-_Updated 2026-10-29 00:33 UTC_
+_Updated 2026-10-29 06:21 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
