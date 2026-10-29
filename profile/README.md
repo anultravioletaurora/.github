@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Nothing New (Francisco Ojeda remix) | The Strike | The Lost Years |
-| In This Time Apart | The Strike | The Lost Years |
-| Through the Silence | The Strike | The Lost Years |
+| swordsman | Night Tapes | portals//polarities |
+| Slow Down | Poolside | Pacific Standard Time |
+| Dance with Somebody | The Midnight | Dance With Somebody |
+| Close to You | Dayglow | Close to You |
+| Slow Song | The Knocks with Dragonette | HISTORY |
 
-_Updated 2026-10-29 12:18 UTC_
+_Updated 2026-10-29 18:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
