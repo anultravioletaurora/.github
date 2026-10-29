@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| DANCE… | Slayyyter | WOR$T GIRL IN AMERICA |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Minute | Kim Petras | Feed the Beast |
-| Revelations | Kim Petras | Feed the Beast |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Lose Yourself | Eminem | Curtain Call: The Hits |
+| Drop Dead | Hunnygloss | Drop Dead |
+| BELLYDANCING | INJI | BELLYDANCING |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
+| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
 
-_Updated 2026-10-28 18:15 UTC_
+_Updated 2026-10-29 00:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
