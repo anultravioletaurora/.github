@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Darkness for Dreams | GUNSHIP | UNICORN |
-| Ghost | GUNSHIP feat. Power Glove | UNICORN |
-| Weaponised Love | GUNSHIP | UNICORN |
-| Blood for the Blood God | GUNSHIP feat. HEALTH | UNICORN |
-| Doom Dance | GUNSHIP feat. Carpenter Brut & Gavin Rossdale | UNICORN |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Nothing New (Francisco Ojeda remix) | The Strike | The Lost Years |
+| In This Time Apart | The Strike | The Lost Years |
+| Through the Silence | The Strike | The Lost Years |
 
-_Updated 2026-10-29 06:21 UTC_
+_Updated 2026-10-29 12:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
