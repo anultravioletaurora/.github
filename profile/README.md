@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| swordsman | Night Tapes | portals//polarities |
-| Slow Down | Poolside | Pacific Standard Time |
-| Dance with Somebody | The Midnight | Dance With Somebody |
-| Close to You | Dayglow | Close to You |
-| Slow Song | The Knocks with Dragonette | HISTORY |
+| Blindside | Hunter Hunted | Ready for You |
+| Method Acting | Work Drugs | Method Acting |
+| thoughts i have while lying in bed | The Maine with Beach Weather | thoughts i have while lying in bed |
+| Easy Lover (Solo Version) | Ellie Goulding | Easy Lover (solo Version) |
+| Out of Time | Slayyyter | Erotic Electronic |
 
-_Updated 2026-10-29 18:15 UTC_
+_Updated 2026-10-30 00:33 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
