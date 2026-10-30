@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Séquences (Parcels remix) | L’Impératrice | Séquences (Remixes) |
-| Deeper | Valerie Broussard feat. Lindsey Stirling | Deeper |
 | Something Familiar | MAY‐A | ANALYSIS PARALYSIS |
-| Get Outta My Way | Kylie Minogue | Aphrodite |
-| Haunting | Halsey | BADLANDS |
+| True Blue | Jessie Frye | True Blue |
+| Amber | Makeup and Vanity Set | Darker Colors (Original Motion Picture Soundtrack) |
+| Séquences (Parcels remix) | L’Impératrice | Séquences (Remixes) |
+| Séquences (Parcels remix) | L’Impératrice | Séquences (Remixes) |
 
-_Updated 2026-10-30 06:20 UTC_
+_Updated 2026-10-30 12:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
