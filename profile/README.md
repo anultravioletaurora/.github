@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Out of Time | Slayyyter | Erotic Electronic |
-| swordsman | Night Tapes | portals//polarities |
-| ? | Nena | 99 Luftballons |
-| ? | Nena | 99 Luftballons |
-| Something Familiar | MAY‐A | ANALYSIS PARALYSIS |
+| Feel It All Around | Washed Out | Life of Leisure |
+| Playground | Steve Lacy | Apollo XXI |
+| Feel It All Around | Washed Out | Life of Leisure |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Fire | Sarah Engels | Fire |
 
-_Updated 2026-10-30 18:12 UTC_
+_Updated 2026-10-31 00:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
