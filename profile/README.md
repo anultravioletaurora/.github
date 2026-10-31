@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Feel It All Around | Washed Out | Life of Leisure |
-| Playground | Steve Lacy | Apollo XXI |
-| Feel It All Around | Washed Out | Life of Leisure |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Fire | Sarah Engels | Fire |
+| Infinite High | Panama Wedding | Into Focus |
+| Halfway to Heaven | Panama Wedding | Into Focus |
+| leave it all behind, Mike | Night Tapes | Night Tapes on Audiotree Live |
+| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
+| swordsman | Night Tapes | Night Tapes on Audiotree Live |
 
-_Updated 2026-10-31 00:27 UTC_
+_Updated 2026-10-31 06:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
