@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | Infinite High | Panama Wedding | Into Focus |
 | Halfway to Heaven | Panama Wedding | Into Focus |
-| leave it all behind, Mike | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
 
-_Updated 2026-10-31 06:15 UTC_
+_Updated 2026-10-31 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
