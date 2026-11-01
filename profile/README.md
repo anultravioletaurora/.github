@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Touch of Grey | Grateful Dead | In the Dark |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
-| Changes | Post Sex Nachos | Prima/vera |
-| Changes | Post Sex Nachos | Prima/vera |
-| Sunrise City | Sub-Radio | Sunrise City |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
+| Beyond Memory | NINA | Sleepwalking |
+| Sexxxtapes | Ellise | Sexxxtapes |
+| Change Your Heart or Die | The Midnight | Heroes |
 
-_Updated 2026-10-31 18:11 UTC_
+_Updated 2026-11-01 00:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
