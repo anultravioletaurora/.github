@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Exhibitionism | Rebecca Black | Age of the Exhibitionist |
-| Hot Wet Delirious | Rebecca Black | Age of the Exhibitionist |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Ghost | Ava Max | Diamonds & Dancefloors |
+| On Your Side (feat. Soren Bryce) | Penguin Prison & Soren Bryce | Turn It Up |
+| Follow the Light | Cory Wong & Dirty Loops | Turbo |
 
-_Updated 2026-11-02 12:17 UTC_
+_Updated 2026-11-02 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
