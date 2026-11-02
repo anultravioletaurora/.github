@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Ghost | Ava Max | Diamonds & Dancefloors |
 | Ghost | Ava Max | Diamonds & Dancefloors |
 | Hush Hush Baby (Oscillian remix) | Nina & Johan Agebjörn | Hush Hush Baby |
 | Hush Hush Baby | Nina & Johan Agebjörn | Hush Hush Baby |
-| The Way It Is | Goose | 2021-07-03: The Pines Music Park, Eau Claire, WI, USA |
-| Chemicals | Oliver feat. MNDR | Full Circle |
 
-_Updated 2026-11-01 18:11 UTC_
+_Updated 2026-11-02 00:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
