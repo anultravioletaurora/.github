@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Vampires | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 | Million Dollar Baby | Ava Max | Million Dollar Baby |
 | Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 | Contemporary Love | Rêve | Saturn Return |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-11-04 06:18 UTC_
+_Updated 2026-11-04 12:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
