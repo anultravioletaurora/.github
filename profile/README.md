@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| BM-247 01 INTERLUDE | Agnes | BEAUTIFUL MADNESS |
 | Mine O’ Mine | Aluna & Jayda G | Mine O’ Mine (Inner City remixes) |
-| Follow the Light | Cory Wong & Dirty Loops | Turbo |
-| Coming Back Around | Cory Wong feat. Cody Fry | Cory and the Wongnotes |
-| Better | Cody Fry, Cory Wong & Dynamo | 08.26.18 |
+| Right Now | NewJeans | Supernatural |
+| Supernatural | NewJeans | Supernatural |
+| Right Now | NewJeans | Supernatural |
+| Air Book | Tanda | MF DOOM X TATSURO YAMASHITA |
 
-_Updated 2026-11-05 12:15 UTC_
+_Updated 2026-11-05 18:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
