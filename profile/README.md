@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Born to Live | NINA | Sleepwalking |
-| Beyond Memory | NINA | Sleepwalking |
-| Strangest Feeling | Jessie Ware | Strangest Feeling |
-| Magic | Kylie | DISCO |
-| Bit the Bullet | Eileen Alister | Honeymoon In A Motel |
+| ready to move | Yuna | THE VALOUR HOUR |
+| wasteland | Yuna | THE VALOUR HOUR |
+| sky is red | Yuna | THE VALOUR HOUR |
+| believer | Yuna | THE VALOUR HOUR |
+| Naked | Ava Max | Heaven & Hell |
 
-_Updated 2026-11-04 18:12 UTC_
+_Updated 2026-11-05 00:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
