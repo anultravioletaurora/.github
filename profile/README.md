@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Middle Ground | Kid Bloom | Highway |
-| Have U Seen Her | Kid Bloom | Highway |
-| Cowboy | Kid Bloom | Highway |
-| Like I Never Left | Kid Bloom | Highway |
-| Shaky Knees | Kid Bloom | Shaky Knees |
+| Retronyx | FM‐84 | Overdrive |
+| Luminex | FM‐84 | Overdrive |
+| Astrosyn | FM‐84 | Overdrive |
+| Halovibe | FM‐84 | Overdrive |
+| Neosurge | FM‐84 | Overdrive |
 
-_Updated 2026-11-06 12:16 UTC_
+_Updated 2026-11-06 18:14 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
