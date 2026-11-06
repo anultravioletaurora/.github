@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
-| ready to move | Yuna | THE VALOUR HOUR |
-| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
-| Great Slider | Tanda | MF DOOM X TATSURO YAMASHITA |
-| Windy Ladies | Tanda | MF DOOM X TATSURO YAMASHITA |
+| Middle Ground | Kid Bloom | Highway |
+| Have U Seen Her | Kid Bloom | Highway |
+| Cowboy | Kid Bloom | Highway |
+| Like I Never Left | Kid Bloom | Highway |
+| Shaky Knees | Kid Bloom | Shaky Knees |
 
-_Updated 2026-11-06 00:28 UTC_
+_Updated 2026-11-06 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
