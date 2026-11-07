@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Retronyx | FM‐84 | Overdrive |
-| Luminex | FM‐84 | Overdrive |
-| Astrosyn | FM‐84 | Overdrive |
-| Halovibe | FM‐84 | Overdrive |
-| Neosurge | FM‐84 | Overdrive |
+| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
+| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
+| First Rate Town | Good Kid | Good Kid 3 |
+| Osmosis | Good Kid | Good Kid 3 |
+| Mimi's Delivery Service | Good Kid | Good Kid 3 |
 
-_Updated 2026-11-06 18:14 UTC_
+_Updated 2026-11-07 00:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
