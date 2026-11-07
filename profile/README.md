@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
-| Melody Go Round | Tanda | MF DOOM X TATSURO YAMASHITA |
-| First Rate Town | Good Kid | Good Kid 3 |
-| Osmosis | Good Kid | Good Kid 3 |
-| Mimi's Delivery Service | Good Kid | Good Kid 3 |
+| And the Hero Will Drown | Story of the Year | Page Avenue |
+| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Give It All | Rise Against | Siren Song of the Counter Culture |
+| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
 
-_Updated 2026-11-07 12:14 UTC_
+_Updated 2026-11-07 18:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
