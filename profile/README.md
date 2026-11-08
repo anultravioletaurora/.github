@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Chemicals | Oliver feat. MNDR | Full Circle |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| A Matter of Time | Ollie Wride | The Pressure Point |
+| BITCH MODE | Baer | BITCH MODE |
+| A Matter of Time | Ollie Wride | The Pressure Point |
+| aha | City Girl | aha |
 
-_Updated 2026-11-08 00:30 UTC_
+_Updated 2026-11-08 06:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
