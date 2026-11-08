@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
-| A Matter of Time | Ollie Wride | The Pressure Point |
-| BITCH MODE | Baer | BITCH MODE |
-| A Matter of Time | Ollie Wride | The Pressure Point |
-| aha | City Girl | aha |
+| Silenced by the Night | Keane | Strangeland |
+| I Won't Dance With You | Sophie Ellis‐Bextor | Shoot From the Hip |
+| Keep on keeping on | Sofie Royer | before/after |
+| Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
+| Bad Behavior | The Maine | Lovely Little Lonely |
 
-_Updated 2026-11-08 12:13 UTC_
+_Updated 2026-11-08 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
