@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| And the Hero Will Drown | Story of the Year | Page Avenue |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| Give It All | Rise Against | Siren Song of the Counter Culture |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Chemicals | Oliver feat. MNDR | Full Circle |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 
-_Updated 2026-11-07 18:10 UTC_
+_Updated 2026-11-08 00:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
