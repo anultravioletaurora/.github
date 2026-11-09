@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Tonight | VICTORS | Tonight |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Around the World (La La La La La) | ATC | Planet Pop |
-| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
-| Needs | Tinashe | BB/ANG3L |
+| Give It All | Rise Against | Siren Song of the Counter Culture |
+| And the Hero Will Drown | Story of the Year | Page Avenue |
+| A Matter of Time | Ollie Wride | The Pressure Point |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Panama | Van Halen | 1984 |
 
-_Updated 2026-11-09 00:31 UTC_
+_Updated 2026-11-09 06:24 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
