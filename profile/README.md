@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Silenced by the Night | Keane | Strangeland |
-| I Won't Dance With You | Sophie Ellis‐Bextor | Shoot From the Hip |
-| Keep on keeping on | Sofie Royer | before/after |
-| Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
-| Bad Behavior | The Maine | Lovely Little Lonely |
+| Tonight | VICTORS | Tonight |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Around the World (La La La La La) | ATC | Planet Pop |
+| Drop Dead Gorgeous | Princess Nokia | Blue Velvet |
+| Needs | Tinashe | BB/ANG3L |
 
-_Updated 2026-11-08 18:11 UTC_
+_Updated 2026-11-09 00:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
