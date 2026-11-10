@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| love me true | MisterWives | SUPERBLOOM |
+| Dancing in the Street | Joe Russo's Almost Dead | 2025/11/02 Live Oak, FL |
 | Tongue | Rêve | Saturn Return |
 | Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Jason | The Midnight | Endless Summer (5 Year Anniversary Edition) |
 
-_Updated 2026-11-10 12:15 UTC_
+_Updated 2026-11-10 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
