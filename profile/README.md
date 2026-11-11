@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Fire and Brimstone | Joe Russo's Almost Dead | 2025/11/02 Live Oak, FL |
+| Slipknot! | Joe Russo's Almost Dead | 2025/11/02 Live Oak, FL |
+| Help On The Way | Joe Russo's Almost Dead | 2025/11/02 Live Oak, FL |
 | Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
 | love me true | MisterWives | SUPERBLOOM |
-| Dancing in the Street | Joe Russo's Almost Dead | 2025/11/02 Live Oak, FL |
-| Tongue | Rêve | Saturn Return |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 
-_Updated 2026-11-11 12:16 UTC_
+_Updated 2026-11-11 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
