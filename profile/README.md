@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| One That Got Away | MUNA | One That Got Away |
+| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
 | Around the World (La La La La La) | ATC | Planet Pop |
-| One That Got Away | MUNA | One That Got Away |
+| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
+| Love Without Echo | Aiza Mckay | Love Without Echo |
 | YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
 
-_Updated 2026-11-12 12:16 UTC_
+_Updated 2026-11-12 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
