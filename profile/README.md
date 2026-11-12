@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
 | love me true | MisterWives | SUPERBLOOM |
 
-_Updated 2026-11-11 18:11 UTC_
+_Updated 2026-11-12 00:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
