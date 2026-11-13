@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
 | Blood in Your Eyes | [unknown] | Blood in Your Eyes |
 | Blood in Your Eyes | [unknown] | Blood in Your Eyes |
 | Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
 | x2 | Anne‐Marie | Therapy |
-| BITCH MODE | Baer | BITCH MODE |
 
-_Updated 2026-11-13 06:17 UTC_
+_Updated 2026-11-13 12:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
