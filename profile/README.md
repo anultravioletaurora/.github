@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
-| YES GODDD | Slayyyter | WOR$T GIRL IN AMERICA |
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
+| On the Radio | Deco | Dreamhouse |
+| Make a Video | Deco | Dreamhouse |
+| Tiger Blood | Deco | Dreamhouse |
+| Fever Dream | Deco | Dreamhouse |
+| You're So Beautiful | Deco | Dreamhouse |
 
-_Updated 2026-11-13 18:11 UTC_
+_Updated 2026-11-14 00:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
