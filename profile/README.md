@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Fever Dream | Deco | Dreamhouse |
 | You're So Beautiful | Deco | Dreamhouse |
 
-_Updated 2026-11-14 06:15 UTC_
+_Updated 2026-11-14 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
