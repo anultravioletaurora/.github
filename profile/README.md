@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| On the Radio | Deco | Dreamhouse |
-| Make a Video | Deco | Dreamhouse |
-| Tiger Blood | Deco | Dreamhouse |
-| Fever Dream | Deco | Dreamhouse |
-| You're So Beautiful | Deco | Dreamhouse |
+| hey boyyy | Slayyyter | hey boyyy |
+| Rae Sparkle | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
+| One That Got Away | MUNA | One That Got Away |
+| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
+| Be Sweet | Japanese Breakfast | Jubilee |
 
-_Updated 2026-11-14 12:13 UTC_
+_Updated 2026-11-14 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
