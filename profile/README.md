@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| hey boyyy | Slayyyter | hey boyyy |
-| Taste Like Venom | GUNSHIP | UNICORN |
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
-| ready to move | Yuna | THE VALOUR HOUR |
-| Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
+| Sweet but Psycho | Ava Max | Heaven & Hell |
+| Creatures | Goose | 2021-11-21: Mission Ballroom, Denver, CO, USA |
+| Sweet but Psycho | Ava Max | Heaven & Hell |
+| Sweet but Psycho | Ava Max | Heaven & Hell |
+| Sweet but Psycho | Ava Max | Heaven & Hell |
 
-_Updated 2026-11-15 12:13 UTC_
+_Updated 2026-11-15 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
