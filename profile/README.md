@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Vomitspit Daydream | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
-| Change the Love Talkin (Honey) | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
-| Air Book | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
-| Great Slider | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
-| Rae Sparkle | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
+| hey boyyy | Slayyyter | hey boyyy |
+| Taste Like Venom | GUNSHIP | UNICORN |
+| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
+| ready to move | Yuna | THE VALOUR HOUR |
+| Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
 
-_Updated 2026-11-15 00:31 UTC_
+_Updated 2026-11-15 06:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
