@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| hey boyyy | Slayyyter | hey boyyy |
+| Vomitspit Daydream | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
+| Change the Love Talkin (Honey) | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
+| Air Book | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
+| Great Slider | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
 | Rae Sparkle | Tanda | MF DOOM X TATSURO YAMASHITA [Special Edition] |
-| One That Got Away | MUNA | One That Got Away |
-| Blood in Your Eyes | [unknown] | Blood in Your Eyes |
-| Be Sweet | Japanese Breakfast | Jubilee |
 
-_Updated 2026-11-14 18:11 UTC_
+_Updated 2026-11-15 00:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
