@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Truth in the Air | Rubblebucket | Earth Worship |
+| Elephant | Tame Impala | Lonerism |
 | Sweet but Psycho | Ava Max | Heaven & Hell |
 | Creatures | Goose | 2021-11-21: Mission Ballroom, Denver, CO, USA |
 | Sweet but Psycho | Ava Max | Heaven & Hell |
-| Sweet but Psycho | Ava Max | Heaven & Hell |
-| Sweet but Psycho | Ava Max | Heaven & Hell |
 
-_Updated 2026-11-15 18:11 UTC_
+_Updated 2026-11-16 00:34 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
