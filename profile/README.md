@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| 10/10 | Jae Stephens | TOTAL SELLOUT |
-| That’s My Baby | Jae Stephens | TOTAL SELLOUT |
-| Afterbody | Jae Stephens | TOTAL SELLOUT |
-| Him&Him&Him | Jae Stephens | TOTAL SELLOUT |
-| WET | Jae Stephens | TOTAL SELLOUT |
+| 3AM | DRAMA | Don't Wait Up |
+| Gemini Feed | BANKS | The Altar |
+| Back to Life | HUGEL | Back to Life |
+| Thinking of Yesterday | Kaleena Zanders & NO BILLS | Anything Goes |
+| R U Mine | D.O.D, MALARKEY & Marlo Rex | Everything, Briefly |
 
-_Updated 2026-11-17 00:28 UTC_
+_Updated 2026-11-17 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
