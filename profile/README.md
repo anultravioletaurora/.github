@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Power | Telenova | Time Is a Flower |
-| Love Invention | Alison Goldfrapp | The Love Invention |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
-| R U Mine | D.O.D, MALARKEY & Marlo Rex | Everything, Briefly |
-| NICE TO MEET YA | INJI feat. Flyana Boss | WE GOOD |
+| I F*cking Love You | Zolita | I F*cking Love You |
+| Here Comes the Pain | Slayer | God Hates Us All |
+| One in a Million | Leony | Oldschool Love |
+| Bleeding Mascara | Atreyu | The Curse |
+| Salt in the Wound | NERIAH | Salt in the Wound |
 
-_Updated 2026-11-18 00:28 UTC_
+_Updated 2026-11-18 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
