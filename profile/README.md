@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Isolation | Arcade Beach | Music for Night Drives |
+| Nightfall | Arcade Beach | Music for Night Drives |
+| 3AM | DRAMA | Don't Wait Up |
 | Run Away With Me | Carly Rae Jepsen | E•MO•TION |
 | NICE TO MEET YA | INJI feat. Flyana Boss | WE GOOD |
-| I F*cking Love You | Zolita | I F*cking Love You |
-| Here Comes the Pain | Slayer | God Hates Us All |
-| One in a Million | Leony | Oldschool Love |
 
-_Updated 2026-11-18 12:15 UTC_
+_Updated 2026-11-18 18:11 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
