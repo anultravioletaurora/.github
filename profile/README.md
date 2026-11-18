@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Run Away With Me | Carly Rae Jepsen | E•MO•TION |
+| NICE TO MEET YA | INJI feat. Flyana Boss | WE GOOD |
 | I F*cking Love You | Zolita | I F*cking Love You |
 | Here Comes the Pain | Slayer | God Hates Us All |
 | One in a Million | Leony | Oldschool Love |
-| Bleeding Mascara | Atreyu | The Curse |
-| Salt in the Wound | NERIAH | Salt in the Wound |
 
-_Updated 2026-11-18 06:18 UTC_
+_Updated 2026-11-18 12:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
