@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| hey boyyy | Slayyyter | hey boyyy |
-| Silhouettes (feat. Poppy Baskcomb) | Sonny Fodera feat. Poppy Baskcomb | Wide Awake |
-| MADELINE | INJI | LFG |
-| Exhibitionism | Rebecca Black | Age of the Exhibitionist |
-| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Power | Telenova | Time Is a Flower |
+| Love Invention | Alison Goldfrapp | The Love Invention |
+| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| R U Mine | D.O.D, MALARKEY & Marlo Rex | Everything, Briefly |
+| NICE TO MEET YA | INJI feat. Flyana Boss | WE GOOD |
 
-_Updated 2026-11-17 18:12 UTC_
+_Updated 2026-11-18 00:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
