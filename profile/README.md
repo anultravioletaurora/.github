@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Love of Your Life | RAYE | Love of Your Life |
-| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
-| cant get u out of my head | Banshee | FAIRY PHONK |
-| SIGN IT | Agnes | BEAUTIFUL MADNESS |
+| Hot & Sexy | Zara Larsson & Tyla | Midnight Sun: Girls Trip |
+| hey boyyy | Slayyyter | hey boyyy |
+| Taste Like Venom | GUNSHIP | UNICORN |
+| Dirty on the Dancefloor | Stefania & HUTS | Dirty on the Dancefloor |
+| Ain't Stoppin' for Nothin' | TWRP | Ain't Stoppin' For Nothin' |
 
-_Updated 2026-11-19 12:15 UTC_
+_Updated 2026-11-19 18:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
