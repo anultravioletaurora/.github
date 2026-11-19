@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Haterbooth | FLO | THERAPY AT THE CLUB |
-| Don’t Break Her Heart | FLO | THERAPY AT THE CLUB |
-| Miss u Missing me | FLO | THERAPY AT THE CLUB |
-| Floating | FLO | THERAPY AT THE CLUB |
-| Sex in Peace | FLO ft. kwn | THERAPY AT THE CLUB |
+| Love of Your Life | RAYE | Love of Your Life |
+| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
+| cant get u out of my head | Banshee | FAIRY PHONK |
+| SIGN IT | Agnes | BEAUTIFUL MADNESS |
 
-_Updated 2026-11-19 00:28 UTC_
+_Updated 2026-11-19 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
