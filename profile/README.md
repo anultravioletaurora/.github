@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hot & Sexy | Zara Larsson & Tyla | Midnight Sun: Girls Trip |
-| hey boyyy | Slayyyter | hey boyyy |
-| Taste Like Venom | GUNSHIP | UNICORN |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Remedy | Leony | Somewhere in Between |
 | Dirty on the Dancefloor | Stefania & HUTS | Dirty on the Dancefloor |
-| Ain't Stoppin' for Nothin' | TWRP | Ain't Stoppin' For Nothin' |
+| Hot & Sexy | Zara Larsson & Tyla | Midnight Sun: Girls Trip |
 
-_Updated 2026-11-20 12:15 UTC_
+_Updated 2026-11-20 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
