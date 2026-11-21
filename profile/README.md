@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
-| Remedy | Leony | Somewhere in Between |
-| Dirty on the Dancefloor | Stefania & HUTS | Dirty on the Dancefloor |
-| Hot & Sexy | Zara Larsson & Tyla | Midnight Sun: Girls Trip |
+| Radio Galactica (Outro) | Retro | Radio Galactica |
+| Jade Planet | Retro | Radio Galactica |
+| Orbital Sapphirezz | Retro | Radio Galactica |
+| Hypersonic Wave Jumps | Retro | Radio Galactica |
+| Althea | Grateful Dead | 81-12-03 - Dane County Coliseum |
 
-_Updated 2026-11-20 18:12 UTC_
+_Updated 2026-11-21 00:27 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
