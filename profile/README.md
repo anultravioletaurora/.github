@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Voice in the Silence | MUTEMATH | Voice in the Silence |
+| WEIGHT OFF | KAYTRANADA feat. BADBADNOTGOOD | 99.9% |
+| Bodies (Tycho remix) | The Knocks & MUNA | HISTORY |
+| Toast | Pond | 9 |
 | Sooner or Later | MUTEMATH | Voice in the Silence |
-| Radio Galactica (Outro) | Retro | Radio Galactica |
-| Jade Planet | Retro | Radio Galactica |
-| Orbital Sapphirezz | Retro | Radio Galactica |
+| Voice in the Silence | MUTEMATH | Voice in the Silence |
 
-_Updated 2026-11-21 06:16 UTC_
+_Updated 2026-11-21 12:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
