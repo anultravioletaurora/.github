@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| WEIGHT OFF | KAYTRANADA feat. BADBADNOTGOOD | 99.9% |
-| Bodies (Tycho remix) | The Knocks & MUNA | HISTORY |
-| Toast | Pond | 9 |
-| Sooner or Later | MUTEMATH | Voice in the Silence |
-| Voice in the Silence | MUTEMATH | Voice in the Silence |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Automatic | Satin Jackets feat. Panama | Solar Nights |
+| Get Right | Kid Bloom | Shaky Knees |
 
-_Updated 2026-11-21 12:13 UTC_
+_Updated 2026-11-21 18:10 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
