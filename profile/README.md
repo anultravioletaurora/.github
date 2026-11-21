@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Voice in the Silence | MUTEMATH | Voice in the Silence |
+| Sooner or Later | MUTEMATH | Voice in the Silence |
 | Radio Galactica (Outro) | Retro | Radio Galactica |
 | Jade Planet | Retro | Radio Galactica |
 | Orbital Sapphirezz | Retro | Radio Galactica |
-| Hypersonic Wave Jumps | Retro | Radio Galactica |
-| Althea | Grateful Dead | 81-12-03 - Dane County Coliseum |
 
-_Updated 2026-11-21 00:27 UTC_
+_Updated 2026-11-21 06:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
