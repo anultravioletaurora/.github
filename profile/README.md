@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
-| Automatic | Satin Jackets feat. Panama | Solar Nights |
-| Get Right | Kid Bloom | Shaky Knees |
+| Lonely | ILLENIUM & Chandler Leighton | ASCEND |
+| Nothing | Depeche Mode | Music for the Masses |
+| Shy Boy | Carly Rae Jepsen | Shy Boy |
+| No One Dies From Love (extended) | Tove Lo | Dirt Femme |
+| How Long | Tove Lo | Dirt Femme |
 
-_Updated 2026-11-21 18:10 UTC_
+_Updated 2026-11-22 00:30 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
