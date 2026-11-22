@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Lonely | ILLENIUM & Chandler Leighton | ASCEND |
-| Nothing | Depeche Mode | Music for the Masses |
-| Shy Boy | Carly Rae Jepsen | Shy Boy |
-| No One Dies From Love (extended) | Tove Lo | Dirt Femme |
-| How Long | Tove Lo | Dirt Femme |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Love Me | Justin Bieber | My World |
+| Beyond Memory | NINA | Beyond Memory |
+| Kings & Queens | Ava Max | A Sweet but Psycho Halloween |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
 
-_Updated 2026-11-22 00:30 UTC_
+_Updated 2026-11-22 06:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
