@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Love Me | Justin Bieber | My World |
-| Beyond Memory | NINA | Beyond Memory |
-| Kings & Queens | Ava Max | A Sweet but Psycho Halloween |
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| MADELINE | INJI | LFG |
+| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
+| x2 | Anne‐Marie | Therapy |
+| Dirty on the Dancefloor | Stefania & HUTS | Dirty on the Dancefloor |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
 
-_Updated 2026-11-23 06:25 UTC_
+_Updated 2026-11-23 12:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
