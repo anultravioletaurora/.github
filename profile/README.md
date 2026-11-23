@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Kings & Queens | Ava Max | A Sweet but Psycho Halloween |
 | I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
 
-_Updated 2026-11-22 18:11 UTC_
+_Updated 2026-11-23 00:31 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
