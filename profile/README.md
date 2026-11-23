@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| MADELINE | INJI | LFG |
-| Hush Baby, Hurry Slowly | Sigrid | There’s Always More That I Could Say |
-| x2 | Anne‐Marie | Therapy |
-| Dirty on the Dancefloor | Stefania & HUTS | Dirty on the Dancefloor |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Tongue | Rêve | Saturn Return |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 
-_Updated 2026-11-23 12:15 UTC_
+_Updated 2026-11-23 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
