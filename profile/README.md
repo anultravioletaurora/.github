@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Carbon Dream | Darius feat. E^ST | Utopia |
+| Move | BANKS | Off With Her Head |
+| I Wanna | The All‐American Rejects | When the World Comes Down |
+| x2 | Anne‐Marie | Therapy |
 | Run Away With Me | Carly Rae Jepsen | E•MO•TION |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Rock My Body | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
-| Rock My Body (LUNAX remix) | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
-| Rock My Body (LUNAX remix) | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
 
-_Updated 2026-11-24 00:26 UTC_
+_Updated 2026-11-24 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
