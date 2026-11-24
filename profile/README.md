@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Tongue | Rêve | Saturn Return |
-| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
-| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Run Away With Me | Carly Rae Jepsen | E•MO•TION |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Rock My Body | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
+| Rock My Body (LUNAX remix) | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
+| Rock My Body (LUNAX remix) | R3HAB, INNA & Sash! | Rock My Body (The Remixes) |
 
-_Updated 2026-11-23 18:12 UTC_
+_Updated 2026-11-24 00:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
