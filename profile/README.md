@@ -31,7 +31,7 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | x2 | Anne‐Marie | Therapy |
 | Run Away With Me | Carly Rae Jepsen | E•MO•TION |
 
-_Updated 2026-11-24 06:18 UTC_
+_Updated 2026-11-24 12:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
