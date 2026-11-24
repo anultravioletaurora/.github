@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Carbon Dream | Darius feat. E^ST | Utopia |
-| Move | BANKS | Off With Her Head |
-| I Wanna | The All‐American Rejects | When the World Comes Down |
-| x2 | Anne‐Marie | Therapy |
-| Run Away With Me | Carly Rae Jepsen | E•MO•TION |
+| Can’t Go Back | Prizm | Can’t Go Back |
+| Change Your Heart or Die | The Midnight | Heroes |
+| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
+| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
 
-_Updated 2026-11-24 12:16 UTC_
+_Updated 2026-11-24 18:13 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
