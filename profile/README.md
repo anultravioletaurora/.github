@@ -26,12 +26,12 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 | Track | Artist | Album |
 |-------|--------|-------|
 | No One Dies From Love (extended) | Tove Lo | Dirt Femme |
+| Two Way Street (Aeroplane remix) | Kimbra | Two Way Street |
+| No One Dies From Love (extended) | Tove Lo | Dirt Femme |
 | Heroes | The Midnight | Heroes |
 | Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
-| Lose My Mind | Jai Wolf feat. Mr Gabriel | The Cure to Loneliness |
-| Great Pumpkin Waltz | Vince Guaraldi Trio | Peanuts Greatest Hits |
 
-_Updated 2026-11-25 00:28 UTC_
+_Updated 2026-11-25 06:18 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
