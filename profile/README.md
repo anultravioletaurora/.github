@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Can’t Go Back | Prizm | Can’t Go Back |
-| Change Your Heart or Die | The Midnight | Heroes |
+| No One Dies From Love (extended) | Tove Lo | Dirt Femme |
+| Heroes | The Midnight | Heroes |
 | Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
-| Sad Girls | Bebe Rexha feat. David Guetta | DIRTY BLONDE |
+| Lose My Mind | Jai Wolf feat. Mr Gabriel | The Cure to Loneliness |
+| Great Pumpkin Waltz | Vince Guaraldi Trio | Peanuts Greatest Hits |
 
-_Updated 2026-11-24 18:13 UTC_
+_Updated 2026-11-25 00:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
