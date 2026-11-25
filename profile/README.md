@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Taste Like Venom | GUNSHIP | UNICORN |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Flower in a Hurricane | Justice feat. Tame Impala, SZA & King Gizzard & the Lizard Wizard | Flower in a Hurricane (From GTAVI) |
 | No One Dies From Love (extended) | Tove Lo | Dirt Femme |
 | Two Way Street (Aeroplane remix) | Kimbra | Two Way Street |
-| No One Dies From Love (extended) | Tove Lo | Dirt Femme |
-| Heroes | The Midnight | Heroes |
-| Two‐Lane Blacktop | Rob Zombie | Past, Present & Future |
 
-_Updated 2026-11-25 06:18 UTC_
+_Updated 2026-11-25 12:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
