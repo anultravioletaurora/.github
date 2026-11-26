@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| storm | Night Tapes | Night Tapes on Audiotree Live |
-| leave it all behind, Mike | Night Tapes | Night Tapes on Audiotree Live |
-| patience (waiting for the setting sun) | Night Tapes | Night Tapes on Audiotree Live |
-| swordsman | Night Tapes | Night Tapes on Audiotree Live |
-| Worlds Collide (Grafix remix) | Koven | Butterfly Effect |
+| Brown Eyed Women | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
+| Jam | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
+| drifting | Night Tapes | assisted memories |
+| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
+| Summer Nights | LUNAX feat. myne | Forever Fighting |
 
-_Updated 2026-11-26 06:18 UTC_
+_Updated 2026-11-26 12:15 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
