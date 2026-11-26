@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Brown Eyed Women | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
-| Jam | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
-| drifting | Night Tapes | assisted memories |
-| Play Destroy | Poppy feat. Grimes | Am I a Girl? |
-| Summer Nights | LUNAX feat. myne | Forever Fighting |
+| Çike Çike | Bebe Rexha | DIRTY BLONDE |
+| Heart Wants What It Wants | Bebe Rexha | Bebe |
+| Hollywood | Cherry Pools | Less Religion More Sex |
+| Silenced by the Night | Keane | Strangeland |
+| New Minglewood Blues | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
 
-_Updated 2026-11-26 12:15 UTC_
+_Updated 2026-11-26 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
