@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Stay the Night | Last Heroes & Dyson | Atmosphere |
-| Why Oh Why (Wicked Kid radio edit) | ATC | Why Oh Why |
-| Disco at the Strip Club | Rêve | Saturn Return |
-| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
-| Big Stick | MUNA | Dancing on the Wall |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| Dreams | Scary Pockets feat. Elise Trouw | Cycles |
+| Radio | Ollie Wride feat. The American English | The Pressure Point |
+| Light Up | Koven | Butterfly Effect |
+| Out of Time | Slayyyter | Erotic Electronic |
 
-_Updated 2026-11-27 12:16 UTC_
+_Updated 2026-11-27 18:12 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
