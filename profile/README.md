@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
+| Stay the Night | Last Heroes & Dyson | Atmosphere |
+| Why Oh Why (Wicked Kid radio edit) | ATC | Why Oh Why |
+| Disco at the Strip Club | Rêve | Saturn Return |
 | My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | Big Stick | MUNA | Dancing on the Wall |
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
-| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 
-_Updated 2026-11-27 06:18 UTC_
+_Updated 2026-11-27 12:16 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
