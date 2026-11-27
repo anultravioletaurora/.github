@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Çike Çike | Bebe Rexha | DIRTY BLONDE |
-| Heart Wants What It Wants | Bebe Rexha | Bebe |
-| Hollywood | Cherry Pools | Less Religion More Sex |
-| Silenced by the Night | Keane | Strangeland |
-| New Minglewood Blues | Joe Russo's Almost Dead | 2019/11/25 Brooklyn, NY |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
+| Big Stick | MUNA | Dancing on the Wall |
+| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
+| I Hate Your Ex-Girlfriend | BANKS feat. Doechii | Off With Her Head |
+| Monster in Paradise | GUNSHIP feat. Milkie Way, Dave Lombardo, Tyler Bates | UNICORN |
 
-_Updated 2026-11-26 18:12 UTC_
+_Updated 2026-11-27 00:28 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
