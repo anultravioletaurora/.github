@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| Hot Wet Delirious | Rebecca Black | Hot Wet Delirious |
-| Dreams | Scary Pockets feat. Elise Trouw | Cycles |
-| Radio | Ollie Wride feat. The American English | The Pressure Point |
-| Light Up | Koven | Butterfly Effect |
-| Out of Time | Slayyyter | Erotic Electronic |
+| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
+| Break the Fever | MUTEMATH | Play Dead |
+| Tonight Is the Night | Outasight | Tonight Is the Night |
+| Can’t Get You Out of My Head | Kylie | Fever |
+| Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-11-27 18:12 UTC_
+_Updated 2026-11-28 00:26 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
