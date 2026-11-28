@@ -25,13 +25,13 @@ _A high-performance audio player library for React Native, powered by [Nitro Mod
 <!-- LISTENBRAINZ:START -->
 | Track | Artist | Album |
 |-------|--------|-------|
-| I’m in Love With You | The 1975 | Being Funny in a Foreign Language |
-| Break the Fever | MUTEMATH | Play Dead |
-| Tonight Is the Night | Outasight | Tonight Is the Night |
-| Can’t Get You Out of My Head | Kylie | Fever |
+| Taste Like Venom | GUNSHIP | UNICORN |
+| Blood in Your Eyes | Tove Lo | Blood in Your Eyes |
+| Bitter Sweet Symphony | Deco | Bitter Sweet Symphony |
+| My Head & My Heart (Claptone remix) | Ava Max | My Head and My Heart (Claptone remix) |
 | Disco at the Strip Club | Rêve | Saturn Return |
 
-_Updated 2026-11-28 00:26 UTC_
+_Updated 2026-11-28 06:17 UTC_
 <!-- LISTENBRAINZ:END -->
 
 _Powered by [Listenbrainz](https://listenbrainz.org/user/anultravioletaurora)_
